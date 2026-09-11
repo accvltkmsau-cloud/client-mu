@@ -1,0 +1,32 @@
+
+=== Parsing BMD file, size=30016 bytes ===
+File size: 30016 bytes
+First 64 bytes (hex): 41 72 6D 6F 72 43 6C 61 73 73 30 32 2E 53 4D 44 
+                       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+                       01 00 33 00 01 00 BB 00 CA 00 8A 00 2B 01 00 00 
+                       11 00 71 03 9B B1 08 41 F7 FE 25 C1 7D 22 DC B7 
+                       
+
+=== Parsing BMD file, size=30016 bytes ===
+File size: 30016 bytes
+First 64 bytes (hex): 41 72 6D 6F 72 43 6C 61 73 73 30 32 2E 53 4D 44 
+                       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+                       01 00 33 00 01 00 BB 00 CA 00 8A 00 2B 01 00 00 
+                       11 00 71 03 9B B1 08 41 F7 FE 25 C1 7D 22 DC B7 
+                       
+
+=== Parsing BMD file, size=30016 bytes ===
+File size: 30016 bytes
+First 64 bytes (hex): 41 72 6D 6F 72 43 6C 61 73 73 30 32 2E 53 4D 44 
+                       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+                       01 00 33 00 01 00 BB 00 CA 00 8A 00 2B 01 00 00 
+                       11 00 71 03 9B B1 08 41 F7 FE 25 C1 7D 22 DC B7 
+                       
+
+=== Parsing BMD file, size=37252 bytes ===
+File size: 37252 bytes
+First 64 bytes (hex): 41 72 6D 6F 72 43 6C 61 73 73 30 33 2E 53 4D 44 
+                       00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+                       01 00 33 00 01 00 E1 00 E7 00 B6 00 84 01 00 00 
+                       19 00 6B 03 B6 4E 21 41 38 F8 1C BF 13 E7 85 BF 
+                       
