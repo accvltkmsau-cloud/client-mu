@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Emojis>
+  <!-- id : trùng tên enum hoặc đặt “auto” để tự cấp phát tăng dần
+       key : chuỗi trong chat → icon (ví dụ :)) )
+       path: đường dẫn gif (có thể tương đối tới EXE, data, Data…)
+       size: pixel chiều cao khi vẽ (rộng = cao, có thể override per-key)
+  -->
+  <Emoji id="angry" 			key=":angry:" 				path="Interface\emoji\angry.gif" size="20" />
+  <Emoji id="anguished" 		key=":D:" 					path="Interface\emoji\anguished.gif" size="20" />
+  <Emoji id="bawling" 			key=":bawling:" 			path="Interface\emoji\bawling.gif" size="20" />
+  <Emoji id="bee" 				key=":bee:" 				path="Interface\emoji\bee.gif" size="20" />
+  <Emoji id="blush" 			key=":3" 					path="Interface\emoji\blush.gif" size="20" />
+  <Emoji id="bow" 				key=":bow:" 				path="Interface\emoji\bow.gif" size="20" />
+  <Emoji id="bring_it" 			key=":bring_it:" 			path="Interface\emoji\bring_it.gif" size="20" />
+  <Emoji id="chicken" 			key="ga" 					path="Interface\emoji\chicken.gif" size="20" />
+  <Emoji id="clap" 				key=":clap:" 				path="Interface\emoji\clap.gif" size="20" />
+  <Emoji id="coffee" 			key=":coffee:" 				path="Interface\emoji\coffee.gif" size="20" />
+  <Emoji id="confounded" 		key=":s" 					path="Interface\emoji\confounded.gif" size="20" />
+  <Emoji id="confused" 			key=":\" 					path="Interface\emoji\confused.gif" size="20" />
+  <Emoji id="cow" 				key=":cow:" 				path="Interface\emoji\cow.gif" size="20" />
+  <Emoji id="cowboy" 			key=":cowboy:" 				path="Interface\emoji\cowboy.gif" size="20" />
+  <Emoji id="cry" 				key=":'(" 					path="Interface\emoji\cry.gif" size="20" />
+  <Emoji id="disappointed" 		key=":disappointed:" 		path="Interface\emoji\disappointed.gif" size="20" />
+  <Emoji id="dizzy" 			key=":dizzy:" 				path="Interface\emoji\dizzy.gif" size="20" />
+  <Emoji id="dog" 				key=":dog:" 				path="Interface\emoji\dog.gif" size="20" />
+  <Emoji id="fearful" 			key=":fearful:" 			path="Interface\emoji\fearful.gif" size="20" />
+  <Emoji id="flushed" 			key=":flushed:" 			path="Interface\emoji\flushed.gif" size="20" />
+  <Emoji id="frowning" 			key=":frowning:" 			path="Interface\emoji\frowning.gif" size="20" />
+  <Emoji id="get_outta_here" 	key=":get_outta_here:" 		path="Interface\emoji\get_outta_here.gif" size="20" />
+  <Emoji id="giggle" 			key=":giggle:" 				path="Interface\emoji\giggle.gif" size="20" />
+  <Emoji id="glasses" 			key="8-)" 					path="Interface\emoji\glasses.gif" size="20" />
+  <Emoji id="grimacing" 		key=":grimacing:" 			path="Interface\emoji\grimacing.gif" size="20" />
+  <Emoji id="grin" 				key=":D" 					path="Interface\emoji\grin.gif" size="20" />
+  <Emoji id="hang_loose" 		key=":hang_loose:" 			path="Interface\emoji\hang_loose.gif" size="20" />
+  <Emoji id="heart" 			key="<3" 					path="Interface\emoji\heart.gif" size="20" />
+  <Emoji id="heartbreak" 		key=":heartbreak:" 			path="Interface\emoji\heartbreak.gif" size="20" />
+  <Emoji id="how_interesting" 	key=":how_interesting:" 	path="Interface\emoji\how_interesting.gif" size="20" />
+  <Emoji id="hug" 				key=":hug:" 				path="Interface\emoji\hug.gif" size="20" />
+  <Emoji id="hushed" 			key=":hushed:" 				path="Interface\emoji\hushed.gif" size="20" />
+  <Emoji id="i_dunno" 			key=":i_dunno:" 			path="Interface\emoji\i_dunno.gif" size="20" />
+  <Emoji id="innocent" 			key="o:)" 					path="Interface\emoji\innocent.gif" size="20" />
+  <Emoji id="jack_o_lantern" 	key=":jack_o_lantern:" 		path="Interface\emoji\jack_o_lantern.gif" size="20" />
+  <Emoji id="joker" 			key=":joker:" 				path="Interface\emoji\joker.gif" size="20" />
+  <Emoji id="joy" 				key=":joy:" 				path="Interface\emoji\joy.gif" size="20" />
+  <Emoji id="kiss" 				key=":kiss:" 				path="Interface\emoji\kiss.gif" size="20" />
+  <Emoji id="liar" 				key=":liar:" 				path="Interface\emoji\liar.gif" size="20" />
+  <Emoji id="lightbulb" 		key=":lightbulb:" 			path="Interface\emoji\lightbulb.gif" size="20" />
+  <Emoji id="lol" 				key=":lol:" 				path="Interface\emoji\lol.gif" size="20" />
+  <Emoji id="look_at_the_time" 	key=":look_at_the_time:" 	path="Interface\emoji\look_at_the_time.gif" size="20" />
+  <Emoji id="loser" 			key=":loser:" 				path="Interface\emoji\loser.gif" size="20" />
+  <Emoji id="lucky" 			key=":lucky:" 				path="Interface\emoji\lucky.gif" size="20" />
+  <Emoji id="minus_one" 		key=":minus_one:" 			path="Interface\emoji\minus_one.gif" size="20" />
+  <Emoji id="money" 			key=":money:" 				path="Interface\emoji\money.gif" size="20" />
+  <Emoji id="monkey" 			key=":monkey:" 				path="Interface\emoji\monkey.gif" size="20" />
+  <Emoji id="mrgreen" 			key=":mrgreen:" 			path="Interface\emoji\mrgreen.gif" size="20" />
+  <Emoji id="murica" 			key=":murica:" 				path="Interface\emoji\murica.gif" size="20" />
+  <Emoji id="naughty" 			key=":naughty:" 			path="Interface\emoji\naughty.gif" size="20" />
+  <Emoji id="neutral" 			key=":|" 					path="Interface\emoji\neutral.gif" size="20" />
+  <Emoji id="no_mouth" 			key=":no_mouth:" 			path="Interface\emoji\no_mouth.gif" size="20" />
+  <Emoji id="not_listening" 	key=":not_listening:" 		path="Interface\emoji\not_listening.gif" size="20" />
+  <Emoji id="nuh_uh" 			key=":nuh_uh:" 				path="Interface\emoji\nuh_uh.gif" size="20" />
+  <Emoji id="ohstop" 			key=":ohstop:" 				path="Interface\emoji\ohstop.gif" size="20" />
+  <Emoji id="one_finger" 		key=":one_finger:" 			path="Interface\emoji\one_finger.gif" size="20" />
+  <Emoji id="open_mouth" 		key=":o" 					path="Interface\emoji\open_mouth.gif" size="20" />
+  <Emoji id="peace" 			key=":peace:" 				path="Interface\emoji\peace.gif" size="20" />
+  <Emoji id="pensive" 			key=":pensive:" 			path="Interface\emoji\pensive.gif" size="20" />
+  <Emoji id="perturbed" 		key=":perturbed:" 			path="Interface\emoji\perturbed.gif" size="20" />
+  <Emoji id="pig" 				key=":pig:" 				path="Interface\emoji\pig.gif" size="20" />
+  <Emoji id="pirate" 			key=":pirate:" 				path="Interface\emoji\pirate.gif" size="20" />
+  <Emoji id="plus_one" 			key=":plus_one:" 			path="Interface\emoji\plus_one.gif" size="20" />
+  <Emoji id="prayer" 			key=":prayer:" 				path="Interface\emoji\prayer.gif" size="20" />
+  <Emoji id="punch" 			key=":punch:" 				path="Interface\emoji\punch.gif" size="20" />
+  <Emoji id="rage" 				key=":rage: or >_<" 		path="Interface\emoji\rage.gif" size="20" />
+  <Emoji id="relaxed" 			key=":relaxed:" 			path="Interface\emoji\relaxed.gif" size="20" />
+  <Emoji id="relieved" 			key=":relieved:" 			path="Interface\emoji\relieved.gif" size="20" />
+  <Emoji id="rock_on" 			key=":rock_on:" 			path="Interface\emoji\rock_on.gif" size="20" />
+  <Emoji id="rofl" 				key=":rofl:" 				path="Interface\emoji\rofl.gif" size="20" />
+  <Emoji id="rose" 				key=":rose:" 				path="Interface\emoji\rose.gif" size="20" />
+  <Emoji id="scream" 			key=":scream:" 				path="Interface\emoji\scream.gif" size="20" />
+  <Emoji id="sick" 				key=":sick:" 				path="Interface\emoji\sick.gif" size="20" />
+  <Emoji id="skull" 			key=":skull:" 				path="Interface\emoji\skull.gif" size="20" />
+  <Emoji id="sleeping" 			key=":sleeping:" 			path="Interface\emoji\sleeping.gif" size="20" />
+  <Emoji id="sleepy" 			key=":sleepy:" 				path="Interface\emoji\sleepy.gif" size="20" />
+  <Emoji id="smile" 			key=":)" 					path="Interface\emoji\smile.gif" size="20" />
+  <Emoji id="smiley" 			key="=)" 					path="Interface\emoji\smiley.gif" size="20" />
+  <Emoji id="smirk" 			key=":smirk:" 				path="Interface\emoji\smirk.gif" size="20" />
+  <Emoji id="star" 				key=":star:" 				path="Interface\emoji\star.gif" size="20" />
+  <Emoji id="sunglasses" 		key="B)" 					path="Interface\emoji\sunglasses.gif" size="20" />
+  <Emoji id="time_out" 			key=":time_out:" 			path="Interface\emoji\time_out.gif" size="20" />
+  <Emoji id="tired_face" 		key=":tired_face:" 			path="Interface\emoji\tired_face.gif" size="20" />
+  <Emoji id="tongue" 			key=":p" 					path="Interface\emoji\tongue.gif" size="20" />
+  <Emoji id="transformer" 		key=":transformer:" 		path="Interface\emoji\transformer.gif" size="20" />
+  <Emoji id="triumph" 			key=":triumph:" 			path="Interface\emoji\triumph.gif" size="20" />
+  <Emoji id="unamused" 			key=":unamused:" 			path="Interface\emoji\unamused.gif" size="20" />
+  <Emoji id="weary" 			key=":weary:" 				path="Interface\emoji\weary.gif" size="20" />
+  <Emoji id="whistle" 			key=":whistle:" 			path="Interface\emoji\whistle.gif" size="20" />
+  <Emoji id="who_me" 			key=":who_me:" 				path="Interface\emoji\who_me.gif" size="20" />
+  <Emoji id="wink" 				key=";)" 					path="Interface\emoji\wink.gif" size="20" />
+  <Emoji id="worried" 			key=":worried:" 			path="Interface\emoji\worried.gif" size="20" />
+  <Emoji id="yin_yang" 			key=":yin_yang:" 			path="Interface\emoji\yin_yang.gif" size="20" />
+</Emojis>
