@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<QuestList>
+	<Quest Index="0" ConditionNum="2" RequestNum="3" NpcType="235" Name="Truy tìm Thư Hoàng Đế">
+		<Act Index="0" Live="1" QuestType="1" ItemType="14" ItemSubType="23" ItemLevel="0" ItemNum="1" RequestType="0" DW="1" DK="1" ELF="1" MG="0" DL="0" SUM="1" RF="0" GL="0" RW="0" SLA="1" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="1" Text0="52" Text1="54" Text2="55" Text3="56" />
+		<Act Index="1" Live="1" QuestType="1" ItemType="14" ItemSubType="23" ItemLevel="0" ItemNum="1" RequestType="1" DW="0" DK="0" ELF="0" MG="1" DL="1" SUM="0" RF="1" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="52" Text1="54" Text2="55" Text3="56" />
+		<Request Index="0" Live="1" Type="1" CompleteQuestIndex="0" LevelMin="10000" LevelMax="10000" RequestStrength="0" Zen="0" ErrorText="73" />
+		<Request Index="1" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="1000000" ErrorText="51" />
+		<Request Index="2" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="150" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="50" />
+	</Quest>
+	<Quest Index="1" ConditionNum="4" RequestNum="1" NpcType="235" Name="Tam bảo lục địa MU">
+		<Act Index="0" Live="1" QuestType="1" ItemType="14" ItemSubType="24" ItemLevel="0" ItemNum="1" RequestType="0" DW="0" DK="1" ELF="0" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="1" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="1" Text0="60" Text1="61" Text2="62" Text3="72" />
+		<Act Index="1" Live="1" QuestType="1" ItemType="14" ItemSubType="25" ItemLevel="0" ItemNum="1" RequestType="0" DW="0" DK="0" ELF="1" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="64" Text1="65" Text2="66" Text3="72" />
+		<Act Index="2" Live="1" QuestType="1" ItemType="14" ItemSubType="26" ItemLevel="0" ItemNum="1" RequestType="0" DW="1" DK="0" ELF="0" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="67" Text1="68" Text2="69" Text3="72" />
+		<Act Index="3" Live="1" QuestType="1" ItemType="14" ItemSubType="68" ItemLevel="0" ItemNum="1" RequestType="0" DW="0" DK="0" ELF="0" MG="0" DL="0" SUM="1" RF="0" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="90" Text1="92" Text2="93" Text3="72" />
+		<Request Index="0" Live="1" Type="255" CompleteQuestIndex="0" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="2000000" ErrorText="71" />
+	</Quest>
+	<Quest Index="2" ConditionNum="2" RequestNum="3" NpcType="229" Name="Chứng nhận Anh Hùng">
+		<Act Index="0" Live="1" QuestType="1" ItemType="14" ItemSubType="23" ItemLevel="1" ItemNum="1" RequestType="0" DW="2" DK="0" ELF="2" MG="0" DL="0" SUM="2" RF="0" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="102" Text1="105" Text2="108" Text3="113" />
+		<Act Index="1" Live="1" QuestType="1" ItemType="14" ItemSubType="23" ItemLevel="1" ItemNum="1" RequestType="0" DW="0" DK="2" ELF="0" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="102" Text1="105" Text2="130" Text3="142" />
+		<Request Index="0" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="220" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="100" />
+		<Request Index="1" Live="1" Type="255" CompleteQuestIndex="1" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="116" />
+		<Request Index="2" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="3000000" ErrorText="118" />
+	</Quest>
+	<Quest Index="3" ConditionNum="1" RequestNum="3" NpcType="229" Name="Bí mật Dark Stone">
+		<Act Index="0" Live="1" QuestType="1" ItemType="14" ItemSubType="24" ItemLevel="1" ItemNum="1" RequestType="0" DW="0" DK="2" ELF="0" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="135" Text1="138" Text2="139" Text3="113" />
+		<Request Index="0" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="220" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="115" />
+		<Request Index="1" Live="1" Type="255" CompleteQuestIndex="2" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="117" />
+		<Request Index="2" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="2000000" ErrorText="119" />
+	</Quest>
+	<Quest Index="4" ConditionNum="9" RequestNum="4" NpcType="406" Name="Chứng minh Sức Mạnh">
+		<Act Index="0" Live="1" QuestType="1" ItemType="14" ItemSubType="65" ItemLevel="0" ItemNum="1" RequestType="3" DW="2" DK="0" ELF="2" MG="0" DL="0" SUM="2" RF="0" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="1" Live="1" QuestType="1" ItemType="14" ItemSubType="66" ItemLevel="0" ItemNum="1" RequestType="1" DW="2" DK="0" ELF="2" MG="0" DL="0" SUM="2" RF="0" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="2" Live="1" QuestType="1" ItemType="14" ItemSubType="67" ItemLevel="0" ItemNum="1" RequestType="1" DW="2" DK="0" ELF="2" MG="0" DL="0" SUM="2" RF="0" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="3" Live="1" QuestType="1" ItemType="14" ItemSubType="65" ItemLevel="0" ItemNum="1" RequestType="3" DW="0" DK="2" ELF="0" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="4" Live="1" QuestType="1" ItemType="14" ItemSubType="66" ItemLevel="0" ItemNum="1" RequestType="2" DW="0" DK="2" ELF="0" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="5" Live="1" QuestType="1" ItemType="14" ItemSubType="67" ItemLevel="0" ItemNum="1" RequestType="2" DW="0" DK="2" ELF="0" MG="0" DL="0" SUM="0" RF="0" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="6" Live="1" QuestType="1" ItemType="14" ItemSubType="65" ItemLevel="0" ItemNum="1" RequestType="3" DW="0" DK="0" ELF="0" MG="1" DL="1" SUM="0" RF="1" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="7" Live="1" QuestType="1" ItemType="14" ItemSubType="66" ItemLevel="0" ItemNum="1" RequestType="0" DW="0" DK="0" ELF="0" MG="1" DL="1" SUM="0" RF="1" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Act Index="8" Live="1" QuestType="1" ItemType="14" ItemSubType="67" ItemLevel="0" ItemNum="1" RequestType="0" DW="0" DK="0" ELF="0" MG="1" DL="1" SUM="0" RF="1" GL="0" RW="0" SLA="0" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="0" Text0="147" Text1="152" Text2="154" Text3="155" />
+		<Request Index="0" Live="1" Type="1" CompleteQuestIndex="2" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="166" />
+		<Request Index="1" Live="1" Type="2" CompleteQuestIndex="3" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="166" />
+		<Request Index="2" Live="1" Type="3" CompleteQuestIndex="65535" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="5000000" ErrorText="146" />
+		<Request Index="3" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="380" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="144" />
+	</Quest>
+	<Quest Index="5" ConditionNum="3" RequestNum="3" NpcType="406" Name="Đột nhập trại Balgass">
+		<Act Index="0" Live="1" QuestType="2" ItemType="409" ItemSubType="0" ItemLevel="0" ItemNum="20" RequestType="1" DW="2" DK="2" ELF="2" MG="1" DL="1" SUM="2" RF="1" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="158" Text1="162" Text2="164" Text3="165" />
+		<Act Index="1" Live="1" QuestType="2" ItemType="410" ItemSubType="0" ItemLevel="0" ItemNum="20" RequestType="0" DW="2" DK="2" ELF="2" MG="1" DL="1" SUM="2" RF="1" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="158" Text1="162" Text2="164" Text3="165" />
+		<Act Index="2" Live="1" QuestType="2" ItemType="411" ItemSubType="0" ItemLevel="0" ItemNum="20" RequestType="0" DW="2" DK="2" ELF="2" MG="1" DL="1" SUM="2" RF="1" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="158" Text1="162" Text2="164" Text3="165" />
+		<Request Index="0" Live="1" Type="1" CompleteQuestIndex="65535" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="7000000" ErrorText="157" />
+		<Request Index="1" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="400" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="144" />
+		<Request Index="2" Live="1" Type="255" CompleteQuestIndex="4" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="145" />
+	</Quest>
+	<Quest Index="6" ConditionNum="1" RequestNum="3" NpcType="406" Name="Tiến vào Bóng Tối">
+		<Act Index="0" Live="1" QuestType="2" ItemType="412" ItemSubType="0" ItemLevel="0" ItemNum="1" RequestType="0" DW="2" DK="2" ELF="2" MG="1" DL="1" SUM="2" RF="1" GL="0" RW="0" SLA="2" GC="0" KUN="0" LEM="0" IK="0" ALQ="0" CRU="2" Text0="168" Text1="172" Text2="173" Text3="174" />
+		<Request Index="0" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="400" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="144" />
+		<Request Index="1" Live="1" Type="255" CompleteQuestIndex="5" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="0" ErrorText="145" />
+		<Request Index="2" Live="1" Type="255" CompleteQuestIndex="65535" LevelMin="0" LevelMax="0" RequestStrength="0" Zen="10000000" ErrorText="167" />
+	</Quest>
+</QuestList>

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NpcNameTemplate>
+ <Npc Type="0" Name="Bò Chiến" />
+ <Npc Type="1" Name="Chó Săn" />
+ <Npc Type="2" Name="Rồng Con" />
+ <Npc Type="3" Name="Nhện Độc" />
+ <Npc Type="4" Name="Bò Quỷ" />
+ <Npc Type="5" Name="Chó săn Địa Ngục" />
+ <Npc Type="6" Name="Phù Thủy Lửa" />
+ <Npc Type="7" Name="Quỷ Khổng Lồ" />
+ <Npc Type="8" Name="Bò Độc" />
+ <Npc Type="9" Name="Phù Thuỷ Sét" />
+ <Npc Type="10" Name="Kiếm Sĩ Ma" />
+ <Npc Type="11" Name="Bóng Ma" />
+ <Npc Type="12" Name="Trùng Độc" />
+ <Npc Type="13" Name="Nhện Địa Ngục" />
+ <Npc Type="14" Name="Cốt Tinh" />
+ <Npc Type="15" Name="Cốt Xạ Thủ" />
+ <Npc Type="16" Name="Đại Cốt Tinh" />
+ <Npc Type="17" Name="Độc Nhân Quỷ" />
+ <Npc Type="18" Name="Gorgon" />
+ <Npc Type="19" Name="Dã Nhân" />
+ <Npc Type="20" Name="Dã Nhân Vương" />
+ <Npc Type="21" Name="Sát Thủ" />
+ <Npc Type="22" Name="Quỷ Băng" />
+ <Npc Type="23" Name="Quỷ Cười" />
+ <Npc Type="24" Name="Bọ Tuyết" />
+ <Npc Type="25" Name="Nữ Hoàng Băng" />
+ <Npc Type="26" Name="Tiểu Yêu Tinh" />
+ <Npc Type="27" Name="Bọ Cạp" />
+ <Npc Type="28" Name="Bò Khổng Lồ" />
+ <Npc Type="29" Name="Thợ Săn" />
+ <Npc Type="30" Name="Quỷ Rừng" />
+ <Npc Type="31" Name="Xạ Đao Quỷ" />
+ <Npc Type="32" Name="Quỷ Dạ" />
+ <Npc Type="33" Name="Yêu Tinh" />
+ <Npc Type="34" Name="Pháp Sư Quỷ" />
+ <Npc Type="35" Name="Hỏa Diệm Quỷ" />
+ <Npc Type="36" Name="Quỷ Lông" />
+ <Npc Type="37" Name="Ác Quỷ" />
+ <Npc Type="38" Name="Balrog" />
+ <Npc Type="39" Name="Quỷ Lông Độc" />
+ <Npc Type="40" Name="Vòng Kiếm Quỷ" />
+ <Npc Type="41" Name="Bộ Xương" />
+ <Npc Type="42" Name="Rồng Đỏ" />
+ <Npc Type="43" Name="Rồng Vàng Con" />
+ <Npc Type="44" Name="Rồng Vàng" />
+ <Npc Type="45" Name="Cá Mắt Quỷ" />
+ <Npc Type="46" Name="Nhân Ngư" />
+ <Npc Type="47" Name="Người Nhái" />
+ <Npc Type="48" Name="Ngư Vương" />
+ <Npc Type="49" Name="Hydra" />
+ <Npc Type="51" Name="Đại Quỷ Ngư" />
+ <Npc Type="52" Name="Người Nhái Bạc" />
+ <Npc Type="53" Name="Người Máy Vàng" />
+ <Npc Type="54" Name="Chiến Binh Vàng" />
+ <Npc Type="55" Name="Tử Thần Xương Sọ" />
+ <Npc Type="56" Name="Quái Xe Lu Vàng" />
+ <Npc Type="57" Name="Quái Xe Lu" />
+ <Npc Type="58" Name="Thiết Sát Nhân" />
+ <Npc Type="59" Name="Hung Thần Xa Mạc" />
+ <Npc Type="60" Name="Sói Nanh Máu" />
+ <Npc Type="61" Name="Dơi Hút Máu" />
+ <Npc Type="62" Name="Quỷ Vây Kiếm" />
+ <Npc Type="63" Name="Dơi Lửa" />
+ <Npc Type="64" Name="Xạ Thủ Ma" />
+ <Npc Type="65" Name="Kiếm Binh Ma" />
+ <Npc Type="66" Name="Huyết Quỷ Vương" />
+ <Npc Type="67" Name="Balrog Bạc" />
+ <Npc Type="69" Name="Chim Gọi Hồn" />
+ <Npc Type="70" Name="Nữ Hoàng Bão Tố" />
+ <Npc Type="71" Name="Thiết Thiên Binh" />
+ <Npc Type="72" Name="Hắc Thiên Ma" />
+ <Npc Type="73" Name="Rồng Xanh" />
+ <Npc Type="74" Name="Thanh Thiên Tướng" />
+ <Npc Type="75" Name="Rồng Đỏ" />
+ <Npc Type="76" Name="Rồng Đốt Biển" />
+ <Npc Type="77" Name="Phượng Hoàng Lửa" />
+ <Npc Type="78" Name="Kim Tiểu Quỷ" />
+ <Npc Type="79" Name="Kim Thiết Vương" />
+ <Npc Type="80" Name="Kim Ngư Vương" />
+ <Npc Type="81" Name="Kim Ngư Tinh" />
+ <Npc Type="82" Name="Kim Sát Thủ" />
+ <Npc Type="83" Name="Kim Xạ Vương" />
+ <Npc Type="84" Name="Kiếm Binh Ma" />
+ <Npc Type="85" Name="Xạ Thủ Ma" />
+ <Npc Type="86" Name="Chiến Binh Ma" />
+ <Npc Type="87" Name="Hắc Cuồng Thú" />
+ <Npc Type="88" Name="Đoạt Mệnh Quỷ" />
+ <Npc Type="89" Name="Huyết Ma Pháp Vương" />
+ <Npc Type="90" Name="Kiếm Binh Ma" />
+ <Npc Type="91" Name="Xạ Thủ Ma" />
+ <Npc Type="92" Name="Chiến Binh Ma" />
+ <Npc Type="93" Name="Hắc Cuồng Thú" />
+ <Npc Type="94" Name="Đoạt Mệnh Quỷ" />
+ <Npc Type="95" Name="Huyết Ma Pháp Vương" />
+ <Npc Type="96" Name="Kiếm Binh Ma" />
+ <Npc Type="97" Name="Xạ Thủ Ma" />
+ <Npc Type="98" Name="Chiến Binh Ma" />
+ <Npc Type="99" Name="Hắc Cuồng Thú" />
+ <Npc Type="100" Name="Bẫy Răng Cưa" />
+ <Npc Type="101" Name="Bẫy Chông" />
+ <Npc Type="102" Name="Bẫy Lửa" />
+ <Npc Type="103" Name="Bẫy Thiên Thạch" />
+ <Npc Type="104" Name="Bẫy" />
+ <Npc Type="105" Name="Bẫy dạng Canon" />
+ <Npc Type="106" Name="Bẫy dạng laser" />
+ <Npc Type="111" Name="Đoạt Mệnh Quỷ" />
+ <Npc Type="112" Name="Huyết Ma Pháp Vương" />
+ <Npc Type="113" Name="Kiếm Binh Ma" />
+ <Npc Type="114" Name="Xạ Thủ Ma" />
+ <Npc Type="115" Name="Chiến Binh Ma" />
+ <Npc Type="116" Name="Hắc Cuồng Thú" />
+ <Npc Type="117" Name="Đoạt Mệnh Quỷ" />
+ <Npc Type="118" Name="Huyết Ma Pháp Vương" />
+ <Npc Type="119" Name="Kiếm Binh Ma" />
+ <Npc Type="120" Name="Xạ Thủ Ma" />
+ <Npc Type="121" Name="Chiến Binh Ma" />
+ <Npc Type="122" Name="Hắc Cuồng Thú" />
+ <Npc Type="123" Name="Đoạt Mệnh Quỷ" />
+ <Npc Type="124" Name="Huyết Ma Pháp Vương" />
+ <Npc Type="125" Name="Kiếm Binh Ma" />
+ <Npc Type="126" Name="Xạ Thủ Ma" />
+ <Npc Type="127" Name="Chiến Binh Ma" />
+ <Npc Type="128" Name="Hắc Cuồng Thú" />
+ <Npc Type="129" Name="Đoạt Mệnh Quỷ" />
+ <Npc Type="130" Name="Huyết Ma Pháp Vương" />
+ <Npc Type="131" Name="Cổng Thành" />
+ <Npc Type="132" Name="Tượng Thành" />
+ <Npc Type="133" Name="Tượng Thành" />
+ <Npc Type="134" Name="Tượng Thành" />
+ <Npc Type="135" Name="Phù Thủy Trắng" />
+ <Npc Type="136" Name="Chien Binh Ma" />
+ <Npc Type="137" Name="Thủ Lĩnh Xạ Thủ Ma" />
+ <Npc Type="138" Name="Chiến Binh Ma" />
+ <Npc Type="139" Name="Xạ Thủ Ma" />
+ <Npc Type="140" Name="Chiến Binh Ma" />
+ <Npc Type="141" Name="Hắc Cuồng Thú" />
+ <Npc Type="142" Name="Đoạt Mệnh Quỷ" />
+ <Npc Type="143" Name="Huyết Ma Pháp Vương" />
+ <Npc Type="144" Name="Ma Đầm Lầy" />
+ <Npc Type="145" Name="Đại Tư Tế" />
+ <Npc Type="146" Name="Tôm Càng Máu" />
+ <Npc Type="147" Name="Quỷ Đất" />
+ <Npc Type="148" Name="Ác Nhân Ma" />
+ <Npc Type="149" Name="Thầy Tư Tế" />
+ <Npc Type="150" Name="Quái Vật Một Sừng" />
+ <Npc Type="151" Name="Chiến Binh" />
+ <Npc Type="152" Name="Chiến Binh %s" />
+ <Npc Type="153" Name="Chiến Binh %s" />
+ <Npc Type="154" Name="Chiến Binh %s" />
+ <Npc Type="155" Name="Chiến Binh %s" />
+ <Npc Type="156" Name="Chiến Binh %s" />
+ <Npc Type="157" Name="Chiến Binh %s" />
+ <Npc Type="158" Name="Chiến Binh Ma Quái" />
+ <Npc Type="160" Name="Hung Thần Thép" />
+ <Npc Type="161" Name="Bóng Ma KunDun" />
+ <Npc Type="162" Name="Hỗn nguyên lâu 1" />
+ <Npc Type="163" Name="Hỗn nguyên lâu 2" />
+ <Npc Type="164" Name="Hỗn nguyên lâu 3" />
+ <Npc Type="165" Name="Hỗn nguyên lâu 4" />
+ <Npc Type="166" Name="Hỗn nguyên lâu 5" />
+ <Npc Type="167" Name="Hỗn nguyên lâu 6" />
+ <Npc Type="168" Name="Hỗn nguyên lâu 7" />
+ <Npc Type="169" Name="Hỗn nguyên lâu 8" />
+ <Npc Type="170" Name="Hỗn nguyên lâu 9" />
+ <Npc Type="171" Name="Hỗn nguyên lâu 10" />
+ <Npc Type="172" Name="Hỗn nguyên lâu 11" />
+ <Npc Type="173" Name="Hỗn nguyên lâu 12" />
+ <Npc Type="174" Name="Ma Đầm Lầy" />
+ <Npc Type="175" Name="Đại Tư Tế" />
+ <Npc Type="176" Name="Tôm Càng Máu" />
+ <Npc Type="177" Name="Quỷ Đất" />
+ <Npc Type="178" Name="Ác Nhân Ma" />
+ <Npc Type="179" Name="Thầy Tư Tế" />
+ <Npc Type="180" Name="Hung Thần Thép" />
+ <Npc Type="181" Name="Bóng Ma KunDun" />
+ <Npc Type="182" Name="Ma Đầm Lầy" />
+ <Npc Type="183" Name="Đại Tư Tế" />
+ <Npc Type="184" Name="Tôm Càng Máu" />
+ <Npc Type="185" Name="Quỷ Đất" />
+ <Npc Type="186" Name="Ác Nhân Ma" />
+ <Npc Type="187" Name="Thầy Tư Tế" />
+ <Npc Type="188" Name="Hung Thần Thép" />
+ <Npc Type="189" Name="Bóng Ma KunDun" />
+ <Npc Type="190" Name="Ma Đầm Lầy" />
+ <Npc Type="191" Name="Đại Tư Tế" />
+ <Npc Type="192" Name="Tôm Càng Máu" />
+ <Npc Type="193" Name="Quỷ Đất" />
+ <Npc Type="194" Name="Ác Nhân Ma" />
+ <Npc Type="195" Name="Thầy Tư Tế" />
+ <Npc Type="196" Name="Hung Thần Thép" />
+ <Npc Type="197" Name="Bóng Ma KunDun" />
+ <Npc Type="200" Name="Bẫy dạng quả bóng" />
+ <Npc Type="204" Name="Tượng Thần Sói" />
+ <Npc Type="205" Name="Bệ thờ" />
+ <Npc Type="206" Name="Bệ thờ" />
+ <Npc Type="207" Name="Bệ thờ" />
+ <Npc Type="208" Name="Bệ thờ" />
+ <Npc Type="209" Name="Bệ thờ" />
+ <Npc Type="215" Name="Khiêng bảo hộ" />
+ <Npc Type="216" Name="Đài Phong Ấn" />
+ <Npc Type="217" Name="Điểm Phong Ấn phụ" />
+ <Npc Type="218" Name="Điểm Phong Ấn phụ" />
+ <Npc Type="219" Name="Cần điều khiển" />
+ <Npc Type="220" Name="Vệ binh Hoàng Gia" />
+ <Npc Type="221" Name="Pháo tấn công" />
+ <Npc Type="222" Name="Pháo phòng thủ" />
+ <Npc Type="223" Name="Senior" />
+ <Npc Type="224" Name="Người quản lý" />
+ <Npc Type="226" Name="Nhà huấn luyện thú" />
+ <Npc Type="229" Name="Marlon" />
+ <Npc Type="230" Name="Alex" />
+ <Npc Type="231" Name="Nhà buôn Thompson" />
+ <Npc Type="232" Name="Thiên Sứ" />
+ <Npc Type="233" Name="Linh Hồn Thiên Sứ" />
+ <Npc Type="234" Name="Người huấn luyện thú" />
+ <Npc Type="235" Name="Nữ tu Seniba" />
+ <Npc Type="236" Name="Xạ thủ vàng" />
+ <Npc Type="237" Name="Charon" />
+ <Npc Type="238" Name="Yêu tinh Chaos" />
+ <Npc Type="239" Name="Lính canh Arena" />
+ <Npc Type="240" Name="Safety Guardian" />
+ <Npc Type="241" Name="Người quản lý Hội" />
+ <Npc Type="242" Name="Tiên nữ Lala" />
+ <Npc Type="243" Name="Yêu tinh Ellio" />
+ <Npc Type="244" Name="Chủ quán Lumen" />
+ <Npc Type="245" Name="Phù thủy Isabel" />
+ <Npc Type="246" Name="Nhà buôn Zienna" />
+ <Npc Type="247" Name="Xa Phu Tống Kim" />
+ <Npc Type="248" Name="Người bán dạo Martin" />
+ <Npc Type="249" Name="Lính canh" />
+ <Npc Type="250" Name="Người bán dạo Harold" />
+ <Npc Type="251" Name="Thợ rèn Hanzo" />
+ <Npc Type="252" Name="" />
+ <Npc Type="253" Name="Cô gái bán dạo Amy" />
+ <Npc Type="254" Name="Pháp sư Pasi" />
+ <Npc Type="255" Name="Chủ quán Liaman" />
+ <Npc Type="256" Name="Lahap" />
+ <Npc Type="257" Name="Mu Bá Vương" />
+ <Npc Type="258" Name="Người Trợ Giúp" />
+ <Npc Type="259" Name="Phù Thủy Reina" />
+ <Npc Type="260" Name="Ma Đầm Lầy" />
+ <Npc Type="261" Name="Đại Tư Tế" />
+ <Npc Type="262" Name="Tôm Càng Máu" />
+ <Npc Type="263" Name="Quỷ Đất" />
+ <Npc Type="264" Name="Ác Nhân Ma" />
+ <Npc Type="265" Name="Thầy Tư Tế" />
+ <Npc Type="266" Name="Hung Thần Thép" />
+ <Npc Type="267" Name="Bóng Ma KunDun" />
+ <Npc Type="268" Name="Ma Đầm Lầy" />
+ <Npc Type="269" Name="Đại Tư Tế" />
+ <Npc Type="270" Name="Tôm Càng Máu" />
+ <Npc Type="271" Name="Quỷ Đất" />
+ <Npc Type="272" Name="Ác Nhân Ma" />
+ <Npc Type="273" Name="Thầy Tư Tế" />
+ <Npc Type="274" Name="Hung Thần Thép" />
+ <Npc Type="275" Name="Kundun" />
+ <Npc Type="277" Name="Cổng thành 1" />
+ <Npc Type="278" Name="Đá hồi sinh" />
+ <Npc Type="283" Name="Tượng bảo vệ" />
+ <Npc Type="284" Name="" />
+ <Npc Type="285" Name="Người bảo vệ" />
+ <Npc Type="286" Name="Linh Hồn Thiên Sứ" />
+ <Npc Type="287" Name="Phù Thủy Morgana" />
+ <Npc Type="288" Name="Tháp Rồng" />
+ <Npc Type="290" Name="Chiến Binh Bò Sát" />
+ <Npc Type="291" Name="Người Đá Hỏa Diệm" />
+ <Npc Type="292" Name="Nữ Hoàng Ong" />
+ <Npc Type="293" Name="Người Đa Độc Tố" />
+ <Npc Type="294" Name="Chiến Binh Quái Thú" />
+ <Npc Type="295" Name="Erohim" />
+ <Npc Type="300" Name="Mutant Hero" />
+ <Npc Type="301" Name="Omega Wing" />
+ <Npc Type="302" Name="Lãnh đạo quái thú" />
+ <Npc Type="303" Name="Đại Thạch Nhãn" />
+ <Npc Type="304" Name="Nữ Hoàng Ma" />
+ <Npc Type="305" Name="Quỷ Đá" />
+ <Npc Type="306" Name="Quỷ Cây" />
+ <Npc Type="307" Name="Quái Nhân" />
+ <Npc Type="308" Name="Ma Cây" />
+ <Npc Type="309" Name="Quỷ Vương" />
+ <Npc Type="310" Name="Búa Thủ Sói" />
+ <Npc Type="311" Name="Giáo Thủ Sói" />
+ <Npc Type="312" Name="Cung Thủ Sói" />
+ <Npc Type="313" Name="Sói Điện" />
+ <Npc Type="314" Name="Tượng Sói" />
+ <Npc Type="315" Name="Tượng Sói Điện" />
+ <Npc Type="316" Name="Xạ Thủ" />
+ <Npc Type="317" Name="Chiến Binh Búa" />
+ <Npc Type="331" Name="Quỷ đất" />
+ <Npc Type="332" Name="Ác Nhân Ma" />
+ <Npc Type="333" Name="Tôm Càng Máu" />
+ <Npc Type="334" Name="Ma Đầm Lầy" />
+ <Npc Type="335" Name="Thầy Tư Tế" />
+ <Npc Type="336" Name="Đại Tư Tế" />
+ <Npc Type="337" Name="Hung Thần Thép" />
+ <Npc Type="338" Name="Ảo ảnh Kundun" />
+ <Npc Type="340" Name="Nữ Tư Tế" />
+ <Npc Type="341" Name="Chiến Binh Búa" />
+ <Npc Type="344" Name="Xạ Thủ" />
+ <Npc Type="345" Name="Quỷ Pháp Sư" />
+ <Npc Type="348" Name="Xe Bắn Tên" />
+ <Npc Type="349" Name="Tướng ma Balgass" />
+ <Npc Type="350" Name="Ma Thạch Quỷ" />
+ <Npc Type="351" Name="Sói Bọ Sừng" />
+ <Npc Type="352" Name="Ma Kim Cang" />
+ <Npc Type="353" Name="Nhiếp Hồn Quỷ" />
+ <Npc Type="354" Name="Thiết Kim Cang" />
+ <Npc Type="355" Name="Dị Nhân Bào" />
+ <Npc Type="356" Name="Đại Sinh Quỷ" />
+ <Npc Type="357" Name="Hầu Vương Quỷ" />
+ <Npc Type="358" Name="Truy Mệnh Nữ" />
+ <Npc Type="359" Name="Tạ Xích Quỷ" />
+ <Npc Type="360" Name="Diệt Vong Quỷ" />
+ <Npc Type="361" Name="Nightmare" />
+ <Npc Type="362" Name="Bàn Tay Trái Maya" />
+ <Npc Type="363" Name="Bàn Tay Phải Maya" />
+ <Npc Type="364" Name="Maya" />
+ <Npc Type="365" Name="Junie" />
+ <Npc Type="367" Name="Cồng tháp tinh luyện" />
+ <Npc Type="368" Name="Elpis" />
+ <Npc Type="369" Name="Osbourne" />
+ <Npc Type="370" Name="Cheris" />
+ <Npc Type="371" Name="Người trợ giúp Leo" />
+ <Npc Type="372" Name="Hau due Ellite" />
+ <Npc Type="373" Name="Jack O Lantern" />
+ <Npc Type="374" Name="Santa Claus" />
+ <Npc Type="375" Name="Thương nhân thẻ bài" />
+ <Npc Type="376" Name="Cửa hàng Pamela" />
+ <Npc Type="377" Name="Cửa hàng Angella" />
+ <Npc Type="378" Name="GameMaster" />
+ <Npc Type="379" Name="Thương nhân Natasha" />
+ <Npc Type="380" Name="Tượng Thiên Sứ" />
+ <Npc Type="381" Name="Hồi Máu Pet Mayurin" />
+ <Npc Type="382" Name="Event PK" />
+ <Npc Type="383" Name="Liên minh Seonmul" />
+ <Npc Type="384" Name="Bạch long giáo đồ" />
+ <Npc Type="385" Name="Bạch Long Trưởng Lão" />
+ <Npc Type="386" Name="Bóng ma nhà thờ" />
+ <Npc Type="387" Name="Bóng ma nhà thờ" />
+ <Npc Type="388" Name="Bóng ma nhà thờ" />
+ <Npc Type="389" Name="Bóng ma nhà thờ" />
+ <Npc Type="390" Name="Bóng ma nhà thờ" />
+ <Npc Type="391" Name="Bóng ma nhà thờ" />
+ <Npc Type="392" Name="Bóng ma nhà thờ" />
+ <Npc Type="393" Name="Bóng ma nhà thờ" />
+ <Npc Type="394" Name="Bóng ma nhà thờ" />
+ <Npc Type="395" Name="Bóng ma nhà thờ" />
+ <Npc Type="396" Name="Bóng ma nhà thờ" />
+ <Npc Type="397" Name="Bóng ma nhà thờ" />
+ <Npc Type="398" Name="Bóng ma nhà thờ" />
+ <Npc Type="399" Name="Bóng ma nhà thờ" />
+ <Npc Type="400" Name="Bóng ma nhà thờ" />
+ <Npc Type="401" Name="Bóng ma nhà thờ" />
+ <Npc Type="402" Name="Bóng ma nhà thờ" />
+ <Npc Type="403" Name="Bóng ma nhà thờ" />
+ <Npc Type="404" Name="Liên minh lục địa" />
+ <Npc Type="405" Name="Bạch Long Giao" />
+ <Npc Type="406" Name="Mục sư Delbin" />
+ <Npc Type="407" Name="Người sói Lycan" />
+ <Npc Type="408" Name="Người gác cổng" />
+ <Npc Type="409" Name="Thủ lĩnh Balaam" />
+ <Npc Type="410" Name="Quỷ hắc ám" />
+ <Npc Type="411" Name="Thủ lĩnh Soram" />
+ <Npc Type="412" Name="Tư tế hắc ám" />
+ <Npc Type="413" Name="Thỏ ngọc" />
+ <Npc Type="414" Name="Trợ lý Allen" />
+ <Npc Type="415" Name="Sylvia" />
+ <Npc Type="416" Name="Leah" />
+ <Npc Type="417" Name="Marseille" />
+ <Npc Type="418" Name="Thỏ biến dị" />
+ <Npc Type="419" Name="Thỏ hang động" />
+ <Npc Type="420" Name="Ma sói" />
+ <Npc Type="421" Name="Bướm ma" />
+ <Npc Type="422" Name="Phù thủy nguyền rủa" />
+ <Npc Type="423" Name="Người đá" />
+ <Npc Type="424" Name="Quái thú" />
+ <Npc Type="425" Name="Thủ lĩnh Suwoo" />
+ <Npc Type="426" Name="Hỗn nguyên lâu 13" />
+ <Npc Type="427" Name="Hỗn nguyên lâu 14" />
+ <Npc Type="428" Name="Thủ lĩnh xương" />
+ <Npc Type="429" Name="Thủ lĩnh xạ thủ xương" />
+ <Npc Type="430" Name="Chiến binh hoàng kim" />
+ <Npc Type="431" Name="Gutus khổng lồ" />
+ <Npc Type="432" Name="Kỵ sĩ đầu sỏ" />
+ <Npc Type="433" Name="Đầu lâu ma thuật" />
+ <Npc Type="434" Name="Periodtiseu" />
+ <Npc Type="435" Name="Berserker" />
+ <Npc Type="436" Name="Cung thủ Balaam" />
+ <Npc Type="437" Name="Đại chùy Soram" />
+ <Npc Type="438" Name="Quỷ Persona" />
+ <Npc Type="439" Name="Nam tước bóng đêm" />
+ <Npc Type="440" Name="Nữ tư tế" />
+ <Npc Type="441" Name="Lục Hoa yêu" />
+ <Npc Type="442" Name="Tứ Hoa yêu" />
+ <Npc Type="443" Name="Hồng Hoa yêu" />
+ <Npc Type="444" Name="Quỷ lâu la" />
+ <Npc Type="445" Name="Kỵ sĩ bóng đêm" />
+ <Npc Type="446" Name="Điện ma" />
+ <Npc Type="447" Name="Thầm sấm" />
+ <Npc Type="448" Name="Thần cây" />
+ <Npc Type="449" Name="Hỏa diệm ma" />
+ <Npc Type="450" Name="Hoa Tiên" />
+ <Npc Type="451" Name="Cây Tiên" />
+ <Npc Type="452" Name="Nhà nghiên cứu" />
+ <Npc Type="453" Name="Người khảm ngọc" />
+ <Npc Type="454" Name="Báo tuyết" />
+ <Npc Type="455" Name="Voi Mamut" />
+ <Npc Type="456" Name="Băng nhân" />
+ <Npc Type="457" Name="Nhện tuyết" />
+ <Npc Type="458" Name="Chiến binh thép" />
+ <Npc Type="459" Name="Selupan" />
+ <Npc Type="460" Name="Trứng nhện" />
+ <Npc Type="461" Name="Trứng nhện" />
+ <Npc Type="462" Name="Trứng nhện" />
+ <Npc Type="463" Name="Hỏa diệm quỷ" />
+ <Npc Type="464" Name="Re-Initiali Helper" />
+ <Npc Type="465" Name="Ông già Noel" />
+ <Npc Type="466" Name="Yêu tinh giáng sinh" />
+ <Npc Type="467" Name="Người tuyết" />
+ <Npc Type="468" Name="Tiểu yêu Noel 1" />
+ <Npc Type="469" Name="Tiểu yêu Noel 2" />
+ <Npc Type="470" Name="Tiểu yêu Noel 3" />
+ <Npc Type="471" Name="Tiểu yêu Noel 4" />
+ <Npc Type="472" Name="Tiểu yêu Noel 5" />
+ <Npc Type="473" Name="Tiểu yêu Noel 6" />
+ <Npc Type="474" Name="Tiểu yêu Noel 7" />
+ <Npc Type="475" Name="Tiểu yêu Noel 8" />
+ <Npc Type="476" Name="Ông già Noel" />
+ <Npc Type="477" Name="Biến hình người tuyết" />
+ <Npc Type="478" Name="Delgado" />
+ <Npc Type="479" Name="Người gác cổng Titus" />
+ <Npc Type="480" Name="Chiến binh Zombi" />
+ <Npc Type="481" Name="Chiến binh Zombi" />
+ <Npc Type="482" Name="Đấu sĩ hồi sinh" />
+ <Npc Type="483" Name="Đấu sĩ hồi sinh" />
+ <Npc Type="484" Name="Đồ tể Ashes" />
+ <Npc Type="485" Name="Đồ tể Ashes" />
+ <Npc Type="486" Name="Sát thủ máu" />
+ <Npc Type="487" Name="Sát thủ máu" />
+ <Npc Type="488" Name="Sát thủ máu" />
+ <Npc Type="489" Name="Quỷ Lava lửa" />
+ <Npc Type="490" Name="Quỷ Lava khổng lồ" />
+ <Npc Type="491" Name="Quỷ Lava" />
+ <Npc Type="492" Name="Thương gia Moss" />
+ <Npc Type="493" Name="Kỵ sĩ hoàng kim giáp" />
+ <Npc Type="494" Name="Ác quỷ hoàng kim giáp" />
+ <Npc Type="495" Name="Quỷ đá hoàng kim giáp" />
+ <Npc Type="496" Name="Hoàng kim giáp binh" />
+ <Npc Type="497" Name="Hoàng kim mộc giáp" />
+ <Npc Type="498" Name="Xích quỷ hoàng kim" />
+ <Npc Type="499" Name="Chiến binh hoàng kim" />
+ <Npc Type="500" Name="Hỏa diệm hoàng kim" />
+ <Npc Type="501" Name="Kim Long" />
+ <Npc Type="502" Name="Thỏ hoàng kim giáp" />
+ <Npc Type="503" Name="Panda" />
+ <Npc Type="504" Name="Gayion Karein" />
+ <Npc Type="505" Name="Jerintu" />
+ <Npc Type="506" Name="Raymond" />
+ <Npc Type="507" Name="Erukanu" />
+ <Npc Type="508" Name="Dessler" />
+ <Npc Type="509" Name="Vermont" />
+ <Npc Type="510" Name="Kato" />
+ <Npc Type="511" Name="Gaul" />
+ <Npc Type="512" Name="Chỉ huy giáo sĩ" />
+ <Npc Type="513" Name="Lãnh đạo vệ binh" />
+ <Npc Type="514" Name="Chỉ huy kiếm sĩ" />
+ <Npc Type="515" Name="Đại Pháp Sư" />
+ <Npc Type="516" Name="Chỉ huy trận chiến" />
+ <Npc Type="517" Name="Chỉ huy kỵ binh" />
+ <Npc Type="518" Name="Vệ binh" />
+ <Npc Type="519" Name="Pháp Sư Ma" />
+ <Npc Type="520" Name="Kỵ Sĩ" />
+ <Npc Type="521" Name="Lính Canh" />
+ <Npc Type="522" Name="Jerinter" />
+ <Npc Type="523" Name="Ham" />
+ <Npc Type="524" Name="Cửa thành 1" />
+ <Npc Type="525" Name="Cửa thành 2" />
+ <Npc Type="526" Name="Tượng đá 1" />
+ <Npc Type="527" Name="Cửa thành 3" />
+ <Npc Type="528" Name="Cửa thành 4" />
+ <Npc Type="529" Name="Đao phủ điên" />
+ <Npc Type="530" Name="Đao phủ" />
+ <Npc Type="531" Name="Báo Tuyết" />
+ <Npc Type="532" Name="Sâu độc" />
+ <Npc Type="533" Name="Quỷ độc" />
+ <Npc Type="534" Name="Bóng ma Tiên Nữ" />
+ <Npc Type="535" Name="Bóng ma Chiến binh" />
+ <Npc Type="536" Name="Bóng ma Phù thủy" />
+ <Npc Type="537" Name="Bóng ma Đấu Sĩ" />
+ <Npc Type="538" Name="Bóng ma Chúa Tể" />
+ <Npc Type="539" Name="Bóng ma Thuật Sĩ" />
+ <Npc Type="540" Name="Lugard" />
+ <Npc Type="541" Name="Hộp quà" />
+ <Npc Type="542" Name="Hộp quà đặc biệt" />
+ <Npc Type="543" Name="Gens Duprian Steward" />
+ <Npc Type="544" Name="Gens Vanert Steward" />
+ <Npc Type="545" Name="Christine the General" />
+ <Npc Type="546" Name="Cửa hàng Raul" />
+ <Npc Type="547" Name="Thương nhân Julia" />
+ <Npc Type="548" Name="Biến hình Skeleton" />
+ <Npc Type="549" Name="Orc mau" />
+ <Npc Type="550" Name="Bloody Death Rider" />
+ <Npc Type="551" Name="Golem mau" />
+ <Npc Type="552" Name="Nữ hoàng máu" />
+ <Npc Type="553" Name="Chiến binh nổi loạn" />
+ <Npc Type="554" Name="Chiến binh Centaur" />
+ <Npc Type="555" Name="Chiến binh khổng lồ" />
+ <Npc Type="556" Name="Chiến binh Geno" />
+ <Npc Type="557" Name="Nữ hoàng Shapiro" />
+ <Npc Type="558" Name="Ice nei-pin" />
+ <Npc Type="559" Name="Phù thủy bóng tối" />
+ <Npc Type="560" Name="Nữ hoàng Shapiro" />
+ <Npc Type="561" Name="Medusa" />
+ <Npc Type="562" Name="Mammoth bóng tối" />
+ <Npc Type="563" Name="Quỷ khổng lồ bóng tối" />
+ <Npc Type="564" Name="Kulreotin bóng tối" />
+ <Npc Type="565" Name="Chiến binh thép bóng tối" />
+ <Npc Type="566" Name="Người quản lý Guild Tersia" />
+ <Npc Type="567" Name="Sinnyeo Veina" />
+ <Npc Type="568" Name="Thương nhân bán đảo Gyro" />
+ <Npc Type="569" Name="Bọ cạp độc" />
+ <Npc Type="570" Name="Bọ cạp xương" />
+ <Npc Type="571" Name="Dã nhân 1 sừng" />
+ <Npc Type="572" Name="Dã nhân 4 sừng" />
+ <Npc Type="573" Name="Bọ 2 sừng" />
+ <Npc Type="574" Name="Ong độc khổng lồ" />
+ <Npc Type="575" Name="Thạch nhân hủy diệt" />
+ <Npc Type="576" Name="Thạch nhãn tư lệnh" />
+ <Npc Type="577" Name="Thương nhân Rehina" />
+ <Npc Type="578" Name="Thương nhân Volo" />
+ <Npc Type="579" Name="Rich" />
+ <Npc Type="580" Name="Robot" />
+ <Npc Type="585" Name="Scarecrow" />
+ <Npc Type="605" Name="Mining Area (Small)" />
+ <Npc Type="606" Name="Mining Area (Medium)" />
+ <Npc Type="607" Name="Mining Area (Large)" />
+</NpcNameTemplate>

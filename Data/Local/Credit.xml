@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreditTemplate>
+ <Item Index="0" Class="1" Name="STAFF" />
+ <Item Index="1" Class="2" Name="Game Design" />
+ <Item Index="2" Class="3" Name="Webzen.INC" />
+ <Item Index="3" Class="2" Name="ExecutiveProducer" />
+ <Item Index="4" Class="3" Name="KIM NAM JOO" />
+ <Item Index="5" Class="2" Name="Technical Directors" />
+ <Item Index="6" Class="3" Name="CHO KI YONG" />
+ <Item Index="7" Class="3" Name="SONG KIL SUB" />
+ <Item Index="8" Class="2" Name="Producer" />
+ <Item Index="9" Class="3" Name="KIM WOON HYUNG" />
+ <Item Index="10" Class="2" Name="Development Manager" />
+ <Item Index="11" Class="3" Name="KIM BYUNG MIN" />
+ <Item Index="12" Class="2" Name="Global Version Manager" />
+ <Item Index="13" Class="3" Name="KIM YOUN JOO" />
+ <Item Index="14" Class="2" Name="Lead Game Designer" />
+ <Item Index="15" Class="3" Name="OH SEUNG UN" />
+ <Item Index="16" Class="2" Name="Game Designers" />
+ <Item Index="17" Class="3" Name="KIM BO KYOUNG" />
+ <Item Index="18" Class="3" Name="KIM SUNG JUN" />
+ <Item Index="19" Class="3" Name="LEE MIN JEONG" />
+ <Item Index="20" Class="3" Name="JUNG DONG IL" />
+ <Item Index="21" Class="2" Name="Lead Concept Artist" />
+ <Item Index="22" Class="3" Name="KO SUNG HYUCK" />
+ <Item Index="23" Class="2" Name="Concept Artists" />
+ <Item Index="24" Class="3" Name="KONG SU JIN" />
+ <Item Index="25" Class="3" Name="KIM YOUNG HOON" />
+ <Item Index="26" Class="3" Name="SUNG SOO IM" />
+ <Item Index="27" Class="3" Name="JEONG YEON GYUN" />
+ <Item Index="28" Class="3" Name="JO JIO" />
+ <Item Index="29" Class="2" Name="Lead Character Artist" />
+ <Item Index="30" Class="3" Name="JON CHAN UK" />
+ <Item Index="31" Class="2" Name="Character Artists" />
+ <Item Index="32" Class="3" Name="KANG DONG HYUN" />
+ <Item Index="33" Class="3" Name="SHIN KWANG SUB" />
+ <Item Index="34" Class="3" Name="HWANG IN KWAN" />
+ <Item Index="35" Class="3" Name="HEO JUNG EUN" />
+ <Item Index="36" Class="3" Name="LEE HYUN JUNG" />
+ <Item Index="37" Class="3" Name="LEE JUN SEOK" />
+ <Item Index="38" Class="2" Name="Lead World Artist" />
+ <Item Index="39" Class="3" Name="KIM HYOUNG SIK" />
+ <Item Index="40" Class="2" Name="World Artists" />
+ <Item Index="41" Class="3" Name="SONG SANG HEE" />
+ <Item Index="42" Class="3" Name="CHO SUNG HO" />
+ <Item Index="43" Class="3" Name="CHO SUNG ROK" />
+ <Item Index="44" Class="3" Name="HAN SONG I" />
+ <Item Index="45" Class="2" Name="Lead Server Programmer" />
+ <Item Index="46" Class="3" Name="AHN JOON SEOK" />
+ <Item Index="47" Class="2" Name="Server Programmers" />
+ <Item Index="48" Class="3" Name="KIM HYE HWA" />
+ <Item Index="49" Class="3" Name="JUNG DAE HYUN" />
+ <Item Index="50" Class="2" Name="Lead Client Programmer" />
+ <Item Index="51" Class="3" Name="PARK JONG HOON" />
+ <Item Index="52" Class="2" Name="Client Programmers" />
+ <Item Index="53" Class="3" Name="AHN SANG GYU" />
+ <Item Index="54" Class="3" Name="AHN SUNG MIN" />
+ <Item Index="55" Class="3" Name="LEE HYUK JEA" />
+ <Item Index="56" Class="3" Name="CHOI SEOK KEUN" />
+ <Item Index="57" Class="2" Name="Sound Producer" />
+ <Item Index="58" Class="3" Name="LEE WAN" />
+ <Item Index="59" Class="1" Name="QUALITY ASSURANCE" />
+ <Item Index="60" Class="2" Name="Quality Assurance Manager" />
+ <Item Index="61" Class="3" Name="OH EUN SUNG" />
+ <Item Index="62" Class="2" Name="QA Team" />
+ <Item Index="63" Class="3" Name="KO JI HUN" />
+ <Item Index="64" Class="3" Name="KIM MI HYANG" />
+ <Item Index="65" Class="3" Name="KIM YOUNG KWANG" />
+ <Item Index="66" Class="3" Name="KIM JI HOON" />
+ <Item Index="67" Class="3" Name="KIM JIN HWAN" />
+ <Item Index="68" Class="3" Name="KIM HYEONG SU" />
+ <Item Index="69" Class="3" Name="MAENG KEUN YOUNG" />
+ <Item Index="70" Class="3" Name="PARK SANG JUN" />
+ <Item Index="71" Class="3" Name="PARK EUN KYOUNG" />
+ <Item Index="72" Class="3" Name="PARK JEONG HOON" />
+ <Item Index="73" Class="3" Name="SON MO JUN" />
+ <Item Index="74" Class="3" Name="SHIN JAE YOUNG" />
+ <Item Index="75" Class="3" Name="YANG YOON JUNG" />
+ <Item Index="76" Class="3" Name="YOON AH RAN" />
+ <Item Index="77" Class="3" Name="WOO SUNG HOON" />
+ <Item Index="78" Class="3" Name="LEE IN MOON" />
+ <Item Index="79" Class="3" Name="JEONG JONG ROCK" />
+ <Item Index="80" Class="3" Name="HEO SO YOUNG" />
+ <Item Index="81" Class="3" Name="HONG SEUNG WOOK" />
+ <Item Index="82" Class="3" Name="JOUNG HYE YOON" />
+ <Item Index="83" Class="1" Name="MU BUSINESS DIVISION" />
+ <Item Index="84" Class="2" Name="General Manager" />
+ <Item Index="85" Class="3" Name="KIM YOUNG HWAN" />
+ <Item Index="86" Class="2" Name="Marketing Manager" />
+ <Item Index="87" Class="3" Name="JO SUNG MOON" />
+ <Item Index="88" Class="2" Name="Marketers" />
+ <Item Index="89" Class="3" Name="CHOI TAE YOUNG" />
+ <Item Index="90" Class="3" Name="HONG HEE JUNG" />
+ <Item Index="91" Class="3" Name="JO CHUNG HYUN" />
+ <Item Index="92" Class="3" Name="HONG SUNG MIN" />
+ <Item Index="93" Class="1" Name="MU GAME MANAGER-OPERATOR" />
+ <Item Index="94" Class="2" Name="Lead Game Manager" />
+ <Item Index="95" Class="3" Name="SONG KWI JEONG" />
+ <Item Index="96" Class="2" Name="Inspection TF" />
+ <Item Index="97" Class="3" Name="KIM YE JIN" />
+ <Item Index="98" Class="2" Name="GM" />
+ <Item Index="99" Class="3" Name="HAN JAE HYUN" />
+ <Item Index="100" Class="3" Name="KANG YANG WON" />
+ <Item Index="101" Class="3" Name="BACK SUN MI" />
+ <Item Index="102" Class="3" Name="KIM MIN WOO" />
+ <Item Index="103" Class="3" Name="KIM BYUNG KI" />
+ <Item Index="104" Class="3" Name="KIM YOU MAN" />
+ <Item Index="105" Class="3" Name="KIM JIN A" />
+ <Item Index="106" Class="3" Name="PARK GAE DO" />
+ <Item Index="107" Class="3" Name="PARK TAE JUN" />
+ <Item Index="108" Class="3" Name="SHIN SOON YOUNG" />
+ <Item Index="109" Class="3" Name="SIN JAE MIN" />
+ <Item Index="110" Class="3" Name="YANG EUN MO" />
+ <Item Index="111" Class="3" Name="OH HAE SUK" />
+ <Item Index="112" Class="3" Name="RYU JUNG HAN" />
+ <Item Index="113" Class="3" Name="LEE JUNG AE" />
+ <Item Index="114" Class="3" Name="JO SUNG HEE" />
+ <Item Index="115" Class="3" Name="CHA JEONG MI" />
+ <Item Index="116" Class="3" Name="CHOI BYUNG TAE" />
+ <Item Index="117" Class="3" Name="JU TAI YOUNG" />
+ <Item Index="118" Class="3" Name="LEE KI SU" />
+ <Item Index="119" Class="3" Name="CHOI YOUNG HWAN" />
+ <Item Index="120" Class="3" Name="CHOI SUNG IM" />
+ <Item Index="121" Class="3" Name="Log Check" />
+ <Item Index="122" Class="3" Name="CHANG EUN SUK" />
+ <Item Index="123" Class="3" Name="GONG MI RAN" />
+ <Item Index="124" Class="3" Name="PARK SUN HEE" />
+ <Item Index="125" Class="3" Name="KIM SUN DO" />
+ <Item Index="126" Class="3" Name="PARK YOUNG MIN" />
+ <Item Index="127" Class="3" Name="LEE HAK YOUNG" />
+ <Item Index="128" Class="3" Name="LEE SEUNG WON" />
+ <Item Index="129" Class="2" Name="Log Transaction" />
+ <Item Index="130" Class="3" Name="OK TAE YONG" />
+ <Item Index="131" Class="3" Name="YANG HYUN SOOK" />
+ <Item Index="132" Class="3" Name="KIM SUNG HWAN" />
+ <Item Index="133" Class="3" Name="KIM YOUNG SOON" />
+ <Item Index="134" Class="3" Name="KIM HYUN KYUNG" />
+ <Item Index="135" Class="3" Name="LEE EUI JIN" />
+ <Item Index="136" Class="3" Name="KANG JUNG MO" />
+ <Item Index="137" Class="1" Name="MARKETING" />
+ <Item Index="138" Class="2" Name="Operation Planning" />
+ <Item Index="139" Class="3" Name="CHOI EUN YOUNG" />
+ <Item Index="140" Class="3" Name="RO SE EUN" />
+ <Item Index="141" Class="3" Name="KANG PIL SUNG" />
+ <Item Index="142" Class="3" Name="KIM JUN CHEOL" />
+ <Item Index="143" Class="2" Name="CS Team" />
+ <Item Index="144" Class="3" Name="KIM EUN YOUNG" />
+ <Item Index="145" Class="3" Name="JANG JUN HO" />
+ <Item Index="146" Class="3" Name="KWAG SEUNG YUN" />
+ <Item Index="147" Class="3" Name="KIM SU SUN" />
+ <Item Index="148" Class="3" Name="KIM EUN HEE" />
+ <Item Index="149" Class="3" Name="PARK KUI JUNG" />
+ <Item Index="150" Class="3" Name="PARK MI AE" />
+ <Item Index="151" Class="3" Name="PARK YOON JEE" />
+ <Item Index="152" Class="3" Name="SO EUN HYE" />
+ <Item Index="153" Class="3" Name="SIM HYOUN KYOUNG" />
+ <Item Index="154" Class="3" Name="ZO SUN HWA" />
+ <Item Index="155" Class="3" Name="AHN YOUNG EUN" />
+ <Item Index="156" Class="3" Name="LEE JIN" />
+ <Item Index="157" Class="3" Name="HEO EUN" />
+ <Item Index="158" Class="3" Name="CHOI YOUNG KWON" />
+ <Item Index="159" Class="3" Name="KWON HYE KYOUNG" />
+ <Item Index="160" Class="3" Name="LIM A YEOUNG" />
+ <Item Index="161" Class="3" Name="KIM SUK JUNG" />
+ <Item Index="162" Class="3" Name="NAM SUN MI" />
+ <Item Index="163" Class="3" Name="SONG JEONG HEE" />
+ <Item Index="164" Class="3" Name="CHOI JUN WON" />
+ <Item Index="165" Class="3" Name="O HEY JIN" />
+ <Item Index="166" Class="3" Name="KIM SUN YOUNG" />
+ <Item Index="167" Class="3" Name="SON SE HYUN" />
+ <Item Index="168" Class="3" Name="LEE JI YOUNG" />
+ <Item Index="169" Class="3" Name="HAN WOO TAK" />
+ <Item Index="170" Class="3" Name="RIP YOON" />
+ <Item Index="171" Class="3" Name="DONGDONG" />
+ <Item Index="172" Class="3" Name="SUE JEONG" />
+ <Item Index="173" Class="3" Name="IRENE" />
+ <Item Index="174" Class="3" Name="JACKY CHOI" />
+ <Item Index="175" Class="3" Name="SEL EUN HE" />
+ <Item Index="176" Class="3" Name="PHILIP LEE" />
+ <Item Index="177" Class="3" Name="LEE CHUAN HUI" />
+ <Item Index="178" Class="3" Name="CHUNG HA YOUNG" />
+ <Item Index="179" Class="3" Name="AKIKO KATAGIRI" />
+ <Item Index="180" Class="1" Name="WEB" />
+ <Item Index="181" Class="2" Name="Web Lead" />
+ <Item Index="182" Class="3" Name="JEONG IM HO" />
+ <Item Index="183" Class="2" Name="Web Contents Designers" />
+ <Item Index="184" Class="3" Name="BONG JAE WON" />
+ <Item Index="185" Class="3" Name="KIM HEE YOUNG" />
+ <Item Index="186" Class="3" Name="OH BO HYUN" />
+ <Item Index="187" Class="2" Name="Web Programmers" />
+ <Item Index="188" Class="3" Name="LEE HYI KYUNG" />
+ <Item Index="189" Class="3" Name="LEE TAE JUN" />
+ <Item Index="190" Class="2" Name="Web Graphic Designers" />
+ <Item Index="191" Class="3" Name="SEO HEE JUNG" />
+ <Item Index="192" Class="3" Name="KWON CHOONG WON" />
+ <Item Index="193" Class="1" Name="GLOBAL BUSINESS DEVELOPMENT" />
+ <Item Index="194" Class="2" Name="General Manager" />
+ <Item Index="195" Class="3" Name="JOHN KIM" />
+ <Item Index="196" Class="2" Name="Manager" />
+ <Item Index="197" Class="3" Name="PARK YOO SHIN" />
+ <Item Index="198" Class="3" Name="GRACE AHN" />
+ <Item Index="199" Class="3" Name="ANDEW YEOM" />
+ <Item Index="200" Class="2" Name="Global Business" />
+ <Item Index="201" Class="3" Name="KELLY KIM" />
+ <Item Index="202" Class="3" Name="SEBASTIAN RYU" />
+ <Item Index="203" Class="3" Name="JEON HONG SUK" />
+ <Item Index="204" Class="3" Name="AUTUMN CHO" />
+ <Item Index="205" Class="3" Name="HAN WOO TAK" />
+ <Item Index="206" Class="3" Name="RIP YOON" />
+ <Item Index="207" Class="3" Name="DONG DONG" />
+ <Item Index="208" Class="3" Name="SUE JEONG" />
+ <Item Index="209" Class="3" Name="IRENE CHOI" />
+ <Item Index="210" Class="3" Name="JACKY CHOI" />
+ <Item Index="211" Class="3" Name="SEL EUN HE" />
+ <Item Index="212" Class="3" Name="PHILIP LEE" />
+ <Item Index="213" Class="3" Name="LEE CHUAN HUI" />
+ <Item Index="214" Class="3" Name="CHUNG HA YOUNG" />
+ <Item Index="215" Class="3" Name="AKIKO KATAGIRI" />
+ <Item Index="216" Class="3" Name="RYANG GIELMO" />
+ <Item Index="217" Class="3" Name="CELINE KIM" />
+ <Item Index="218" Class="3" Name="JUSTIN DOH" />
+ <Item Index="219" Class="3" Name="SHINAI KWON" />
+ <Item Index="220" Class="3" Name="SIMON KIM" />
+ <Item Index="221" Class="3" Name="PAUL JEONG" />
+ <Item Index="222" Class="3" Name="JAMES PARK" />
+ <Item Index="223" Class="3" Name="HWANG MYUNG KUK " />
+ <Item Index="224" Class="3" Name="KIM JIN HO" />
+ <Item Index="225" Class="3" Name="BRANDON OH" />
+ <Item Index="226" Class="1" Name="PUBLISHERS" />
+ <Item Index="227" Class="2" Name="China Publisher" />
+ <Item Index="228" Class="3" Name="9WEBZEN Limited" />
+ <Item Index="229" Class="2" Name="Taiwan Publisher" />
+ <Item Index="230" Class="3" Name="Webzen Taiwan Inc." />
+ <Item Index="231" Class="2" Name="Japan Publisher" />
+ <Item Index="232" Class="3" Name="GameOn Co.,Ltd" />
+ <Item Index="233" Class="2" Name="Thailand Publisher" />
+ <Item Index="234" Class="3" Name="New Era Online Co.,Ltd" />
+ <Item Index="235" Class="2" Name="Philippines Publisher" />
+ <Item Index="236" Class="3" Name="Digital Media Exchange Inc." />
+ <Item Index="237" Class="2" Name="Vietnamese Publisher" />
+ <Item Index="238" Class="3" Name="FTP Telecom" />
+ <Item Index="239" Class="1" Name="THANKS TO" />
+ <Item Index="240" Class="2" Name=" " />
+ <Item Index="241" Class="3" Name="All of MU PLAYERS" />
+ <Item Index="242" Class="2" Name=" " />
+ <Item Index="243" Class="3" Name="All of WEBZEN STAFF" />
+</CreditTemplate>

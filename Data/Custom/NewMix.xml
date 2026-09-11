@@ -1,0 +1,38 @@
+<CustomMix>
+	<MixReps MixName="Mix VIP 1" RateMix="100" MixType="1" MixPrice="1" NoticeText=""  >
+		<ItemReq>
+			<Item Count="1"  Type="0" 			Index="19" 			LevelMin="11"   Dur="0" 	Skill="0" Luck="0" Opt="0" 	Exc="0"  Anc="0" MainItem="1" />
+			<Item Count="10"  Type="12" 		Index="15" 			LevelMin="0"   Dur="5" 		Skill="0" Luck="0" Opt="0"  Exc="0" Anc="0" MainItem="0" />
+			<Item Count="10"  Type="14" 		Index="14" 			LevelMin="0"   Dur="10" 	Skill="0" Luck="0" Opt="0"  Exc="0" Anc="0" MainItem="0" />
+		</ItemReq>
+		
+		<Sussces>
+			<Item Count="1"  Type="0" 		Index="20" 			Level="0"   Dur="255" Skill="0" Luck="0" Opt="0" Exc="0"  Anc="0" />
+			<Item Count="1"  Type="0" 		Index="21" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+			<Item Count="1"  Type="0" 		Index="22" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+			<Item Count="1"  Type="0" 		Index="23" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+			<Item Count="1"  Type="0" 		Index="24" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+		</Sussces>
+		
+	</MixReps>
+	
+	<MixReps MixName="Mix VIP 2" RateMix="100" MixType="1" MixPrice="1" NoticeText=""  >
+		<ItemReq>
+			<Item Count="1"  Type="6" 		Index="55" 			LevelMin="0"   Dur="255" Skill="0" Luck="0" Opt="0" Exc="0"  Anc="0" MainItem="1" />
+			<Item Count="1"  Type="8" 		Index="15" 			LevelMin="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" MainItem="0" />
+			<Item Count="1"  Type="8" 		Index="14" 			LevelMin="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" MainItem="0" />
+			<Item Count="1"  Type="8" 		Index="13" 			LevelMin="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" MainItem="0" />
+			<Item Count="1"  Type="8" 		Index="14" 			LevelMin="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" MainItem="0" />
+		</ItemReq>
+		
+		<Sussces>
+			<Item Count="1"  Type="2" 		Index="20" 			Level="0"   Dur="255" Skill="0" Luck="0" Opt="0" Exc="0"  Anc="0" />
+			<Item Count="1"  Type="2" 		Index="21" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+			<Item Count="1"  Type="2" 		Index="22" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+			<Item Count="1"  Type="2" 		Index="23" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+			<Item Count="1"  Type="2" 		Index="24" 			Level="15"  Dur="-1" Skill="0" Luck="1" Opt="7"  Exc="63" Anc="0" />
+		</Sussces>
+		
+	</MixReps>
+	
+</CustomMix>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameFilterTemplate>
+ <Word Value="webzen" />
+ <Word Value="Webzen" />
+ <Word Value="wEbzen" />
+ <Word Value="weBzen" />
+ <Word Value="webZen" />
+ <Word Value="webzEn" />
+ <Word Value="webzeN" />
+ <Word Value="WEbzen" />
+ <Word Value="WeBzen" />
+ <Word Value="WebZen" />
+ <Word Value="WebzEn" />
+ <Word Value="WebzeN" />
+ <Word Value="WEBzen" />
+ <Word Value="WEbZen" />
+ <Word Value="WEbzEn" />
+ <Word Value="WEbzeN" />
+ <Word Value="WEBZen" />
+ <Word Value="WEBzEn" />
+ <Word Value="WEBzeN" />
+ <Word Value="WEBZen" />
+ <Word Value="WEBZEn" />
+ <Word Value="WEBZeN" />
+ <Word Value="WEBZEN" />
+ <Word Value="K2 Network" />
+ <Word Value="K2Network" />
+ <Word Value="k2 network" />
+ <Word Value="k2network" />
+ <Word Value="|&lt;2 |\|37\/\/0R|&lt;" />
+ <Word Value="|&lt;2|\|37\/\/0R|&lt;" />
+ <Word Value="|&lt;2 |\|3+\X/0|2|&lt;" />
+ <Word Value="|&lt;2|\|3+\X/0|2|&lt;" />
+</NameFilterTemplate>

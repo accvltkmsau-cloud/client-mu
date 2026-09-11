@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTemplate>
+ <Dialog Index="0" NumAnswer="0" Text="Aye! Is there anything you need?">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="1" NumAnswer="0" Text="Hello! I am Pasi the Mage. Hahaha! Hmmm... The movement of the stars doesn't seem quite right. Your future... Hmm... I can't see your future either... Why's that...?">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="2" NumAnswer="0" Text="Hello! My name is Baz and I am the vault keeper. I can be of help to you wherever you go. Don't hesitate to leave your belongings with me.">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="3" NumAnswer="0" Text="Many adventurers have told me that the sound of the harp soothes and wipes away their fatigue. Do you need my help?">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="4" NumAnswer="0" Text="Hello! My name is Baz and I am the vault keeper. I can be of help to you wherever you go. Don't hesitate to leave your belongings with me.">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="5" NumAnswer="0" Text="Have you brought enough money? Without it, I can't combine the items because I need money to continue with my research. Understood? Do you want to know how much money is needed?">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="6" NumAnswer="0" Text="Welcome to MU! Press the F1 key if you need any assistance while traveling around the MU continent.">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="7" NumAnswer="0" Text="Is it your first time in Lorencia? Go to the southeast exit in front of the fountain and try to hunt Budge Dragons or Spiders. The Skeletons in Northwest are too dangerous.">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="8" NumAnswer="0" Text="Welcome to Noria. If it's your first time, pass through the vault guard and go to the south exit. Try to hunt low level monsters like Scorpions or Goblins.">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="9" NumAnswer="0" Text="If you need a detailed guide of the MU continent check out http://muonline.webzen.net">
+  <Answer Index="0" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="50" NumAnswer="1" Text="The 'Scroll of the Emperor', which speaks of Muren, the first emperor of MU, is said to have been seen around the Lost Tower, Atlans, and the Dungeon.">
+  <Answer Index="0" Link="74" Return="-1" Text="I didn't know such a thing existed..." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="51" NumAnswer="1" Text="Your offering to God isn't enough. I will tell you about the oracle if you make an offering of 1,000,000 Zen.">
+  <Answer Index="0" Link="51" Return="2" Text="I shall return with 1,000,000 Zen." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="52" NumAnswer="1" Text="The 'Scroll of the Emperor', which speaks of Muren, the first emperor to unify MU, is said to have been seen around the Lost Tower, Atlans, and the Dungeon.">
+  <Answer Index="0" Link="75" Return="-1" Text="Tell me more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="53" NumAnswer="3" Text="The 'Scroll of the Emperor' is enwrapped in a powerful force. Anyone who reads it shall be blessed with that powerful force.">
+  <Answer Index="0" Link="52" Return="-1" Text="Please repeat the story." />
+  <Answer Index="1" Link="54" Return="1" Text="I will go find it." />
+  <Answer Index="2" Link="53" Return="2" Text="I don't care." />
+  <Answer Index="3" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="54" NumAnswer="1" Text="Go find the 'Scroll of the Emperor'. You will be granted with great power upon reading it.">
+  <Answer Index="0" Link="54" Return="2" Text="I will go find it." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="55" NumAnswer="1" Text="You've found the 'Scroll of the Emperor'! The commemoration of unification of the Mu Empire's first emperor Muren was recorded with the power of magic here, you see. The one who possesses the 'Scroll of the Emperor' is granted with great power.">
+  <Answer Index="0" Link="55" Return="3" Text="Tell me about the record." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="56" NumAnswer="1" Text="A historical record of the first emperor Muren contains the commemoration of peace through the triumph of Muren over all warlords and by doing so, unified the continent into the Empire or MU.">
+  <Answer Index="0" Link="57" Return="-1" Text="Please continue." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="57" NumAnswer="2" Text="Muren was one of the three heroes that ended the chaos brought upon the people by Sekneum's invasion.">
+  <Answer Index="0" Link="56" Return="-1" Text="Tell me the previous story." />
+  <Answer Index="1" Link="80" Return="-1" Text="Please continue." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="58" NumAnswer="2" Text="Magical artifacts may be found and they are called the 'Broken Sword', 'Tear of Elf', and the 'Soul of Wizard'. The 'Broken Sword' was offered by the dark knights as a symbol of their bravery, loyalty and their wish for prosperity.">
+  <Answer Index="0" Link="57" Return="-1" Text="Tell me the previous story." />
+  <Answer Index="1" Link="81" Return="-1" Text="Please continue." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="59" NumAnswer="2" Text="The 'Soul of Wizard' was offered by the dark wizards as a symbol of their vow to use their power for the peace and freedom of the empire. Mu Year 10, an excerpt of the commemoration of peace record...">
+  <Answer Index="0" Link="58" Return="-1" Text="Tell me the previous story." />
+  <Answer Index="1" Link="59" Return="2" Text="That's what happened..." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="60" NumAnswer="2" Text="If you've read the 'Scroll of the Emperor', seek out the 'Broken Sword' that the ancient dark knights used at the commemoration of peace. From what I've heard, a few dark knights have found it in Atlans, the Lost Tower and Tarkan.">
+  <Answer Index="0" Link="61" Return="1" Text="I will find it." />
+  <Answer Index="1" Link="60" Return="2" Text="I give up." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="61" NumAnswer="1" Text="Danger lurks behind every corner in those places and the 'Broken Sword' is not easily spotted. But if you find it, new power will be bestowed upon you! Return to me once you find the 'Broken Sword'.">
+  <Answer Index="0" Link="61" Return="2" Text="I shall find and return with it." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="62" NumAnswer="1" Text="Brave dark knight, you've found the 'Broken Sword'! After the unification of the Mu Continent, Muren, the first emperor, broke his sword 'Apocalypse' as a symbol of his wish that no war ever erupts again.">
+  <Answer Index="0" Link="76" Return="-1" Text="Tell me more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="63" NumAnswer="1" Text="After the War, dark knights who wished to become blade knights started seeking the ancient 'Broken Sword' in order to prove their bravery.">
+  <Answer Index="0" Link="79" Return="-1" Text="That's what happened!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="64" NumAnswer="1" Text="You've read the 'Scroll of the Emperor', haven't you. Then you must know about the 3 treasures recorded in the 'Scroll of the Emperor'. Go find the crystal 'Tear of Elf' made by the ancient elves with the strength of the spirit.">
+  <Answer Index="0" Link="77" Return="-1" Text="Please tell me more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="65" NumAnswer="1" Text="That place is a very dangerous place and the 'Tear of Elf' is extremely hard to find. But if you find the 'Tear of Elf', new power will be bestowed upon you. Now, go find the 'Tear of Elf' and return to me.">
+  <Answer Index="0" Link="65" Return="2" Text=" I will go find the 'Tear of Elf'!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="66" NumAnswer="1" Text="You've found the 'Tear of Elf'! After the War, Lunedil, the elf queen, created the tear stone by casting magic on the spirit stone so that elves could invoke the goddess' power and build their power.">
+  <Answer Index="0" Link="78" Return="-1" Text="Please continue." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="67" NumAnswer="1" Text="You've read the 'Scroll of the Emperor', haven't you. Then you must know about the 3 treasures recorded in it.">
+  <Answer Index="0" Link="82" Return="-1" Text="Please continue." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="68" NumAnswer="1" Text="With your power, I am sure that you will find the 'Soul of Wizard'. Now go find the 'Soul of Wizard' and return to me once you've found it.">
+  <Answer Index="0" Link="68" Return="2" Text="I'm going to find the 'Soul of Wizard'." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="69" NumAnswer="1" Text="I knew you'd find the 'Soul of Wizard'! Etramu, the greatest wizard of Arka, created a soul-protecting magic stone, worried that the weak dark knights might falter at the attack of Kundun.">
+  <Answer Index="0" Link="70" Return="-1" Text="Please tell me more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="70" NumAnswer="1" Text="A dark wizard with this magic stone becomes a soul master.">
+  <Answer Index="0" Link="70" Return="3" Text="I am now a soul master!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="71" NumAnswer="1" Text="Your offering to God isn't enough. I will tell you about the oracle if you make an offering of 2,000,000 Zen.">
+  <Answer Index="0" Link="71" Return="2" Text="I shall return with 2,000,000 Zen." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="72" NumAnswer="1" Text="New power has been bestowed upon you as a result of your strong will and strength. May the grace of Lugard be with you at all times.">
+  <Answer Index="0" Link="72" Return="2" Text="May the grace of God be with you..." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="73" NumAnswer="1" Text="You already possess great power. I do not have an oracle for you.">
+  <Answer Index="0" Link="73" Return="2" Text="I will return later." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="74" NumAnswer="1" Text="Return after you've become stronger.">
+  <Answer Index="0" Link="74" Return="2" Text="I shall return when I'm stronger." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="75" NumAnswer="1" Text="If you've developed into a strong warrior, you will be able to find it.">
+  <Answer Index="0" Link="53" Return="-1" Text="Please continue." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="76" NumAnswer="1" Text="From then on, a custom was born where dark knights who wished to become blade knights broke their swords as a symbol of their vow to never wield their swords unjustly.">
+  <Answer Index="0" Link="63" Return="-1" Text="Tell me more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="77" NumAnswer="2" Text="Some of the adventurous elves have said that they were seen in the Lost Tower, Atlans and Tarkan.">
+  <Answer Index="0" Link="65" Return="1" Text="'I will go find it!" />
+  <Answer Index="1" Link="77" Return="2" Text="I do not wish to go to such a place." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="78" NumAnswer="1" Text="This is called the 'Tear of Elf', and the elf that finds this stone becomes a muse elf, able to conjure the power of the elven Goddesses.">
+  <Answer Index="0" Link="78" Return="3" Text="I've become a muse elf!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="79" NumAnswer="1" Text="Since you have found both the 'Scroll of the Emperor' and the 'Broken Sword', you will be called a blade knight from now on.">
+  <Answer Index="0" Link="79" Return="3" Text="I've become a Blade Knight!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="80" NumAnswer="2" Text="After the empire was united, people swore loyalty to the emperor. Some of the treasures offered as a symbol of their loyalty are as follows.">
+  <Answer Index="0" Link="57" Return="-1" Text="Tell me the previous story." />
+  <Answer Index="1" Link="58" Return="-1" Text="Please continue." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="81" NumAnswer="2" Text="The 'Tear of Elf' was offered by the elves as a token of their vow to strengthen the power of elves and humans.">
+  <Answer Index="0" Link="58" Return="-1" Text="Tell me the previous story." />
+  <Answer Index="1" Link="59" Return="-1" Text="Please continue." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="82" NumAnswer="2" Text="Go find the 'Soul of Wizard'. According to the ancient dark wizards, it was last seen around the Lost Tower, Atlans and Tarkan.">
+  <Answer Index="0" Link="68" Return="1" Text="I will go find the it" />
+  <Answer Index="1" Link="82" Return="2" Text="I will return later." />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="90" NumAnswer="1" Text="You've finished reading the 'Decree of the Emperor'. But do you know about the confidential contract between Muren and Semeden the leader summoner? Muren was promised of one thing instead of transferring Elbe to be under the empire.">
+  <Answer Index="0" Link="91" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="91" NumAnswer="2" Text="The Continent of MU had the gate of a dimension of the world under the supervision of the summoners. And Semeden had given the Abyss of Eye as a token of promise. Please go and bring back the Abyss of Eye.">
+  <Answer Index="0" Link="92" Return="1" Text="Accept the request" />
+  <Answer Index="1" Link="91" Return="2" Text="Deny the request" />
+  <Answer Index="2" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="92" NumAnswer="1" Text="I've heard that the Abyss of Eye was found around Atlance, Lost Tower and Tarkan. Come back with the Abyss of Eye as soon as you find it.">
+  <Answer Index="0" Link="92" Return="2" Text="Finish telling the story" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="93" NumAnswer="1" Text="You've found the Abyss of Eye. This has been known as an object composed of the element inexistent in the real world. It's contagious from the world prior to the present, which the memory returns along with it.">
+  <Answer Index="0" Link="94" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="94" NumAnswer="1" Text="Abyss of Eye holds a special meaning for me as I supervise and communicate through the dimensions of this world. If you bring back the Abyss of Eye, I will give you the Blood Summoner title for Semeden the supervisor of your dimension.">
+  <Answer Index="0" Link="94" Return="3" Text="Imposition as the Blood Summoner" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="100" NumAnswer="1" Text="The legendary treasure called 'Ring of Glory' is needed to acquire the blessing and strength of Muren. It has manifested its presence once more within our lands. But you are not ready. Wait until you are more experienced.">
+  <Answer Index="0" Link="101" Return="-1" Text="Then what do I need to do?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="101" NumAnswer="1" Text="More experience is required to survive this Quest. Return when you have gained up too 220 levels according to the trials of the lost empire.">
+  <Answer Index="0" Link="101" Return="2" Text="I will return when my time has come." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="102" NumAnswer="1" Text="The legendary treasure called 'Ring of Glory' is needed to acquire the blessing and strength of Muren. It has manifested its presence once more within our lands.">
+  <Answer Index="0" Link="103" Return="-1" Text="I wish to hear more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="103" NumAnswer="1" Text="Whoever possesses the 'Ring of Glory' gains the blessing of Muren. It is said to be found in the deserts across the sea.">
+  <Answer Index="0" Link="104" Return="-1" Text="Why is that?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="104" NumAnswer="3" Text="The monsters there are quite powerful. They posses the ring.">
+  <Answer Index="0" Link="102" Return="-1" Text="Please repeat the story." />
+  <Answer Index="1" Link="105" Return="1" Text="I shall try." />
+  <Answer Index="2" Link="104" Return="2" Text="I'm not ready yet." />
+  <Answer Index="3" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="105" NumAnswer="1" Text="The 'Ring of Glory' may be in a place closer than you think. When you acquire it, you will definitely feel a change in your power. But it won't be an easy task.">
+  <Answer Index="0" Link="105" Return="2" Text="I will return with it." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="108" NumAnswer="1" Text="This is indeed the 'Ring of Glory.' It glows with a mystical aura, more so than I imagined. This ring possesses a legend that you cannot even fathom. It is a true blessing in your hands.">
+  <Answer Index="0" Link="109" Return="-1" Text="I see." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="109" NumAnswer="1" Text="This ring is said to revive life and grant perpetual youth. But it only works on heroes that possess the power to wield its strength.">
+  <Answer Index="0" Link="110" Return="-1" Text="Why's that?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="110" NumAnswer="1" Text="It's because Etramu, the Wizard of Arka, cast a spell in order to prevent the evil from taking advantage of it. But the ring says you are fit for it.">
+  <Answer Index="0" Link="111" Return="-1" Text="Is that so?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="111" NumAnswer="1" Text="The 'Ring of Glory' was created when the prophecy Secromicon was created with an imperishable metal. The two have been considered sacred, but the whereabouts became unknown when it was taken during the revolt of the deputy commander Gaion.">
+  <Answer Index="0" Link="112" Return="-1" Text="Is that so?!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="112" NumAnswer="1" Text="Now that the 'Ring of Glory' has been found, you will be able to grow even more as a warrior.">
+  <Answer Index="0" Link="112" Return="3" Text="I feel my ability increasing!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="113" NumAnswer="1" Text="You will grow into a being far greater than before. Please use your power for the peace of our empire.">
+  <Answer Index="0" Link="113" Return="2" Text="I will." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="114" NumAnswer="1" Text="You already possess the sacred power.">
+  <Answer Index="0" Link="114" Return="2" Text="I will return later." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="115" NumAnswer="1" Text="The 'Dark Stone' that is said to give warriors new power was found on the continent of Mu. However, you are not ready to use that power. Wait till you are ready.">
+  <Answer Index="0" Link="101" Return="-1" Text="I will return when I am ready." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="116" NumAnswer="1" Text="In order to acquire the full power, you need to prepare yourself with the 'Scroll of the Emperor' which records the historical facts of Emperor Muren. Go to 'Sevina' in Devias.">
+  <Answer Index="0" Link="116" Return="2" Text="I will return when I am ready." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="117" NumAnswer="1" Text="You have failed to become a Blade Knight. Return after you have acquired new power through the 'Ring of Glory.">
+  <Answer Index="0" Link="117" Return="2" Text="I will return when I am ready." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="118" NumAnswer="1" Text="You must offer 3,000,000 zen to the Gods to sanctify this quest. Your zen is not enough">
+  <Answer Index="0" Link="118" Return="2" Text="I will return with 3,000,000 Zen." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="119" NumAnswer="1" Text="Your offering to God isn't enough. I will tell you about the oracle if you make an offering of 2,000,000 Zen.">
+  <Answer Index="0" Link="119" Return="2" Text="I will return with 2,000,000 Zen" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="130" NumAnswer="1" Text="It indeed is the 'Ring of Glory'. Look at how it shines. This ring contains time and legend that you cannot even begin to fathom. It's a blessing that you have found it!.">
+  <Answer Index="0" Link="131" Return="-1" Text="I'm surprised to hear that!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="131" NumAnswer="1" Text="Yes, the ring is said to have the power to bring life to the dead and grant perpetual youth. It will only perform its best when it is in the hands of a true hero that can control the ring's power.">
+  <Answer Index="0" Link="132" Return="-1" Text="Why is that so?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="132" NumAnswer="1" Text="It is because Etramu, the Wizard of Arka, put a spell on it so that it doesn't fall into the hands of the wrong people. But it seems as though you are the right person!">
+  <Answer Index="0" Link="133" Return="-1" Text="Is that so!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="133" NumAnswer="1" Text="The 'Ring of Glory' was created when the prophecy Secromicon was created with an imperishable metal. The two have been considered sacred, but the whereabouts became unknown when it was taken during the revolt of the deputy commander Gaion.">
+  <Answer Index="0" Link="134" Return="-1" Text="Is that so!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="134" NumAnswer="1" Text="Now that the 'Ring of Glory' has been found, you will be able to grow even more as a warrior.">
+  <Answer Index="0" Link="134" Return="3" Text="I feel my ability increasing!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="135" NumAnswer="1" Text="If you would like to acquire new power, listen to me carefully. The 'Dark Stone' that is said to give warriors new power was found on the continent of Mu.">
+  <Answer Index="0" Link="136" Return="-1" Text="I would like to hear more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="136" NumAnswer="1" Text="With the 'Dark Stone', you can master a new ability. It won't be an easy task, but since you were able to acquire the 'Ring of Glory' it might be possible for you.">
+  <Answer Index="0" Link="137" Return="-1" Text="What do I need to do?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="137" NumAnswer="3" Text="Rumor has it that you can find the stone in Tarkan and Icarus. Be careful of the monsters. Those monsters that possess the stone will only react to those who have a special ability.">
+  <Answer Index="0" Link="135" Return="-1" Text="Please repeat the story again." />
+  <Answer Index="1" Link="138" Return="1" Text="Then I shall try!" />
+  <Answer Index="2" Link="137" Return="2" Text="I do not feel confident yet." />
+  <Answer Index="3" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="138" NumAnswer="1" Text="The 'Dark Stone' is calling on you right now. With it in hand, you will surely acquire power that you have never felt before, but many other warriors are desperately in search of the stone as well.">
+  <Answer Index="0" Link="138" Return="2" Text="I shall return with the 'Dark Stone'." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="139" NumAnswer="1" Text="So you've found the 'Dark Stone. It is recorded that this stone is the dried up blood of the hero 'Benelope' who fought in the War of the Gods and Satan.">
+  <Answer Index="0" Link="140" Return="-1" Text="Tell me more." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="140" NumAnswer="1" Text="Benelope is of a knight descent. After his defeat in the War, he trained for new magic and fighting skills. These skills have been silently initiated to warriors with the blood of a knight in order to fight against the powerful force of Kundun.">
+  <Answer Index="0" Link="141" Return="-1" Text="So..." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="141" NumAnswer="1" Text="Yes, the blood of a warrior runs through you. Thus, the power of Benelope will be granted to you through the Dark Stone.">
+  <Answer Index="0" Link="141" Return="3" Text="I have been granted new power!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="142" NumAnswer="1" Text="You have acquired new power through the 'Ring of Glory'. But there is something that you don't know.">
+  <Answer Index="0" Link="143" Return="-1" Text="What is that?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="143" NumAnswer="1" Text="It is possible that you might be able to acquire new power. The legendary treasure called 'Dark Stone', which was considered sacred along with the 'Ring of Glory', is calling on you.">
+  <Answer Index="0" Link="143" Return="2" Text="That is hard to believe!" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="144" NumAnswer="1" Text="Lugard the God of Light has requested a favor of you. However, you're still not qualified. I suggest you come back when you've become stronger.">
+  <Answer Index="0" Link="144" Return="2" Text="I'll be back when I'm stronger." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="145" NumAnswer="1" Text=" Lugard the God of Light has requested a favor of you. However, you're still not qualified. Please come back when you've completed the previous quest.">
+  <Answer Index="0" Link="145" Return="2" Text="I'll come back when I've completed it." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="146" NumAnswer="1" Text="You do not have enough Zen. You may apply for this mission by offering 5,000,000 Zen to Lugard.">
+  <Answer Index="0" Link="146" Return="2" Text="I'll come back when I am ready." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="147" NumAnswer="1" Text=" Lugard the God of Light has requested a favor of you.">
+  <Answer Index="0" Link="148" Return="-1" Text="What is it?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="148" NumAnswer="1" Text=" Lugard has asked you to seek heroes to oppose Balgass' new threat to MU.">
+  <Answer Index="0" Link="149" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="149" NumAnswer="1" Text="We understand that Balgass' army's coming against the Continent of MU through the Cry Wolf Fortress, but there has not been an exact interpretation of the whole story.">
+  <Answer Index="0" Link="150" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="150" NumAnswer="1" Text="We're trying hard to understand the meaning of Lugar's trust towards us, but we still struggle to due to our inadequate ability.">
+  <Answer Index="0" Link="151" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="151" NumAnswer="3" Text="I believe you are the people to offer us help. Are you interested in working with us?">
+  <Answer Index="0" Link="147" Return="-1" Text="Listen again." />
+  <Answer Index="1" Link="152" Return="1" Text="Accept the request" />
+  <Answer Index="2" Link="151" Return="2" Text="Deny the request" />
+  <Answer Index="3" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="152" NumAnswer="1" Text="In order for you to help us, you must oppose Balgass' army. Before you begin, I need to check if you're adequately powerful for the mission.">
+  <Answer Index="0" Link="153" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="153" NumAnswer="1" Text="Destroy Death Beam, Hellmaine and Dark Phoenix monsters which dominate over Tarkan, Aida and Icarus and bring back 3 pieces of evidence accordingly.">
+  <Answer Index="0" Link="153" Return="2" Text="Finish telling the story" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="154" NumAnswer="1" Text="Congratulations, you've completed the duty. Here's a small something for your hard work.">
+  <Answer Index="0" Link="155" Return="3" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="155" NumAnswer="1" Text="Balgass is a great threat as he is since he's in cooperation with Eresia the Queen of Sorcery and has brought such danger into this world">
+  <Answer Index="0" Link="156" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="156" NumAnswer="1" Text="We predict that Balgass is attempting a new threat against the Continent of MU with his army of evil sorcery.">
+  <Answer Index="0" Link="156" Return="2" Text="Finish telling the story" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="157" NumAnswer="1" Text="You don't have enough fund. Please offer 7,000,000 Zen to Lugard to apply for this mission.">
+  <Answer Index="0" Link="157" Return="2" Text="I'll come back when I am ready." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="158" NumAnswer="1" Text="Welcome, you are truly ready to help us now.">
+  <Answer Index="0" Link="159" Return="-1" Text="What do you need help with?" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="159" NumAnswer="1" Text="Well, according to our information Balgass has formed a locations called the Barracks. The 12 apostles of Lugard believe that this is a new threat from Balgass.">
+  <Answer Index="0" Link="160" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="160" NumAnswer="1" Text="Exact information about the 'Barrack' drives one to enter the Barrack zone to diminish the threat of the further development of Balgass' army.">
+  <Answer Index="0" Link="161" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="161" NumAnswer="3" Text="Fortunately Lugar's guardianship could help find the way to enter Balgass' Barrack. Enter the zone, destroy the soldiers and gain accurate information. Will you bring back the proper data accordingly?">
+  <Answer Index="0" Link="158" Return="-1" Text="Listen again." />
+  <Answer Index="1" Link="162" Return="1" Text="Accept the request" />
+  <Answer Index="2" Link="161" Return="2" Text="Deny the request" />
+  <Answer Index="3" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="162" NumAnswer="1" Text="Go to the northern graveyard of Cry Wolf zone and find the soldier refuge from Balgass' Barrack. Lugar's blessing has caused one to have intelligence. He calls himself, Werewolf Guardsman.">
+  <Answer Index="0" Link="163" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="163" NumAnswer="1" Text="He will lead you to Balgass' Barrack. Enter the zone and destroy minimum 10 monsters in the Barrack.">
+  <Answer Index="0" Link="163" Return="2" Text="Finish telling the story" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="164" NumAnswer="1" Text="You've safely completed the duty I appreciate your hard work and the strong will.">
+  <Answer Index="0" Link="165" Return="3" Text="Continue talking." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="165" NumAnswer="1" Text="You have brought great help to build peace to the Continent of MU and Cry Wolf with the information and all the destroyed monsters.">
+  <Answer Index="0" Link="165" Return="2" Text="Finish telling the story" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="166" NumAnswer="1" Text="You are not qualified yet. Visit Security Guard Mallon, and come back when you are fully qualified for the mission.">
+  <Answer Index="0" Link="166" Return="2" Text="Finish the story." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="167" NumAnswer="1" Text="You don't have enough fund. Please offer 10,000,000 Zen to Lugard to apply for this mission.">
+  <Answer Index="0" Link="167" Return="2" Text="I'll come back when I am ready." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="168" NumAnswer="1" Text="Your initiative courage has shown a great hope to us all.">
+  <Answer Index="0" Link="169" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="169" NumAnswer="1" Text="Balgass has hidden himself in a separate place to restore himself from the tiresome body.">
+  <Answer Index="0" Link="170" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="170" NumAnswer="1" Text="In order to follow Lugar's entrusted mission, Balgass' exact location must be found and the army in training destroyed.">
+  <Answer Index="0" Link="171" Return="-1" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="171" NumAnswer="3" Text="The final mission to follow after Lugar's mission includes a huge and difficult test. Are you still interested?">
+  <Answer Index="0" Link="168" Return="-1" Text="Listen again." />
+  <Answer Index="1" Link="172" Return="1" Text="Accept the request" />
+  <Answer Index="2" Link="171" Return="2" Text="Deny the request" />
+  <Answer Index="3" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="172" NumAnswer="1" Text="Enter inside through the door at the northern edge of Balgass' Barrack; We will have the place ready beforehand.">
+  <Answer Index="0" Link="172" Return="2" Text="Finish telling the story" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="173" NumAnswer="1" Text="Congratulations, you've passed Lugar's final test. And now his blessing will be with you wherever you go.">
+  <Answer Index="0" Link="174" Return="3" Text="Continue listening." />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+ <Dialog Index="174" NumAnswer="1" Text="Your hard work has paid off to keep peace in the Continent of MU and Cry Wolf from Balgass' new threat. I deeply appreciate your help.">
+  <Answer Index="0" Link="174" Return="2" Text="Finish telling the story" />
+  <Answer Index="1" Link="-1" Return="0" Text="" />
+ </Dialog>
+</DialogTemplate>

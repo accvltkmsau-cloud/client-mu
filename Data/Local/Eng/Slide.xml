@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlideTemplate CreateDelay="60" Speed="2.5">
+ <Group Index="0" Level="15">
+  <Text Value="You must be at least level 15 to enter Devias" />
+  <Text Value="The entrance to Devias in Lorencia is at coordinates: 7, 40" />
+  <Text Value="The entrance to Devias in Lorencia is at coordinates: 7, 40" />
+  <Text Value="Characters over level 10 will lose a certain percentage of their experience points and zen when they die." />
+  <Text Value="Press Q, W, E to use the items such as healing potion, mana potion, antidote, alcohol or town portal scroll registered under those keys." />
+  <Text Value="Lorencia's Vault Coordinates: (140, 110), (147, 144)" />
+  <Text Value="Lorencia's Vault Coordinates: (173, 95)" />
+  <Text Value="Vault usage fee is deducted from your inventory according to your level." />
+  <Text Value="Use the lock function on your vault to protect it." />
+  <Text Value="Point the cursor on the skill button and press ctrl+number key to set hotkey." />
+  <Text Value="The entrance to Noria in Lorencia is at coordinates 214, 244." />
+  <Text Value="The entrance to Lorencia in Noria is at coordinates 153, 5" />
+  <Text Value="Press space bar to collect loot." />
+  <Text Value="Hanzo the Blacksmith in Lorencia who sells knight equipment is located at coordinates 117, 140" />
+  <Text Value="Pasi the Mage in Lorencia who sells wizard equipment is located at coordinates 119, 112." />
+  <Text Value="The Peddler in Lorencia who sells beginner's equipment is at coordinates 183, 136." />
+  <Text Value="Elf Lala in Noria who sells beginner's equipment is located at coordinate 173, 124." />
+  <Text Value="Eo The Craftsman in Noria who sells elf equipment is at coordinates 196,124." />
+  <Text Value="5 stat points are rewarded each time you level up." />
+  <Text Value="To combat normally, left click on monster." />
+  <Text Value="To use skill during combat, right click on monster." />
+  <Text Value="Right click on scrolls or orbs to master the noted skills." />
+  <Text Value="My Friend function is accessible only from level 6." />
+  <Text Value="To use skills or magic, right click on monster." />
+  <Text Value="The command (trade, party, whisper, etc.) system is accessible by pressing the 'D' key." />
+  <Text Value="Only the level above 10 can use the Chaos Goblin." />
+  <Text Value="Only the level above 6 can use the personal store. The commands are '/personal store' and '/purchase', it can be created by shortcut key S." />
+  <Text Value="Use '/View store on' and '/View store off' to set the command for viewing/closing the personal store." />
+  <Text Value="Click shortcut key T to check the quest information." />
+ </Group>
+ <Group Index="1" Level="30">
+  <Text Value="You must be at least level 20 to enter the Dungeon." />
+  <Text Value="The entrance to the Dungeon is at coordinates 122, 231 in Lorencia." />
+  <Text Value="Pressing ctrl+E while keeping the cursor on the item (alcohol, antidote, and town portal scroll) will register a shortcut key for the item." />
+  <Text Value="Wearing a level +5 or above boots allows you to run." />
+  <Text Value="When poisoned, your character becomes green and continues to receive damage for 10 seconds." />
+  <Text Value="When poisoned, you can cure yourself by using the antidote." />
+  <Text Value="Using the 'town portal scroll' will transport you to the nearest town or safe area." />
+  <Text Value="To save a screenshot in your Mu folder, press the 'Print Screen' key." />
+  <Text Value="Item's performance level decreases when the durability decreases." />
+  <Text Value="To set macro for chatting, type '/number(1~10) &lt;message&gt;'" />
+  <Text Value="To use the saved chatting macro, press Alt+number." />
+  <Text Value="To fix your weapon or armor, go to the weapon merchants in town." />
+  <Text Value="To send a message to party members, type '~ message'" />
+  <Text Value="To send a message to guild members, type '@ message'" />
+  <Text Value="To trade items or zen with another character, type '/trade' while keeping the cursor on the opposite character." />
+  <Text Value="The wizard in Devias who sells mid level wizard items is at coordinate 225, 50." />
+  <Text Value="The weapon merchant in Devias who sells mid level equipment is at coordinate 188, 46." />
+  <Text Value="Devias' Vault Coordinates: (218, 61)" />
+  <Text Value="The supplementary magic of the Elf can be used by clicking the name in the party window." />
+  <Text Value="Use '/View store on' and '/View store off' to set the command for viewing/closing the personal store." />
+  <Text Value="Click shortcut key T to check the quest information." />
+  <Text Value="" />
+ </Group>
+ <Group Index="2" Level="50">
+  <Text Value="Jewel of Chaos is used to combining items." />
+  <Text Value="You can raise weapon/armor/wing level up to 6 by using the Jewel of Bless." />
+  <Text Value="You can raise weapon/armor/wing level up to 9 by using the Jewel of Soul." />
+  <Text Value="The success rate of the Jewel of Soul is 50%. The rate increases by 25% if the item has luck option attached." />
+  <Text Value="The item's level may decrease if the upgrade fails with the Jewel of Soul." />
+  <Text Value="To invite someone to your party, type '/party' while keeping the cursor on the character." />
+  <Text Value="The defense rate increases by 10% when your armor set is of the same type." />
+  <Text Value="Excellent type item names are displayed in green." />
+  <Text Value="Vault usage fee increases as your character level increases." />
+  <Text Value="Critical Damage (max damage) is displayed in light blue." />
+  <Text Value="Excellent Damage (110% of max damage) is displayed in green." />
+  <Text Value="The Chaos Goblin in Noria who combines items is at coordinates 180, 102." />
+  <Text Value="At level 100, you can become a guild master." />
+  <Text Value="The Guild Advocate NPC who registers guilds is in Devias at coordinate 215, 44." />
+  <Text Value="Alex in Lorencia who sells mid level items is at coordinate 63, 130." />
+  <Text Value="Thompson Kenel the Weapon Merchant in Devias who sells mid level items is at coordinates 9, 76." />
+  <Text Value="At level 50, you will be able to use the '/warp' command or the hotkey 'M' to teleport to another region." />
+  <Text Value="The entrance to Atlans is at coordinates 240, 242 in Noria." />
+  <Text Value="Use '/View store on' and '/View store off' to set the command for viewing/closing the personal store." />
+  <Text Value="Click shortcut key T to check the quest information." />
+ </Group>
+</SlideTemplate>

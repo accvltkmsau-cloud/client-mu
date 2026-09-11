@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MoveReqTemplate>
+ <Move Index="1" MainMap="LorenMarket" SubMap="LorenMarket" ReqLevel="10" ReqMaxLevel="-1" ReqZen="0" Gate="333" />
+ <Move Index="2" MainMap="Npc-Bots-Golbin" SubMap="Npc-Bots-Golbin" ReqLevel="20" ReqMaxLevel="-1" ReqZen="0" Gate="345" />
+ <Move Index="3" MainMap="Arena" SubMap="Arena" ReqLevel="50" ReqMaxLevel="-1" ReqZen="2000" Gate="50" />
+ <Move Index="4" MainMap="Lorencia" SubMap="Lorencia" ReqLevel="10" ReqMaxLevel="-1" ReqZen="2000" Gate="17" />
+ <Move Index="5" MainMap="LorenDeep" SubMap="LorenDeep" ReqLevel="10" ReqMaxLevel="-1" ReqZen="0" Gate="106" />
+ <Move Index="6" MainMap="Noria" SubMap="Noria" ReqLevel="10" ReqMaxLevel="-1" ReqZen="2000" Gate="27" />
+ <Move Index="7" MainMap="Elbeland" SubMap="Elbeland" ReqLevel="10" ReqMaxLevel="-1" ReqZen="2000" Gate="267" />
+ <Move Index="8" MainMap="Elbeland2" SubMap="Elbeland2" ReqLevel="10" ReqMaxLevel="-1" ReqZen="2500" Gate="268" />
+ <Move Index="9" MainMap="Elbeland3" SubMap="Elbeland3" ReqLevel="10" ReqMaxLevel="-1" ReqZen="3000" Gate="269" />
+ <Move Index="10" MainMap="Devias" SubMap="Devias" ReqLevel="20" ReqMaxLevel="-1" ReqZen="2000" Gate="22" />
+ <Move Index="11" MainMap="Devias2" SubMap="Devias2" ReqLevel="20" ReqMaxLevel="-1" ReqZen="2500" Gate="72" />
+ <Move Index="12" MainMap="Devias3" SubMap="Devias3" ReqLevel="20" ReqMaxLevel="-1" ReqZen="3000" Gate="73" />
+ <Move Index="13" MainMap="Devias4" SubMap="Devias4" ReqLevel="20" ReqMaxLevel="-1" ReqZen="3500" Gate="74" />
+ <Move Index="14" MainMap="Dungeon" SubMap="Dungeon" ReqLevel="30" ReqMaxLevel="-1" ReqZen="3000" Gate="2" />
+ <Move Index="15" MainMap="Dungeon2" SubMap="Dungeon2" ReqLevel="40" ReqMaxLevel="-1" ReqZen="3500" Gate="6" />
+ <Move Index="16" MainMap="Dungeon3" SubMap="Dungeon3" ReqLevel="50" ReqMaxLevel="-1" ReqZen="4000" Gate="10" />
+ <Move Index="17" MainMap="Atlans" SubMap="Atlans" ReqLevel="70" ReqMaxLevel="-1" ReqZen="4000" Gate="49" />
+ <Move Index="18" MainMap="Atlans2" SubMap="Atlans2" ReqLevel="80" ReqMaxLevel="-1" ReqZen="4500" Gate="75" />
+ <Move Index="19" MainMap="Atlans3" SubMap="Atlans3" ReqLevel="90" ReqMaxLevel="-1" ReqZen="5000" Gate="76" />
+ <Move Index="20" MainMap="LostTower" SubMap="LostTower" ReqLevel="50" ReqMaxLevel="-1" ReqZen="5000" Gate="42" />
+ <Move Index="21" MainMap="Tarkan" SubMap="Tarkan" ReqLevel="140" ReqMaxLevel="-1" ReqZen="8000" Gate="57" />
+ <Move Index="22" MainMap="Tarkan2" SubMap="Tarkan2" ReqLevel="140" ReqMaxLevel="-1" ReqZen="8500" Gate="77" />
+ <Move Index="23" MainMap="Aida1" SubMap="Aida1" ReqLevel="150" ReqMaxLevel="-1" ReqZen="8500" Gate="119" />
+ <Move Index="24" MainMap="Aida2" SubMap="Aida2" ReqLevel="150" ReqMaxLevel="-1" ReqZen="8500" Gate="140" />
+ <Move Index="25" MainMap="Icarus" SubMap="Icarus" ReqLevel="170" ReqMaxLevel="-1" ReqZen="10000" Gate="63" />
+ <Move Index="26" MainMap="Scarlet Icarus" SubMap="Scarlet Icarus" ReqLevel="250" ReqMaxLevel="-1" ReqZen="15000" Gate="631" />
+ <Move Index="27" MainMap="Crywolf" SubMap="Crywolf" ReqLevel="10" ReqMaxLevel="-1" ReqZen="0" Gate="118" />
+ <Move Index="28" MainMap="Kanturu1" SubMap="Kanturu_ruin1" ReqLevel="160" ReqMaxLevel="-1" ReqZen="9000" Gate="138" />
+ <Move Index="29" MainMap="Kanturu2" SubMap="Kanturu_ruin2" ReqLevel="160" ReqMaxLevel="-1" ReqZen="9000" Gate="141" />
+ <Move Index="30" MainMap="Kanturu3" SubMap="Kanturu_ruin_island" ReqLevel="160" ReqMaxLevel="-1" ReqZen="15000" Gate="334" />
+ <Move Index="31" MainMap="Kanturu Remain" SubMap="Kanturu_Remain" ReqLevel="230" ReqMaxLevel="-1" ReqZen="12000" Gate="139" />
+ <Move Index="32" MainMap="Karutan1" SubMap="Karutan1" ReqLevel="170" ReqMaxLevel="-1" ReqZen="13000" Gate="335" />
+ <Move Index="33" MainMap="Karutan2" SubMap="Karutan2" ReqLevel="170" ReqMaxLevel="-1" ReqZen="14000" Gate="344" />
+ <Move Index="34" MainMap="Raklion" SubMap="Raklion" ReqLevel="280" ReqMaxLevel="-1" ReqZen="15000" Gate="287" />
+ <Move Index="35" MainMap="Đầm Lầy Chết" SubMap="Swamp_of_Calmness" ReqLevel="250" ReqMaxLevel="-1" ReqZen="15000" Gate="273" />
+ <Move Index="36" MainMap="Barrack" SubMap="Barrack" ReqLevel="180" ReqMaxLevel="-1" ReqZen="15000" Gate="256" />
+ <Move Index="37" MainMap="Acheron" SubMap="Acheron" ReqLevel="250" ReqMaxLevel="-1" ReqZen="15000" Gate="417" />
+ <Move Index="38" MainMap="Ferea" SubMap="Ferea" ReqLevel="250" ReqMaxLevel="-1" ReqZen="15000" Gate="509" />
+ <Move Index="39" MainMap="NixiesLake" SubMap="NixiesLake" ReqLevel="250" ReqMaxLevel="-1" ReqZen="15000" Gate="522" />
+ <Move Index="40" MainMap="Deep Dungeon 1" SubMap="Deep Dungeon 1" ReqLevel="200" ReqMaxLevel="-1" ReqZen="15000" Gate="561" />
+ <Move Index="41" MainMap="Deep Dungeon 2" SubMap="Deep Dungeon 2" ReqLevel="200" ReqMaxLevel="-1" ReqZen="15000" Gate="562" />
+ <Move Index="42" MainMap="Deep Dungeon 3" SubMap="Deep Dungeon 3" ReqLevel="200" ReqMaxLevel="-1" ReqZen="15000" Gate="563" />
+ <Move Index="43" MainMap="Deep Dungeon 4" SubMap="Deep Dungeon 4" ReqLevel="200" ReqMaxLevel="-1" ReqZen="15000" Gate="564" />
+ <Move Index="44" MainMap="Deep Dungeon 5" SubMap="Deep Dungeon 5" ReqLevel="200" ReqMaxLevel="-1" ReqZen="15000" Gate="565" />
+ <Move Index="45" MainMap="Swamp Of Darkness" SubMap="Swamp Of Darkness" ReqLevel="260" ReqMaxLevel="-1" ReqZen="15000" Gate="567" />
+ <Move Index="46" MainMap="Kubera Mine" SubMap="Kubera Mine" ReqLevel="260" ReqMaxLevel="-1" ReqZen="15000" Gate="591" />
+ <Move Index="47" MainMap="Nars" SubMap="Nars" ReqLevel="270" ReqMaxLevel="-1" ReqZen="15000" Gate="488" />
+ <Move Index="48" MainMap="Urk Mountain" SubMap="Urk Mountain" ReqLevel="250" ReqMaxLevel="-1" ReqZen="15000" Gate="451" />
+ <Move Index="49" MainMap="Atlans(Abyss)" SubMap="Atlans(Abyss)" ReqLevel="280" ReqMaxLevel="-1" ReqZen="15000" Gate="617" />
+ <Move Index="50" MainMap="Scorched Canyon" SubMap="Scorched Canyon" ReqLevel="250" ReqMaxLevel="-1" ReqZen="15000" Gate="620" />
+ <Move Index="51" MainMap="Ashen Aida" SubMap="Ashen Aida" ReqLevel="200" ReqMaxLevel="-1" ReqZen="15000" Gate="643" />
+ <Move Index="52" MainMap="Kanturu Undergrounds" SubMap="Kanturu Undergrounds" ReqLevel="230" ReqMaxLevel="-1" ReqZen="15000" Gate="670" />
+</MoveReqTemplate>

@@ -1,5 +1,11 @@
 {
   "links": [
     "https://github.com/accvltkmsau-cloud/client-mu/releases/download/client-latest/FullClient.zip"
+  ],
+  "packs": [
+    "https://github.com/accvltkmsau-cloud/client-mu/releases/download/client-latest/"
+  ],
+  "raw": [
+    "https://raw.githubusercontent.com/accvltkmsau-cloud/client-mu/main/"
   ]
 }

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarmonyOptionTemplate>
+ <Option Type="0" Index="0" OptionType="1" MinLevel="0" Name="Tăng lực tấn công thấp nhất">
+  <Level Jewel="1" Value="2" Zen="100000" />
+  <Level Jewel="2" Value="3" Zen="110000" />
+  <Level Jewel="3" Value="4" Zen="120000" />
+  <Level Jewel="4" Value="5" Zen="130000" />
+  <Level Jewel="5" Value="6" Zen="140000" />
+  <Level Jewel="6" Value="7" Zen="150000" />
+  <Level Jewel="7" Value="9" Zen="200000" />
+  <Level Jewel="8" Value="11" Zen="220000" />
+  <Level Jewel="9" Value="12" Zen="240000" />
+  <Level Jewel="10" Value="14" Zen="280000" />
+  <Level Jewel="11" Value="15" Zen="320000" />
+  <Level Jewel="12" Value="16" Zen="360000" />
+  <Level Jewel="13" Value="17" Zen="400000" />
+  <Level Jewel="14" Value="20" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="1" OptionType="2" MinLevel="0" Name="Tăng lực tấn công cao nhất">
+  <Level Jewel="1" Value="3" Zen="100000" />
+  <Level Jewel="2" Value="4" Zen="110000" />
+  <Level Jewel="3" Value="5" Zen="120000" />
+  <Level Jewel="4" Value="6" Zen="130000" />
+  <Level Jewel="5" Value="7" Zen="140000" />
+  <Level Jewel="6" Value="8" Zen="150000" />
+  <Level Jewel="7" Value="10" Zen="200000" />
+  <Level Jewel="8" Value="12" Zen="220000" />
+  <Level Jewel="9" Value="14" Zen="240000" />
+  <Level Jewel="10" Value="17" Zen="280000" />
+  <Level Jewel="11" Value="20" Zen="320000" />
+  <Level Jewel="12" Value="23" Zen="360000" />
+  <Level Jewel="13" Value="26" Zen="400000" />
+  <Level Jewel="14" Value="29" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="2" OptionType="3" MinLevel="0" Name="Giảm yêu cầu sức mạnh">
+  <Level Jewel="1" Value="6" Zen="100000" />
+  <Level Jewel="2" Value="8" Zen="110000" />
+  <Level Jewel="3" Value="10" Zen="120000" />
+  <Level Jewel="4" Value="12" Zen="130000" />
+  <Level Jewel="5" Value="14" Zen="140000" />
+  <Level Jewel="6" Value="16" Zen="150000" />
+  <Level Jewel="7" Value="20" Zen="200000" />
+  <Level Jewel="8" Value="23" Zen="220000" />
+  <Level Jewel="9" Value="26" Zen="240000" />
+  <Level Jewel="10" Value="29" Zen="280000" />
+  <Level Jewel="11" Value="32" Zen="320000" />
+  <Level Jewel="12" Value="35" Zen="360000" />
+  <Level Jewel="13" Value="37" Zen="400000" />
+  <Level Jewel="14" Value="40" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="3" OptionType="4" MinLevel="0" Name="Giảm yêu cầu nhanh nhẹn">
+  <Level Jewel="1" Value="6" Zen="100000" />
+  <Level Jewel="2" Value="8" Zen="110000" />
+  <Level Jewel="3" Value="10" Zen="120000" />
+  <Level Jewel="4" Value="12" Zen="130000" />
+  <Level Jewel="5" Value="14" Zen="140000" />
+  <Level Jewel="6" Value="16" Zen="150000" />
+  <Level Jewel="7" Value="20" Zen="200000" />
+  <Level Jewel="8" Value="23" Zen="220000" />
+  <Level Jewel="9" Value="26" Zen="240000" />
+  <Level Jewel="10" Value="29" Zen="280000" />
+  <Level Jewel="11" Value="32" Zen="320000" />
+  <Level Jewel="12" Value="35" Zen="360000" />
+  <Level Jewel="13" Value="37" Zen="400000" />
+  <Level Jewel="14" Value="40" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="4" OptionType="5" MinLevel="6" Name="Tăng lực tấn công (thấp nhất/cao nhất)">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="7" Zen="200000" />
+  <Level Jewel="8" Value="8" Zen="220000" />
+  <Level Jewel="9" Value="9" Zen="240000" />
+  <Level Jewel="10" Value="11" Zen="280000" />
+  <Level Jewel="11" Value="12" Zen="320000" />
+  <Level Jewel="12" Value="14" Zen="360000" />
+  <Level Jewel="13" Value="16" Zen="400000" />
+  <Level Jewel="14" Value="19" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="5" OptionType="6" MinLevel="6" Name="Tăng sức sát thương chí mạng">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="12" Zen="200000" />
+  <Level Jewel="8" Value="14" Zen="220000" />
+  <Level Jewel="9" Value="16" Zen="240000" />
+  <Level Jewel="10" Value="18" Zen="280000" />
+  <Level Jewel="11" Value="20" Zen="320000" />
+  <Level Jewel="12" Value="22" Zen="360000" />
+  <Level Jewel="13" Value="24" Zen="400000" />
+  <Level Jewel="14" Value="30" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="6" OptionType="7" MinLevel="9" Name="Tăng sức sát thương kỹ năng">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="12" Zen="280000" />
+  <Level Jewel="11" Value="14" Zen="320000" />
+  <Level Jewel="12" Value="16" Zen="360000" />
+  <Level Jewel="13" Value="18" Zen="400000" />
+  <Level Jewel="14" Value="22" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="7" OptionType="8" MinLevel="9" Name="Tăng tỷ lệ tấn công trong (PVP)">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="5" Zen="280000" />
+  <Level Jewel="11" Value="7" Zen="320000" />
+  <Level Jewel="12" Value="9" Zen="360000" />
+  <Level Jewel="13" Value="11" Zen="400000" />
+  <Level Jewel="14" Value="14" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="8" OptionType="9" MinLevel="9" Name="Tăng khả năng giảm SD">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="3" Zen="280000" />
+  <Level Jewel="11" Value="5" Zen="320000" />
+  <Level Jewel="12" Value="7" Zen="360000" />
+  <Level Jewel="13" Value="9" Zen="400000" />
+  <Level Jewel="14" Value="10" Zen="500000" />
+ </Option>
+ <Option Type="0" Index="9" OptionType="10" MinLevel="13" Name="Tăng khả năng loại bỏ SD">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="0" Zen="0" />
+  <Level Jewel="11" Value="0" Zen="0" />
+  <Level Jewel="12" Value="0" Zen="0" />
+  <Level Jewel="13" Value="0" Zen="0" />
+  <Level Jewel="14" Value="10" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="0" OptionType="1" MinLevel="0" Name="Tăng lực tấn công phép thuật">
+  <Level Jewel="1" Value="6" Zen="100000" />
+  <Level Jewel="2" Value="8" Zen="110000" />
+  <Level Jewel="3" Value="10" Zen="120000" />
+  <Level Jewel="4" Value="12" Zen="130000" />
+  <Level Jewel="5" Value="14" Zen="140000" />
+  <Level Jewel="6" Value="16" Zen="150000" />
+  <Level Jewel="7" Value="17" Zen="200000" />
+  <Level Jewel="8" Value="18" Zen="220000" />
+  <Level Jewel="9" Value="19" Zen="240000" />
+  <Level Jewel="10" Value="21" Zen="280000" />
+  <Level Jewel="11" Value="23" Zen="320000" />
+  <Level Jewel="12" Value="25" Zen="360000" />
+  <Level Jewel="13" Value="27" Zen="400000" />
+  <Level Jewel="14" Value="31" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="1" OptionType="2" MinLevel="0" Name="Giảm yêu cầu sức mạnh">
+  <Level Jewel="1" Value="6" Zen="100000" />
+  <Level Jewel="2" Value="8" Zen="110000" />
+  <Level Jewel="3" Value="10" Zen="120000" />
+  <Level Jewel="4" Value="12" Zen="130000" />
+  <Level Jewel="5" Value="14" Zen="140000" />
+  <Level Jewel="6" Value="16" Zen="150000" />
+  <Level Jewel="7" Value="20" Zen="200000" />
+  <Level Jewel="8" Value="23" Zen="220000" />
+  <Level Jewel="9" Value="26" Zen="240000" />
+  <Level Jewel="10" Value="29" Zen="280000" />
+  <Level Jewel="11" Value="32" Zen="320000" />
+  <Level Jewel="12" Value="35" Zen="360000" />
+  <Level Jewel="13" Value="37" Zen="400000" />
+  <Level Jewel="14" Value="40" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="2" OptionType="3" MinLevel="0" Name="Giảm yêu cầu nhanh nhẹn">
+  <Level Jewel="1" Value="6" Zen="100000" />
+  <Level Jewel="2" Value="8" Zen="110000" />
+  <Level Jewel="3" Value="10" Zen="120000" />
+  <Level Jewel="4" Value="12" Zen="130000" />
+  <Level Jewel="5" Value="14" Zen="140000" />
+  <Level Jewel="6" Value="16" Zen="150000" />
+  <Level Jewel="7" Value="20" Zen="200000" />
+  <Level Jewel="8" Value="23" Zen="220000" />
+  <Level Jewel="9" Value="26" Zen="240000" />
+  <Level Jewel="10" Value="29" Zen="280000" />
+  <Level Jewel="11" Value="32" Zen="320000" />
+  <Level Jewel="12" Value="35" Zen="360000" />
+  <Level Jewel="13" Value="37" Zen="400000" />
+  <Level Jewel="14" Value="40" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="3" OptionType="4" MinLevel="6" Name="Tăng sức sát thương kỹ năng">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="7" Zen="200000" />
+  <Level Jewel="8" Value="10" Zen="220000" />
+  <Level Jewel="9" Value="13" Zen="240000" />
+  <Level Jewel="10" Value="16" Zen="280000" />
+  <Level Jewel="11" Value="19" Zen="320000" />
+  <Level Jewel="12" Value="22" Zen="360000" />
+  <Level Jewel="13" Value="25" Zen="400000" />
+  <Level Jewel="14" Value="30" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="4" OptionType="5" MinLevel="6" Name="Tăng sức sát thương chí mạng">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="10" Zen="200000" />
+  <Level Jewel="8" Value="12" Zen="220000" />
+  <Level Jewel="9" Value="14" Zen="240000" />
+  <Level Jewel="10" Value="16" Zen="280000" />
+  <Level Jewel="11" Value="18" Zen="320000" />
+  <Level Jewel="12" Value="20" Zen="360000" />
+  <Level Jewel="13" Value="22" Zen="400000" />
+  <Level Jewel="14" Value="28" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="5" OptionType="6" MinLevel="9" Name="Tăng khả năng giảm SD">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="4" Zen="280000" />
+  <Level Jewel="11" Value="6" Zen="320000" />
+  <Level Jewel="12" Value="8" Zen="360000" />
+  <Level Jewel="13" Value="10" Zen="400000" />
+  <Level Jewel="14" Value="13" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="6" OptionType="7" MinLevel="9" Name="Tăng tỷ lệ tấn công trong (PVP)">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="5" Zen="280000" />
+  <Level Jewel="11" Value="7" Zen="320000" />
+  <Level Jewel="12" Value="9" Zen="360000" />
+  <Level Jewel="13" Value="11" Zen="400000" />
+  <Level Jewel="14" Value="14" Zen="500000" />
+ </Option>
+ <Option Type="1" Index="7" OptionType="8" MinLevel="13" Name="Tăng khả năng loại bỏ SD">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="0" Zen="0" />
+  <Level Jewel="11" Value="0" Zen="0" />
+  <Level Jewel="12" Value="0" Zen="0" />
+  <Level Jewel="13" Value="0" Zen="0" />
+  <Level Jewel="14" Value="15" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="0" OptionType="1" MinLevel="0" Name="Tăng sức phòng thủ">
+  <Level Jewel="1" Value="3" Zen="100000" />
+  <Level Jewel="2" Value="4" Zen="110000" />
+  <Level Jewel="3" Value="5" Zen="120000" />
+  <Level Jewel="4" Value="6" Zen="130000" />
+  <Level Jewel="5" Value="7" Zen="140000" />
+  <Level Jewel="6" Value="8" Zen="150000" />
+  <Level Jewel="7" Value="10" Zen="200000" />
+  <Level Jewel="8" Value="12" Zen="220000" />
+  <Level Jewel="9" Value="14" Zen="240000" />
+  <Level Jewel="10" Value="16" Zen="280000" />
+  <Level Jewel="11" Value="18" Zen="320000" />
+  <Level Jewel="12" Value="20" Zen="360000" />
+  <Level Jewel="13" Value="22" Zen="400000" />
+  <Level Jewel="14" Value="25" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="1" OptionType="2" MinLevel="3" Name="Tăng AG tối đa">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="4" Zen="130000" />
+  <Level Jewel="5" Value="6" Zen="140000" />
+  <Level Jewel="6" Value="8" Zen="150000" />
+  <Level Jewel="7" Value="10" Zen="200000" />
+  <Level Jewel="8" Value="12" Zen="220000" />
+  <Level Jewel="9" Value="14" Zen="240000" />
+  <Level Jewel="10" Value="16" Zen="280000" />
+  <Level Jewel="11" Value="18" Zen="320000" />
+  <Level Jewel="12" Value="20" Zen="360000" />
+  <Level Jewel="13" Value="22" Zen="400000" />
+  <Level Jewel="14" Value="25" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="2" OptionType="3" MinLevel="3" Name="Tăng HP tối đa">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="7" Zen="130000" />
+  <Level Jewel="5" Value="9" Zen="140000" />
+  <Level Jewel="6" Value="11" Zen="150000" />
+  <Level Jewel="7" Value="13" Zen="200000" />
+  <Level Jewel="8" Value="15" Zen="220000" />
+  <Level Jewel="9" Value="17" Zen="240000" />
+  <Level Jewel="10" Value="19" Zen="280000" />
+  <Level Jewel="11" Value="21" Zen="320000" />
+  <Level Jewel="12" Value="23" Zen="360000" />
+  <Level Jewel="13" Value="25" Zen="400000" />
+  <Level Jewel="14" Value="30" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="3" OptionType="4" MinLevel="6" Name="Tự động hồi phục HP">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="1" Zen="200000" />
+  <Level Jewel="8" Value="2" Zen="220000" />
+  <Level Jewel="9" Value="3" Zen="240000" />
+  <Level Jewel="10" Value="4" Zen="280000" />
+  <Level Jewel="11" Value="5" Zen="320000" />
+  <Level Jewel="12" Value="6" Zen="360000" />
+  <Level Jewel="13" Value="7" Zen="400000" />
+  <Level Jewel="14" Value="8" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="4" OptionType="5" MinLevel="9" Name="Tự động hồi phục Mana">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="1" Zen="280000" />
+  <Level Jewel="11" Value="2" Zen="320000" />
+  <Level Jewel="12" Value="3" Zen="360000" />
+  <Level Jewel="13" Value="4" Zen="400000" />
+  <Level Jewel="14" Value="5" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="5" OptionType="6" MinLevel="9" Name="Tăng tỷ lệ phòng thủ trong (PVP)">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="3" Zen="280000" />
+  <Level Jewel="11" Value="4" Zen="320000" />
+  <Level Jewel="12" Value="5" Zen="360000" />
+  <Level Jewel="13" Value="6" Zen="400000" />
+  <Level Jewel="14" Value="8" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="6" OptionType="7" MinLevel="9" Name="Giảm sát thương">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="3" Zen="280000" />
+  <Level Jewel="11" Value="4" Zen="320000" />
+  <Level Jewel="12" Value="5" Zen="360000" />
+  <Level Jewel="13" Value="6" Zen="400000" />
+  <Level Jewel="14" Value="7" Zen="500000" />
+ </Option>
+ <Option Type="2" Index="7" OptionType="8" MinLevel="13" Name="Tăng khả năng hấp thụ SD">
+  <Level Jewel="1" Value="0" Zen="0" />
+  <Level Jewel="2" Value="0" Zen="0" />
+  <Level Jewel="3" Value="0" Zen="0" />
+  <Level Jewel="4" Value="0" Zen="0" />
+  <Level Jewel="5" Value="0" Zen="0" />
+  <Level Jewel="6" Value="0" Zen="0" />
+  <Level Jewel="7" Value="0" Zen="0" />
+  <Level Jewel="8" Value="0" Zen="0" />
+  <Level Jewel="9" Value="0" Zen="0" />
+  <Level Jewel="10" Value="0" Zen="0" />
+  <Level Jewel="11" Value="0" Zen="0" />
+  <Level Jewel="12" Value="0" Zen="0" />
+  <Level Jewel="13" Value="0" Zen="0" />
+  <Level Jewel="14" Value="5" Zen="500000" />
+ </Option>
+</HarmonyOptionTemplate>

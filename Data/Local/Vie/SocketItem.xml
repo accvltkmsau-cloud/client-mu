@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SocketItemTemplate>
+ <Option Type="0" Index="0" OptionID="0" Category="1" OptionType="3" Name="(Cấp độ)Tăng sức tấn công/phép thuật/ma lực">
+  <Value Sphere="1" Amount="20" />
+  <Value Sphere="2" Amount="19" />
+  <Value Sphere="3" Amount="18" />
+  <Value Sphere="4" Amount="17" />
+  <Value Sphere="5" Amount="14" />
+ </Option>
+ <Option Type="0" Index="1" OptionID="1" Category="1" OptionType="1" Name="Tăng tốc độ tấn công">
+  <Value Sphere="1" Amount="7" />
+  <Value Sphere="2" Amount="8" />
+  <Value Sphere="3" Amount="9" />
+  <Value Sphere="4" Amount="10" />
+  <Value Sphere="5" Amount="11" />
+ </Option>
+ <Option Type="0" Index="2" OptionID="2" Category="1" OptionType="1" Name="Tăng sức tấn công/phép thuật/ma lực tối thiểu">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="32" />
+  <Value Sphere="3" Amount="35" />
+  <Value Sphere="4" Amount="40" />
+  <Value Sphere="5" Amount="50" />
+ </Option>
+ <Option Type="0" Index="3" OptionID="3" Category="1" OptionType="1" Name="Tăng sức tấn công/phép thuật/ma lực tối đa">
+  <Value Sphere="1" Amount="20" />
+  <Value Sphere="2" Amount="22" />
+  <Value Sphere="3" Amount="25" />
+  <Value Sphere="4" Amount="30" />
+  <Value Sphere="5" Amount="35" />
+ </Option>
+ <Option Type="0" Index="4" OptionID="4" Category="1" OptionType="1" Name="Tăng sức tấn công/phép thuật/ma lực">
+  <Value Sphere="1" Amount="20" />
+  <Value Sphere="2" Amount="22" />
+  <Value Sphere="3" Amount="25" />
+  <Value Sphere="4" Amount="30" />
+  <Value Sphere="5" Amount="35" />
+ </Option>
+ <Option Type="0" Index="5" OptionID="5" Category="1" OptionType="2" Name="Giảm mức tiêu hao nội lực">
+  <Value Sphere="1" Amount="40" />
+  <Value Sphere="2" Amount="41" />
+  <Value Sphere="3" Amount="42" />
+  <Value Sphere="4" Amount="43" />
+  <Value Sphere="5" Amount="44" />
+ </Option>
+ <Option Type="0" Index="10" OptionID="10" Category="2" OptionType="2" Name="Tăng sức phòng thủ hoàn hảo">
+  <Value Sphere="1" Amount="10" />
+  <Value Sphere="2" Amount="11" />
+  <Value Sphere="3" Amount="12" />
+  <Value Sphere="4" Amount="13" />
+  <Value Sphere="5" Amount="14" />
+ </Option>
+ <Option Type="0" Index="11" OptionID="11" Category="2" OptionType="1" Name="Tăng lực phòng thủ">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="33" />
+  <Value Sphere="3" Amount="36" />
+  <Value Sphere="4" Amount="39" />
+  <Value Sphere="5" Amount="42" />
+ </Option>
+ <Option Type="0" Index="12" OptionID="12" Category="2" OptionType="1" Name="Tăng sức phòng thủ của SD">
+  <Value Sphere="1" Amount="1" />
+  <Value Sphere="2" Amount="2" />
+  <Value Sphere="3" Amount="3" />
+  <Value Sphere="4" Amount="4" />
+  <Value Sphere="5" Amount="5" />
+ </Option>
+ <Option Type="0" Index="13" OptionID="13" Category="2" OptionType="1" Name="Giảm sát thương">
+  <Value Sphere="1" Amount="4" />
+  <Value Sphere="2" Amount="5" />
+  <Value Sphere="3" Amount="6" />
+  <Value Sphere="4" Amount="7" />
+  <Value Sphere="5" Amount="8" />
+ </Option>
+ <Option Type="0" Index="14" OptionID="14" Category="2" OptionType="1" Name="Phản hồi sát thương">
+  <Value Sphere="1" Amount="5" />
+  <Value Sphere="2" Amount="6" />
+  <Value Sphere="3" Amount="7" />
+  <Value Sphere="4" Amount="8" />
+  <Value Sphere="5" Amount="9" />
+ </Option>
+ <Option Type="0" Index="16" OptionID="16" Category="3" OptionType="4" Name="Phục hồi HP khi tiêu diệt quái vật">
+  <Value Sphere="1" Amount="8" />
+  <Value Sphere="2" Amount="7" />
+  <Value Sphere="3" Amount="6" />
+  <Value Sphere="4" Amount="5" />
+  <Value Sphere="5" Amount="4" />
+ </Option>
+ <Option Type="0" Index="17" OptionID="17" Category="3" OptionType="5" Name="Phục hồi Mana khi tiêu diệt quái vật">
+  <Value Sphere="1" Amount="8" />
+  <Value Sphere="2" Amount="7" />
+  <Value Sphere="3" Amount="6" />
+  <Value Sphere="4" Amount="5" />
+  <Value Sphere="5" Amount="4" />
+ </Option>
+ <Option Type="0" Index="18" OptionID="18" Category="3" OptionType="1" Name="Tăng sức tấn công tuyệt chiêu">
+  <Value Sphere="1" Amount="37" />
+  <Value Sphere="2" Amount="40" />
+  <Value Sphere="3" Amount="45" />
+  <Value Sphere="4" Amount="50" />
+  <Value Sphere="5" Amount="60" />
+ </Option>
+ <Option Type="0" Index="19" OptionID="19" Category="3" OptionType="2" Name="Tăng khả năng tấn công">
+  <Value Sphere="1" Amount="25" />
+  <Value Sphere="2" Amount="27" />
+  <Value Sphere="3" Amount="30" />
+  <Value Sphere="4" Amount="35" />
+  <Value Sphere="5" Amount="40" />
+ </Option>
+ <Option Type="0" Index="20" OptionID="20" Category="3" OptionType="2" Name="Tăng độ bền vật phẩm">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="32" />
+  <Value Sphere="3" Amount="34" />
+  <Value Sphere="4" Amount="36" />
+  <Value Sphere="5" Amount="38" />
+ </Option>
+ <Option Type="0" Index="21" OptionID="21" Category="4" OptionType="1" Name="Phục hồi HP">
+  <Value Sphere="1" Amount="8" />
+  <Value Sphere="2" Amount="10" />
+  <Value Sphere="3" Amount="13" />
+  <Value Sphere="4" Amount="16" />
+  <Value Sphere="5" Amount="20" />
+ </Option>
+ <Option Type="0" Index="22" OptionID="22" Category="4" OptionType="1" Name="Tăng HP tối đa">
+  <Value Sphere="1" Amount="4" />
+  <Value Sphere="2" Amount="5" />
+  <Value Sphere="3" Amount="6" />
+  <Value Sphere="4" Amount="7" />
+  <Value Sphere="5" Amount="8" />
+ </Option>
+ <Option Type="0" Index="23" OptionID="23" Category="4" OptionType="1" Name="Tăng Mana tối đa">
+  <Value Sphere="1" Amount="4" />
+  <Value Sphere="2" Amount="5" />
+  <Value Sphere="3" Amount="6" />
+  <Value Sphere="4" Amount="7" />
+  <Value Sphere="5" Amount="8" />
+ </Option>
+ <Option Type="0" Index="24" OptionID="24" Category="4" OptionType="1" Name="Phục hồi mana">
+  <Value Sphere="1" Amount="7" />
+  <Value Sphere="2" Amount="14" />
+  <Value Sphere="3" Amount="21" />
+  <Value Sphere="4" Amount="28" />
+  <Value Sphere="5" Amount="35" />
+ </Option>
+ <Option Type="0" Index="25" OptionID="25" Category="4" OptionType="1" Name="Tăng nội lực tối đa">
+  <Value Sphere="1" Amount="25" />
+  <Value Sphere="2" Amount="30" />
+  <Value Sphere="3" Amount="35" />
+  <Value Sphere="4" Amount="40" />
+  <Value Sphere="5" Amount="50" />
+ </Option>
+ <Option Type="0" Index="26" OptionID="26" Category="4" OptionType="1" Name="Tăng giá trị nội lực">
+  <Value Sphere="1" Amount="3" />
+  <Value Sphere="2" Amount="5" />
+  <Value Sphere="3" Amount="7" />
+  <Value Sphere="4" Amount="10" />
+  <Value Sphere="5" Amount="15" />
+ </Option>
+ <Option Type="0" Index="29" OptionID="29" Category="5" OptionType="1" Name="Tăng sức sát thương hoàn hảo">
+  <Value Sphere="1" Amount="15" />
+  <Value Sphere="2" Amount="20" />
+  <Value Sphere="3" Amount="25" />
+  <Value Sphere="4" Amount="30" />
+  <Value Sphere="5" Amount="40" />
+ </Option>
+ <Option Type="0" Index="30" OptionID="30" Category="5" OptionType="2" Name="Tăng tỉ lệ sát thương hoàn hảo">
+  <Value Sphere="1" Amount="10" />
+  <Value Sphere="2" Amount="11" />
+  <Value Sphere="3" Amount="12" />
+  <Value Sphere="4" Amount="13" />
+  <Value Sphere="5" Amount="14" />
+ </Option>
+ <Option Type="0" Index="31" OptionID="31" Category="5" OptionType="1" Name="Tăng sức sát thương chí mạng">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="32" />
+  <Value Sphere="3" Amount="35" />
+  <Value Sphere="4" Amount="40" />
+  <Value Sphere="5" Amount="50" />
+ </Option>
+ <Option Type="0" Index="32" OptionID="32" Category="5" OptionType="2" Name="Tăng khả năng ra đòn chí mạng">
+  <Value Sphere="1" Amount="8" />
+  <Value Sphere="2" Amount="9" />
+  <Value Sphere="3" Amount="10" />
+  <Value Sphere="4" Amount="11" />
+  <Value Sphere="5" Amount="12" />
+ </Option>
+ <Option Type="0" Index="34" OptionID="34" Category="6" OptionType="1" Name="Tăng sức mạnh">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="32" />
+  <Value Sphere="3" Amount="34" />
+  <Value Sphere="4" Amount="36" />
+  <Value Sphere="5" Amount="38" />
+ </Option>
+ <Option Type="0" Index="35" OptionID="35" Category="6" OptionType="1" Name="Tăng nhanh nhẹn">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="32" />
+  <Value Sphere="3" Amount="34" />
+  <Value Sphere="4" Amount="36" />
+  <Value Sphere="5" Amount="38" />
+ </Option>
+ <Option Type="0" Index="36" OptionID="36" Category="6" OptionType="1" Name="Tăng thể lực">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="32" />
+  <Value Sphere="3" Amount="34" />
+  <Value Sphere="4" Amount="36" />
+  <Value Sphere="5" Amount="38" />
+ </Option>
+ <Option Type="0" Index="37" OptionID="37" Category="6" OptionType="1" Name="Tăng năng lượng">
+  <Value Sphere="1" Amount="30" />
+  <Value Sphere="2" Amount="32" />
+  <Value Sphere="3" Amount="34" />
+  <Value Sphere="4" Amount="36" />
+  <Value Sphere="5" Amount="38" />
+ </Option>
+ <Option Type="1" Index="0" OptionID="0" Category="0" OptionType="1" Name="Tăng sức tấn công">
+  <Value Sphere="1" Amount="11" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+ </Option>
+ <Option Type="1" Index="1" OptionID="1" Category="0" OptionType="1" Name="Tăng sức tấn công tuyệt chiêu">
+  <Value Sphere="1" Amount="11" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+ </Option>
+ <Option Type="1" Index="2" OptionID="2" Category="0" OptionType="1" Name="Tăng sức tấn công/ma lực">
+  <Value Sphere="1" Amount="5" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+ </Option>
+ <Option Type="1" Index="3" OptionID="3" Category="0" OptionType="1" Name="Tăng lực tấn công tuyệt chiêu">
+  <Value Sphere="1" Amount="11" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+ </Option>
+ <Option Type="1" Index="4" OptionID="4" Category="0" OptionType="1" Name="Tăng sức phòng thủ">
+  <Value Sphere="1" Amount="24" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+ </Option>
+ <Option Type="1" Index="5" OptionID="5" Category="0" OptionType="1" Name="Tăng HP tối đa">
+  <Value Sphere="1" Amount="29" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+ </Option>
+ <Option Type="2" Index="0" OptionID="0" Category="0" OptionType="2" Name="Tăng cơ hội sát thương gấp đôi">
+  <Value Sphere="1" Amount="3" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+  <Check Slot="1" Amount="1" />
+  <Check Slot="2" Amount="1" />
+  <Check Slot="3" Amount="1" />
+  <Check Slot="4" Amount="1" />
+  <Check Slot="5" Amount="1" />
+  <Check Slot="6" Amount="1" />
+ </Option>
+ <Option Type="2" Index="1" OptionID="1" Category="0" OptionType="2" Name="Loại bỏ phòng thủ">
+  <Value Sphere="1" Amount="1" />
+  <Value Sphere="2" Amount="0" />
+  <Value Sphere="3" Amount="0" />
+  <Value Sphere="4" Amount="0" />
+  <Value Sphere="5" Amount="0" />
+  <Check Slot="1" Amount="1" />
+  <Check Slot="2" Amount="3" />
+  <Check Slot="3" Amount="1" />
+  <Check Slot="4" Amount="3" />
+  <Check Slot="5" Amount="1" />
+  <Check Slot="6" Amount="2" />
+ </Option>
+</SocketItemTemplate>
