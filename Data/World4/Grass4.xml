@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Grass>
+	<Type file="dry_grass" mix="0" />
+	<Type file="agave" mix="0" />
+	<Wind amp="12" freq="2" dirx="0.7071" diry="0.7071" />
+	<Fade near="2000" far="3000" />
+</Grass>

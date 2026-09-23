@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemSetOptionTextList>
+	<Text ID="24" Percent="0" Name="Tất cả các chỉ số (C)" />
+	<Text ID="25" Percent="0" Name="Khả năng phòng thủ cơ bản" />
+	<Text ID="26" Percent="0" Name="Sát thương vật lý" />
+	<Text ID="27" Percent="0" Name="Sát thương phép thuật" />
+	<Text ID="28" Percent="1" Name="Cường hóa Buff Sát thương" />
+	<Text ID="29" Percent="1" Name="Cường hóa Buff Phòng thủ" />
+	<Text ID="30" Percent="0" Name="Cường hóa Kỹ năng Ước Nguyện" />
+	<Text ID="31" Percent="1" Name="Tỷ lệ gây sát thương x3" />
+	<Text ID="32" Percent="1" Name="Cường hóa kỹ năng Bóng tối hắc ám/Cuồng nộ" />
+	<Text ID="33" Percent="0" Name="Phép thuật/Nguyền rủa" />
+	<Text ID="34" Percent="0" Name="Hộ Thuẫn-Tấn công/Phép thuật các thành viên trong đội" />
+	<Text ID="35" Percent="1" Name="Hộ Thuẫn-Tỷ lệ chuyển đổi HP" />
+	<Text ID="36" Percent="0" Name="Hộ Thuẫn-Tăng khả năng phòng thủ của khiên" />
+	<Text ID="37" Percent="0" Name="Set Option 37" />
+	<Text ID="38" Percent="0" Name="Set Option 38" />
+	<Text ID="39" Percent="0" Name="Set Option 39" />
+	<Text ID="40" Percent="0" Name="Set Option 40" />
+	<Text ID="41" Percent="0" Name="Set Option 41" />
+	<Text ID="42" Percent="0" Name="Set Option 42" />
+	<Text ID="43" Percent="0" Name="Set Option 43" />
+	<Text ID="44" Percent="0" Name="Set Option 44" />
+	<Text ID="45" Percent="0" Name="Set Option 45" />
+	<Text ID="46" Percent="0" Name="Set Option 46" />
+	<Text ID="47" Percent="0" Name="Set Option 47" />
+	<Text ID="48" Percent="0" Name="Set Option 48" />
+	<Text ID="49" Percent="0" Name="Set Option 49" />
+	<Text ID="50" Percent="0" Name="Set Option 50" />
+	<Text ID="51" Percent="0" Name="Set Option 51" />
+	<Text ID="52" Percent="0" Name="Set Option 52" />
+	<Text ID="53" Percent="0" Name="Set Option 53" />
+	<Text ID="54" Percent="0" Name="Set Option 54" />
+	<Text ID="55" Percent="0" Name="Set Option 55" />
+	<Text ID="56" Percent="0" Name="Set Option 56" />
+	<Text ID="57" Percent="0" Name="Set Option 57" />
+	<Text ID="58" Percent="0" Name="Set Option 58" />
+	<Text ID="59" Percent="0" Name="Set Option 59" />
+	<Text ID="60" Percent="0" Name="Set Option 60" />
+	<Text ID="61" Percent="0" Name="Set Option 61" />
+	<Text ID="62" Percent="0" Name="Set Option 62" />
+	<Text ID="63" Percent="0" Name="Set Option 63" />
+	<Text ID="64" Percent="0" Name="Set Option 64" />
+	<Text ID="65" Percent="0" Name="Set Option 65" />
+	<Text ID="66" Percent="0" Name="Set Option 66" />
+	<Text ID="67" Percent="0" Name="Set Option 67" />
+	<Text ID="68" Percent="0" Name="Set Option 68" />
+	<Text ID="69" Percent="0" Name="Set Option 69" />
+	<Text ID="70" Percent="0" Name="Set Option 70" />
+	<Text ID="71" Percent="0" Name="Set Option 71" />
+	<Text ID="72" Percent="0" Name="Set Option 72" />
+	<Text ID="73" Percent="0" Name="Set Option 73" />
+	<Text ID="74" Percent="0" Name="Set Option 74" />
+	<Text ID="75" Percent="0" Name="Set Option 75" />
+	<Text ID="76" Percent="0" Name="Set Option 76" />
+	<Text ID="77" Percent="0" Name="Set Option 77" />
+	<Text ID="78" Percent="0" Name="Set Option 78" />
+	<Text ID="79" Percent="0" Name="Set Option 79" />
+	<Text ID="80" Percent="0" Name="Set Option 80" />
+	<Text ID="81" Percent="0" Name="Set Option 81" />
+	<Text ID="82" Percent="0" Name="Set Option 82" />
+	<Text ID="83" Percent="0" Name="Set Option 83" />
+	<Text ID="84" Percent="0" Name="Set Option 84" />
+	<Text ID="85" Percent="0" Name="Set Option 85" />
+	<Text ID="86" Percent="0" Name="Set Option 86" />
+	<Text ID="87" Percent="0" Name="Set Option 87" />
+	<Text ID="88" Percent="0" Name="Set Option 88" />
+	<Text ID="89" Percent="0" Name="Set Option 89" />
+	<Text ID="90" Percent="0" Name="Set Option 90" />
+	<Text ID="91" Percent="0" Name="Set Option 91" />
+	<Text ID="92" Percent="0" Name="Set Option 92" />
+	<Text ID="93" Percent="0" Name="Set Option 93" />
+	<Text ID="94" Percent="0" Name="Set Option 94" />
+	<Text ID="95" Percent="0" Name="Set Option 95" />
+	<Text ID="96" Percent="0" Name="Set Option 96" />
+	<Text ID="97" Percent="0" Name="Set Option 97" />
+	<Text ID="98" Percent="0" Name="Set Option 98" />
+	<Text ID="99" Percent="0" Name="Set Option 99" />
+	<Text ID="100" Percent="0" Name="Set Option 100" />
+	<Text ID="101" Percent="0" Name="Set Option 101" />
+	<Text ID="102" Percent="0" Name="Set Option 102" />
+	<Text ID="103" Percent="0" Name="Set Option 103" />
+	<Text ID="104" Percent="0" Name="Set Option 104" />
+	<Text ID="105" Percent="0" Name="Set Option 105" />
+	<Text ID="106" Percent="0" Name="Set Option 106" />
+	<Text ID="107" Percent="0" Name="Set Option 107" />
+	<Text ID="108" Percent="0" Name="Set Option 108" />
+	<Text ID="109" Percent="0" Name="Set Option 109" />
+	<Text ID="110" Percent="0" Name="Set Option 110" />
+	<Text ID="111" Percent="0" Name="Set Option 111" />
+	<Text ID="112" Percent="0" Name="Set Option 112" />
+	<Text ID="113" Percent="0" Name="Set Option 113" />
+	<Text ID="114" Percent="0" Name="Set Option 114" />
+	<Text ID="115" Percent="0" Name="Set Option 115" />
+	<Text ID="116" Percent="0" Name="Set Option 116" />
+	<Text ID="117" Percent="0" Name="Set Option 117" />
+	<Text ID="118" Percent="0" Name="Set Option 118" />
+	<Text ID="119" Percent="0" Name="Set Option 119" />
+	<Text ID="120" Percent="0" Name="Tinh thông Sát thương Vật lý" />
+	<Text ID="121" Percent="0" Name="Tinh thông Sát thương Phép thuật" />
+	<Text ID="122" Percent="0" Name="Tinh thông Phòng thủ Cơ bản" />
+	<Text ID="123" Percent="0" Name="Tinh thông Sát thương Hoàn hảo" />
+	<Text ID="124" Percent="0" Name="Tinh thông Sát thương Chí mạng" />
+	<Text ID="125" Percent="0" Name="Tinh thông HP tối đa tăng" />
+	<Text ID="126" Percent="0" Name="Tinh thông Sát thương Kỹ năng" />
+	<Text ID="127" Percent="0" Name="Tinh thông Sức mạnh (C)" />
+	<Text ID="128" Percent="0" Name="Tinh thông Nhanh nhẹn (C)" />
+	<Text ID="129" Percent="0" Name="Tinh thông Năng lượng (C)" />
+	<Text ID="130" Percent="0" Name="Tinh thông Tất cả chỉ số (C)" />
+	<Text ID="131" Percent="0" Name="Tinh thông Phép thuật/ Nguyền rủa" />
+	<Text ID="132" Percent="0" Name="Tinh thông Giảm sát thương" />
+	<Text ID="133" Percent="0" Name="Khả năng phòng thủ nguyên tố" />
+	<Text ID="134" Percent="0" Name="Sát thương Kỹ năng Nâng cấp" />
+	<Text ID="135" Percent="0" Name="Tinh thông Sát thương Kỹ năng" />
+	<Text ID="136" Percent="0" Name="Shock Enhancement Success Rate Increase" />
+	<Text ID="137" Percent="0" Name="Tỷ lệ Sát thương Chí mạng Master 5th" />
+	<Text ID="138" Percent="0" Name="Tỷ lệ Sát thương Hoàn hảo Master 5th" />
+	<Text ID="139" Percent="0" Name="Tỷ lệ Sát thương x2 Master 5th" />
+	<Text ID="140" Percent="0" Name="Tỷ lệ Xuất hiện dòng Sát thương Master 5th" />
+	<Text ID="141" Percent="0" Name="Sát thương Kỹ năng Master 5th" />
+	<Text ID="142" Percent="0" Name="Hộ Thuẫn-Tấn công/Phép thuật các thành viên trong đội" />
+	<Text ID="143" Percent="0" Name="Sát thương thuộc tính" />
+	<Text ID="144" Percent="0" Name="Phòng thủ thuộc tính" />
+	<Text ID="145" Percent="0" Name="Tăng cường hiệu ứng chữa trị" />
+	<Text ID="146" Percent="0" Name="Tăng cường hiệu ứng chữa trị (Nhóm)" />
+	<Text ID="147" Percent="0" Name="Sát thương hệ Nuke (+) Bolt (+) AoE (+)" />
+	<Text ID="148" Percent="0" Name="Phòng thủ Sát thương Master 5th" />
+	<Text ID="149" Percent="0" Name="Set Option 149" />
+	<Text ID="150" Percent="0" Name="Set Option 150" />
+	<Text ID="151" Percent="0" Name="Set Option 151" />
+	<Text ID="152" Percent="0" Name="Set Option 152" />
+	<Text ID="153" Percent="0" Name="Set Option 153" />
+	<Text ID="154" Percent="0" Name="Set Option 154" />
+	<Text ID="155" Percent="0" Name="Set Option 155" />
+	<Text ID="156" Percent="0" Name="Set Option 156" />
+	<Text ID="157" Percent="0" Name="Set Option 157" />
+	<Text ID="158" Percent="0" Name="Set Option 158" />
+	<Text ID="159" Percent="0" Name="Set Option 159" />
+	<Text ID="160" Percent="0" Name="Set Option 160" />
+	<Text ID="161" Percent="0" Name="Set Option 161" />
+	<Text ID="162" Percent="0" Name="Set Option 162" />
+	<Text ID="163" Percent="0" Name="Set Option 163" />
+	<Text ID="164" Percent="0" Name="Set Option 164" />
+	<Text ID="165" Percent="0" Name="Set Option 165" />
+	<Text ID="166" Percent="0" Name="Set Option 166" />
+	<Text ID="167" Percent="0" Name="Set Option 167" />
+	<Text ID="168" Percent="0" Name="Set Option 168" />
+	<Text ID="169" Percent="0" Name="Set Option 169" />
+	<Text ID="170" Percent="0" Name="Set Option 170" />
+	<Text ID="171" Percent="0" Name="Set Option 171" />
+	<Text ID="172" Percent="0" Name="Set Option 172" />
+	<Text ID="173" Percent="0" Name="Set Option 173" />
+	<Text ID="174" Percent="0" Name="Set Option 174" />
+	<Text ID="175" Percent="0" Name="Set Option 175" />
+	<Text ID="176" Percent="0" Name="Set Option 176" />
+	<Text ID="177" Percent="0" Name="Set Option 177" />
+	<Text ID="178" Percent="0" Name="Set Option 178" />
+	<Text ID="179" Percent="0" Name="Set Option 179" />
+	<Text ID="180" Percent="0" Name="Set Option 180" />
+	<Text ID="181" Percent="0" Name="Set Option 181" />
+	<Text ID="182" Percent="0" Name="Set Option 182" />
+	<Text ID="183" Percent="0" Name="Set Option 183" />
+	<Text ID="184" Percent="0" Name="Set Option 184" />
+	<Text ID="185" Percent="0" Name="Set Option 185" />
+	<Text ID="186" Percent="0" Name="Set Option 186" />
+	<Text ID="187" Percent="0" Name="Set Option 187" />
+	<Text ID="188" Percent="0" Name="Set Option 188" />
+	<Text ID="189" Percent="0" Name="Set Option 189" />
+	<Text ID="190" Percent="0" Name="Set Option 190" />
+	<Text ID="191" Percent="0" Name="Set Option 191" />
+	<Text ID="192" Percent="0" Name="Set Option 192" />
+	<Text ID="193" Percent="0" Name="Set Option 193" />
+	<Text ID="194" Percent="0" Name="Set Option 194" />
+	<Text ID="195" Percent="0" Name="Set Option 195" />
+	<Text ID="196" Percent="0" Name="Set Option 196" />
+	<Text ID="197" Percent="0" Name="Set Option 197" />
+	<Text ID="198" Percent="0" Name="Set Option 198" />
+	<Text ID="199" Percent="0" Name="Set Option 199" />
+	<Text ID="200" Percent="0" Name="Set Option 200" />
+	<Text ID="201" Percent="0" Name="Set Option 201" />
+	<Text ID="202" Percent="0" Name="Set Option 202" />
+	<Text ID="203" Percent="0" Name="Set Option 203" />
+	<Text ID="204" Percent="0" Name="Set Option 204" />
+	<Text ID="205" Percent="0" Name="Set Option 205" />
+	<Text ID="206" Percent="0" Name="Set Option 206" />
+	<Text ID="207" Percent="0" Name="Set Option 207" />
+	<Text ID="208" Percent="0" Name="Set Option 208" />
+	<Text ID="209" Percent="0" Name="Set Option 209" />
+	<Text ID="210" Percent="0" Name="Set Option 210" />
+	<Text ID="211" Percent="0" Name="Set Option 211" />
+	<Text ID="212" Percent="0" Name="Set Option 212" />
+	<Text ID="213" Percent="0" Name="Set Option 213" />
+	<Text ID="214" Percent="0" Name="Set Option 214" />
+	<Text ID="215" Percent="0" Name="Set Option 215" />
+	<Text ID="216" Percent="0" Name="Set Option 216" />
+	<Text ID="217" Percent="0" Name="Set Option 217" />
+	<Text ID="218" Percent="0" Name="Set Option 218" />
+	<Text ID="219" Percent="0" Name="Set Option 219" />
+	<Text ID="220" Percent="0" Name="Set Option 220" />
+	<Text ID="221" Percent="0" Name="Set Option 221" />
+	<Text ID="222" Percent="0" Name="Set Option 222" />
+	<Text ID="223" Percent="0" Name="Set Option 223" />
+	<Text ID="224" Percent="0" Name="Set Option 224" />
+	<Text ID="225" Percent="0" Name="Set Option 225" />
+	<Text ID="226" Percent="0" Name="Set Option 226" />
+	<Text ID="227" Percent="0" Name="Set Option 227" />
+	<Text ID="228" Percent="0" Name="Set Option 228" />
+	<Text ID="229" Percent="0" Name="Set Option 229" />
+	<Text ID="230" Percent="0" Name="Set Option 230" />
+	<Text ID="231" Percent="0" Name="Set Option 231" />
+	<Text ID="232" Percent="0" Name="Set Option 232" />
+	<Text ID="233" Percent="0" Name="Set Option 233" />
+	<Text ID="234" Percent="0" Name="Set Option 234" />
+	<Text ID="235" Percent="0" Name="Set Option 235" />
+	<Text ID="236" Percent="0" Name="Set Option 236" />
+	<Text ID="237" Percent="0" Name="Set Option 237" />
+	<Text ID="238" Percent="0" Name="Set Option 238" />
+	<Text ID="239" Percent="0" Name="Set Option 239" />
+	<Text ID="240" Percent="0" Name="Set Option 240" />
+	<Text ID="241" Percent="0" Name="Set Option 241" />
+	<Text ID="242" Percent="0" Name="Set Option 242" />
+	<Text ID="243" Percent="0" Name="Increase Damage Strength/x" />
+	<Text ID="244" Percent="0" Name="Increase Damage Agility/x" />
+	<Text ID="245" Percent="0" Name="Increase Defense Agility/x" />
+	<Text ID="246" Percent="0" Name="Increase Defense STA/x" />
+	<Text ID="247" Percent="0" Name="Increase Wizardry Damage Energy/x" />
+	<Text ID="248" Percent="0" Name="Increase Ice Damage" />
+	<Text ID="249" Percent="0" Name="Increase Poison Damage" />
+	<Text ID="250" Percent="0" Name="Increase Lightning Damage" />
+	<Text ID="251" Percent="0" Name="Increase Fire Damage" />
+	<Text ID="252" Percent="0" Name="Increase Earth Damage" />
+	<Text ID="253" Percent="0" Name="Increase Wind Damage" />
+	<Text ID="254" Percent="0" Name="Increase Water Damage" />
+</ItemSetOptionTextList>
