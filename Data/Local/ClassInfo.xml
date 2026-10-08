@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClassInfo>
+	<Class Index="0" DescEng="Kingdom of wizards, descendant of Arca. He has a inferior physical condition but has a enormous power and can command attacking spells freely." DescVie="Sức khỏe thấp nhưng có ma lực mạnh, sử dụng không giới hạn ma thuật tấn công.">
+		<Step Level="1" Eng="Dark Wizard" Vie="Phù Thủy" />
+		<Step Level="2" Eng="Soul Master" Vie="Pháp Sư" />
+		<Step Level="3" Eng="Grand Master" Vie="Thiên Sứ" />
+		<Step Level="4" Eng="Soul Wizard" Vie="Thần Sứ" />
+	</Class>
+	<Class Index="1" DescEng="Kingdom of knights, descendant of Lorencia. With a powerful strength and swordsmanship he can handle most of the close-range weapons." DescVie="Rất mạnh trong cận chiến với sức chịu đựng cao, có khả năng sử dụng tất cả các vũ khí.">
+		<Step Level="1" Eng="Dark Knight" Vie="Chiến Binh" />
+		<Step Level="2" Eng="Blade Knight" Vie="Kỵ Sĩ" />
+		<Step Level="3" Eng="Blade Master" Vie="Thiên Kiếm" />
+		<Step Level="4" Eng="Dragon Knight" Vie="Thần Kiếm" />
+	</Class>
+	<Class Index="2" DescEng="Kingdom of elves, descendants of Noria. A master of arrows and bows and commands various spells." DescVie="Sử dụng tốt Cung hoặc Nỏ nên có khả năng tấn công từ xa tốt, hoặc dùng kỹ năng hỗ trợ người khác.">
+		<Step Level="1" Eng="Elf" Vie="Tiên Nữ" />
+		<Step Level="2" Eng="Muse Elf" Vie="Thánh Nữ" />
+		<Step Level="3" Eng="High Elf" Vie="Thiên Nữ" />
+		<Step Level="4" Eng="Noble Elf" Vie="Thần Nữ" />
+	</Class>
+	<Class Index="3" DescEng="Complex character that has a characteristics of the Dark knight and Dark wizard. Master in a close-range combat and can command spells freely." DescVie="Có khả năng chiến đấu gần hoặc sử dụng các chức năng ma thuật.">
+		<Step Level="1" Eng="Magic Gladiator" Vie="Đấu Sĩ" />
+		<Step Level="3" Eng="Dual Master" Vie="Thiên Tướng" />
+		<Step Level="4" Eng="Magic Knight" Vie="Thần Tướng" />
+	</Class>
+	<Class Index="4" DescEng="Charismatic character that can command the troops and handle the Dark spirit and Dark horse." DescVie="Có năng lực lãnh đạo mạnh, có thể sử dụng Ngựa Tinh và Quạ Tinh.">
+		<Step Level="1" Eng="Dark Lord" Vie="Chúa Tể" />
+		<Step Level="3" Eng="Lord Emperor" Vie="Thiên Vương" />
+		<Step Level="4" Eng="Empire Lord" Vie="Thần Vương" />
+	</Class>
+	<Class Index="5" DescEng="Strong mentality and excellent insight creates the most powerful curse spell. Also this item pulls out another world summoners and use the detrimental sorcery against them." DescVie="Nữ thần của Elbeland sử dụng các kỹ năng phép thuật. Họ có thể triệu tập những linh vật của thế giới khác.">
+		<Step Level="1" Eng="Summoner" Vie="Thuật Sĩ" />
+		<Step Level="2" Eng="Bloody Summoner" Vie="Thuật Sư" />
+		<Step Level="3" Eng="Dimension Master" Vie="Phục Ma" />
+		<Step Level="4" Eng="Dimension Summoner" Vie="Thần Thuật" />
+	</Class>
+	<Class Index="6" DescEng="Legitimate bearers of the Karutan Royal Knights and martial artists of great physical strength. They also help other party members by casting subsidiary buffs." DescVie="Chiến Binh Hoàng Gia thuộc Karutan. Sử dụng võ thuật làm năng lực trọng tâm và bao tay để chiến đấu.">
+		<Step Level="1" Eng="Rage Fighter" Vie="Thiết Binh" />
+		<Step Level="3" Eng="Fist Master" Vie="Quyền Vương" />
+		<Step Level="4" Eng="Fist Blazer" Vie="Quyền Thần" />
+	</Class>
+	<Class Index="7" DescEng="The Last Lancer of Temple Knight Royal Guard. A balanced character that uses lance as a main weapon. They specialize in strength and agility which makes them excel at both offense and defense." DescVie="Ngọn giáo cuối cùng của đội Cận Vệ Hoàng Gia thuộc Hiệp Sĩ Đền Thánh. Dùng giáo làm vũ khí chính, giỏi Sức Mạnh và Nhanh Nhẹn nên mạnh cả công lẫn thủ.">
+		<Step Level="1" Eng="Grow Lancer" Vie="Thương Thủ" />
+		<Step Level="3" Eng="Mirage Lancer" Vie="Huyễn Thương Thủ" />
+		<Step Level="4" Eng="Shining Lancer" Vie="Quang Thương Thủ" />
+	</Class>
+	<Class Index="8" DescEng="A half-elf who was born between a human Wizard and an Elf. She uses unique spells with the magic power of human wizard and Rune." DescVie="Nửa tiên, sinh ra giữa một Phù Thủy loài người và một Tiên Nữ. Dùng phép thuật độc đáo kết hợp ma lực loài người với sức mạnh của Rune.">
+		<Step Level="1" Eng="Rune Mage" Vie="Phù Văn Sư" />
+		<Step Level="2" Eng="Rune Spell Master" Vie="Phù Văn Pháp Sư" />
+		<Step Level="3" Eng="Rune Grand Master" Vie="Phù Văn Đại Sư" />
+		<Step Level="4" Eng="Majestic Rune Mage" Vie="Phù Văn Thánh Sư" />
+	</Class>
+	<Class Index="9" DescEng="A demi-bat creature. The character quick reflexes based on the abilities of a bat." DescVie="Sinh vật nửa dơi, phản xạ nhanh nhạy nhờ năng lực của loài dơi.">
+		<Step Level="1" Eng="Slayer" Vie="Sát Thủ" />
+		<Step Level="2" Eng="Royal Slayer" Vie="Hoàng Sát Thủ" />
+		<Step Level="3" Eng="Master Slayer" Vie="Đại Sát Thủ" />
+		<Step Level="4" Eng="Slaughterer" Vie="Đồ Tể" />
+	</Class>
+	<Class Index="10" DescEng="A member of the MU Empire who survived through severe training. He has no will of his own and is loyal only to the MU Empire." DescVie="Thành viên Đế Quốc MU sống sót qua huấn luyện khắc nghiệt. Không có ý chí riêng, chỉ trung thành với Đế Quốc MU.">
+		<Step Level="1" Eng="Gun Crusher" Vie="Xạ Thủ" />
+		<Step Level="2" Eng="Gun Breaker" Vie="Pháo Thủ" />
+		<Step Level="3" Eng="Master Gun Breaker" Vie="Đại Pháo Thủ" />
+		<Step Level="4" Eng="Heist Gun Crusher" Vie="Xạ Thần" />
+	</Class>
+	<Class Index="11" DescEng="A White Wizard with the element of light, opposite element to the Dark Wizard. Uses powerful attack magic, and if you form a party with your disciple Lemuria, you can receive a buff from the bond formed." DescVie="Pháp sư Trắng hệ ánh sáng, đối nghịch Phù Thủy. Dùng ma thuật tấn công mạnh; lập tổ đội với đệ tử Lemuria sẽ nhận buff từ mối gắn kết.">
+		<Step Level="1" Eng="White Wizard: Kundun" Vie="Thánh Pháp Sư" />
+		<Step Level="2" Eng="Light Master" Vie="Quang Pháp Sư" />
+		<Step Level="3" Eng="Shine Wizard" Vie="Diệu Quang Sư" />
+		<Step Level="4" Eng="Luminous Wizard" Vie="Thánh Quang Sư" />
+	</Class>
+	<Class Index="12" DescEng="A wizard who uses an orb for attack and secondary magic. If you form a party with your master, Kundun, you will receive a buff from the bond formed." DescVie="Pháp sư dùng quả cầu để tấn công và hỗ trợ. Lập tổ đội với sư phụ Kundun sẽ nhận buff từ mối gắn kết.">
+		<Step Level="1" Eng="Mage: Lemuria" Vie="Pháp Sư: Lemuria" />
+		<Step Level="2" Eng="War Mage" Vie="Chiến Pháp Sư" />
+		<Step Level="3" Eng="Archmage" Vie="Đại Pháp Sư" />
+		<Step Level="4" Eng="Mystic Mage" Vie="Huyền Pháp Sư" />
+	</Class>
+	<Class Index="13" DescEng="Jacquard, a descendant of a Magic Gladiator born as an alter ego of Kundun, is a character who has the ability to make his weapons or himself illusionary by using the power of illusion." DescVie="Jacquard, hậu duệ Đấu Sĩ sinh ra từ phân thân của Kundun, dùng sức mạnh ảo ảnh để biến vũ khí hoặc chính mình thành ảo ảnh.">
+		<Step Level="1" Eng="Illusion Knight" Vie="Kỵ Sĩ Ảo Ảnh" />
+		<Step Level="2" Eng="Mirage Knight" Vie="Kỵ Sĩ Huyễn Ảnh" />
+		<Step Level="3" Eng="Illusion Master" Vie="Ảo Ảnh Tông Sư" />
+		<Step Level="4" Eng="Mystic Knight" Vie="Kỵ Sĩ Huyền Bí" />
+	</Class>
+	<Class Index="14" DescEng="A wizard who uses alchemy with wands and elixirs. Can use attack magic and party support magic created through alchemy." DescVie="Pháp sư dùng thuật giả kim với gậy phép và tiên dược. Dùng được ma thuật tấn công và ma thuật hỗ trợ tổ đội tạo từ giả kim.">
+		<Step Level="1" Eng="Alchemist" Vie="Giả Kim Sư" />
+		<Step Level="2" Eng="Alchemist Mage" Vie="Giả Kim Pháp Sư" />
+		<Step Level="3" Eng="Alchemist Master" Vie="Giả Kim Đại Sư" />
+		<Step Level="4" Eng="Alchemist Force" Vie="Giả Kim Thánh Sư" />
+	</Class>
+	<Class Index="15" DescEng="Crusaders who serve Lugard, the God of Light, wield hammers and shields blessed by light to defeat enemies and support parties with Lugard's Blessing." DescVie="Phụng sự Lugard - Thần Ánh Sáng, dùng búa và khiên được ánh sáng ban phước để diệt kẻ thù và hỗ trợ tổ đội bằng Phước Lành của Lugard.">
+		<Step Level="1" Eng="Crusader" Vie="Thánh Binh" />
+		<Step Level="2" Eng="Impact Crusader" Vie="Thánh Vệ" />
+		<Step Level="3" Eng="Master Paladin" Vie="Thánh Kỵ" />
+		<Step Level="4" Eng="Sacred Paladin" Vie="Thánh Vương" />
+	</Class>
+</ClassInfo>

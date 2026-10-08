@@ -1,0 +1,1033 @@
+<?xml version="1.0"?>
+<TextTemplate>
+ <GlobalText Index="0" Text="Level: %d | Resets: %d" />
+ <GlobalText Index="1" Text="Reconnecting..." />
+ <GlobalText Index="2" Text="Logging in..." />
+ <GlobalText Index="3" Text="Danh sách nhân vật đang chờ..." />
+ <GlobalText Index="4" Text="Thông tin nhân vật đang chờ..." />
+ <GlobalText Index="5" Text="Mua Vip" />
+ <GlobalText Index="6" Text="Chào mừng đến với cửa hàng VIP, %s!" />
+ <GlobalText Index="7" Text="Đăng ký gói VIP và nhận được nhiều quyền lợi!" />
+ <GlobalText Index="8" Text="Không hoạt động với kinh nghiệm master và party!" />
+ <GlobalText Index="9" Text="Mua %s" />
+ <GlobalText Index="10" Text="Giá" />
+ <GlobalText Index="11" Text="WCoinC: %d" />
+ <GlobalText Index="12" Text="WCoinP: %d" />
+ <GlobalText Index="13" Text="GolbinPoint: %d" />
+ <GlobalText Index="14" Text="Cảnh báo! Khi nhấn vào nút, bạn sẽ mua loại VIP tương ứng!" />
+ <GlobalText Index="15" Text="Huyết Lâu" />
+ <GlobalText Index="16" Text="Quảng Trường Quỷ" />
+ <GlobalText Index="17" Text="Hỗn Nguyên Lâu" />
+ <GlobalText Index="18" Text="Bạch Long Điện" />
+ <GlobalText Index="19" Text="Online lottery" />
+ <GlobalText Index="20" Text="Hỏi Đáp" />
+ <GlobalText Index="21" Text="Giờ Vàng Kinh Nghiệm" />
+ <GlobalText Index="22" Text="Custom Arena" />
+ <GlobalText Index="23" Text="Mưa Ngọc" />
+ <GlobalText Index="24" Text="Vua Mu" />
+ <GlobalText Index="25" Text="Sự Kiện" />
+ <GlobalText Index="26" Text="Cửa Hàng Vip" />
+ <GlobalText Index="27" Text="Bảng Xếp Hạng" />
+ <GlobalText Index="28" Text="Bảng Lệnh" />
+ <GlobalText Index="29" Text="Gói VIP : %s " />
+ <GlobalText Index="30" Text="+Day : %s" />
+ <GlobalText Index="31" Text="+Exp : %s %%" />
+ <GlobalText Index="32" Text="+Drop : %s %%" />
+ <GlobalText Index="33" Text="Bạn Không Thể Chọn Gói Thấp Hơn Vip Của Bạn Hiện Tại" />
+ <GlobalText Index="34" Text=" " />
+ <GlobalText Index="35" Text=" " />
+ <GlobalText Index="36" Text=" " />
+ <GlobalText Index="37" Text=" " />
+ <GlobalText Index="38" Text=" " />
+ <GlobalText Index="39" Text=" " />
+ <GlobalText Index="40" Text="- Kinh nghiệm: %d%%" />
+ <GlobalText Index="41" Text="- Tỷ lệ rơi đồ: %d%%" />
+ <GlobalText Index="42" Text="- Thời gian: %d ngày" />
+ <GlobalText Index="43" Text=" " />
+ <GlobalText Index="44" Text="Tùy chọn" />
+ <GlobalText Index="45" Text="Giá trị mua: %s Zen" />
+ <GlobalText Index="46" Text="Giá trị mua: %s WCoinC" />
+ <GlobalText Index="47" Text="Giá trị mua: %s WCoinP" />
+ <GlobalText Index="48" Text="Giá trị mua: %s GolbinPoint" />
+ <GlobalText Index="49" Text="Giá trị bán: %s Zen" />
+ <GlobalText Index="50" Text="Tài chính:" />
+ <GlobalText Index="51" Text="WCoinC:" />
+ <GlobalText Index="52" Text="WCoinP:" />
+ <GlobalText Index="53" Text="GolbinPoint:" />
+ <GlobalText Index="54" Text="Chào mừng!" />
+ <GlobalText Index="55" Text="Giá trị bán: %s WCoinC" />
+ <GlobalText Index="56" Text="Giá trị bán: %s WCoinP" />
+ <GlobalText Index="57" Text="Giá trị bán: %s GolbinPoint" />
+ <GlobalText Index="58" Text="WCoin" />
+ <GlobalText Index="59" Text="WPoint" />
+ <GlobalText Index="60" Text="GPoint" />
+ <GlobalText Index="61" Text="Giá trị bán: %s Ngọc Ước Nguyện" />
+ <GlobalText Index="62" Text="Giá trị bán: %s Ngọc Tâm Linh" />
+ <GlobalText Index="63" Text="Giá trị bán: %s Ngọc Hỗn Nguyên" />
+ <GlobalText Index="64" Text="Giá trị: %s" />
+ <GlobalText Index="65" Text="TvT Event" />
+ <GlobalText Index="66" Text="Xác nhận" />
+ <GlobalText Index="67" Text="Bạn có thực sự muốn mua sản phẩm này không??" />
+ <GlobalText Index="68" Text="Relife" />
+ <GlobalText Index="142" Text="Đang Khoá" />
+ <GlobalText Index="143" Text="Không Khoá" />
+ <GlobalText Index="144" Text="VIP: %d" />
+ <GlobalText Index="145" Text="Hạn VIP: %s" />
+ <GlobalText Index="146" Text="Hạn VIP: --------" />
+ <GlobalText Index="147" Text="Thông Tin Nhân Vật" />
+ <GlobalText Index="148" Text="Chỉ Số Tấn Công" />
+ <GlobalText Index="149" Text="Chỉ Số Phòng Thủ" />
+ <GlobalText Index="150" Text="Tỷ lệ tấn công thành công" />
+ <GlobalText Index="151" Text="Tỷ lệ phòng thủ thành công" />
+ <GlobalText Index="152" Text="Phản hồi st" />
+ <GlobalText Index="153" Text="Phản hồi toàn bộ st" />
+ <GlobalText Index="154" Text="Kháng Khụng" />
+ <GlobalText Index="155" Text="Tỷ lệ st chí mạng" />
+ <GlobalText Index="156" Text="Tỷ lệ phòng thủ chí mạng" />
+ <GlobalText Index="157" Text="Tỷ lệ st hoàn hảo" />
+ <GlobalText Index="158" Text="Kháng st hoàn hảo" />
+ <GlobalText Index="159" Text="Tỷ lệ st x2" />
+ <GlobalText Index="160" Text="Kháng st x2" />
+ <GlobalText Index="161" Text="Ign DEF SD" />
+ <GlobalText Index="162" Text="Ign ATK SD" />
+ <GlobalText Index="163" Text="Ign Enemy's DEF" />
+ <GlobalText Index="164" Text="Ign Enemy's ATK" />
+ <GlobalText Index="165" Text="Tỷ lệ st x3" />
+ <GlobalText Index="166" Text="Tỷ lệ giảm st" />
+ <GlobalText Index="167" Text="Phục hồi HP" />
+ <GlobalText Index="168" Text="Recovery Defen HP" />
+ <GlobalText Index="169" Text="Recovery Offen MP" />
+ <GlobalText Index="170" Text="Recovery Defen MP" />
+ <GlobalText Index="171" Text="Recovery Offen SD" />
+ <GlobalText Index="172" Text="Recovery Defen SD" />
+ <GlobalText Index="173" Text="Recovery Offen BP" />
+ <GlobalText Index="174" Text="Recovery Defen BP" />
+ <GlobalText Index="175" Text="Tiến Độ" />
+ <GlobalText Index="176" Text="Yêu Cầu: %d / %d" />
+ <GlobalText Index="177" Text="Stage: %d" />
+ 
+ 
+ 
+ 
+ <GlobalText Index="178" Text="Vòng Quay May Mắn" />
+ <GlobalText Index="179" Text="Yêu Cầu" />
+ <GlobalText Index="180" Text="WC :%s	" />
+ <GlobalText Index="181" Text="WP :%s" />
+ <GlobalText Index="182" Text="GP :%s" />
+ <GlobalText Index="183" Text="%s x%d" />
+ 
+ 
+ <GlobalText Index="184" Text="Giá bán:" />
+ <GlobalText Index="185" Text="Mật khẩu:" />
+ <GlobalText Index="186" Text="Sau VAT: %.0f" />
+ <GlobalText Index="187" Text="Bán vật phẩm" />
+ <GlobalText Index="188" Text="Chọn loại giá, nhập giá bán và mật khẩu bán." />
+ 
+ <GlobalText Index="189" Text="Hết hạn" />
+ <GlobalText Index="191" Text="Còn %lld ngày" />
+ <GlobalText Index="192" Text="Còn %lld giờ" />
+ <GlobalText Index="193" Text="Còn %lld phút" />
+ 
+ <GlobalText Index="194" Text="Chợ Trời" />
+ <GlobalText Index="195" Text="Lọc Theo Giá" />
+ 
+ <GlobalText Index="196" Text="Thử" />
+ <GlobalText Index="197" Text="Mua" />
+ 
+ <GlobalText Index="198" Text="Mua vật phẩm" />
+ <GlobalText Index="199" Text="Bạn có chắc muốn mua? ## Vật Phẩm %s ## Với Giá %s" />
+ <GlobalText Index="200" Text="Thu Hồi" />
+ <GlobalText Index="201" Text="Nhận Tiền" />
+ 
+ 
+ <GlobalText Index="202" Text="Tất Cả" />
+ <GlobalText Index="203" Text="Cá Nhân" />
+ 
+ <GlobalText Index="204" Text="Chung" />
+ <GlobalText Index="205" Text="Vũ Khí" />
+ <GlobalText Index="206" Text="Mũ" />
+ <GlobalText Index="207" Text="Áo" />
+ <GlobalText Index="208" Text="Quần" />
+ <GlobalText Index="209" Text="Tay" />
+ <GlobalText Index="210" Text="Chân" />
+ <GlobalText Index="211" Text="Cánh" />
+ <GlobalText Index="212" Text="Pet" />
+ <GlobalText Index="213" Text="Dây Chuyền" />
+ <GlobalText Index="214" Text="Nhẫn" />
+ <GlobalText Index="215" Text="Bông Tai" />
+ <GlobalText Index="216" Text="Khác" />
+ 
+ <GlobalText Index="217" Text="Quay x1" />
+ <GlobalText Index="218" Text="Quay x10" />
+ 
+ <GlobalText Index="219" Text="Có Thể Tham Gia" />
+ <GlobalText Index="220" Text="Chờ" />
+ <GlobalText Index="221" Text="Đang Vượt Tháp" />
+ <GlobalText Index="222" Text="Kết Thúc" />
+ <GlobalText Index="223" Text="Tháp Bất Tận" />
+ 
+ 
+ <GlobalText Index="224" Text="Khu %d: %s" />
+ <GlobalText Index="225" Text="%s- Tầng %d" />
+ <GlobalText Index="226" Text= "Tham Gia" />
+ 
+ 
+ <GlobalText Index="227" Text="Hoạt Động Leo Tháp Có thể Tham Gia Theo Tổ Đội Hoặc Cá Nhân" />
+ <GlobalText Index="228" Text="Máu Sẽ Được Xoá Hết Khi Người Chơi Tham Gia" />
+ <GlobalText Index="229" Text="Mỗi 10 Tầng Sẽ Có Boss - Số Tầng Càng Cao Phần Thưởng Càng Lớn" />
+ 
+ <GlobalText Index="230" Text="Tầng %d" />
+ 
+ 
+ 
+ <GlobalText Index="231" Text= "Giá Trị Cấp Sau %.2f" />
+ <GlobalText Index="232" Text="Yêu Cầu : %d" />
+ <GlobalText Index="233" Text="Nâng Cấp Nội Tại" />
+ <GlobalText Index="234" Text="Tiến Hành Nâng Cấp # Sau Khi Nâng Cấp Bạn Sẽ Nhận Buff Theo Mốc Mới" />
+ <GlobalText Index="235" Text="Đã Nâng Tối Đa" />
+ <GlobalText Index="236" Text="Thành Tựu" />
+ <GlobalText Index="237" Text="Tổng Điểm %s" />
+ <GlobalText Index="238" Text="Nội Tại" />
+ <GlobalText Index="239" Text="Quái Vật" />
+ <GlobalText Index="240" Text="Vật Phẩm" />
+ <GlobalText Index="241" Text="Sự Kiện" />
+ <GlobalText Index="242" Text="Máy Chaos" />
+ <GlobalText Index="243" Text="Tổng Hợp" />
+ <GlobalText Index="244" Text="Tẩy Lại" />
+ <GlobalText Index="245" Text="Tẩy Lại Nội Tại" />
+ <GlobalText Index="246" Text="Bạn Có Muốn Tẩy và tăng lại Không?" />
+ <GlobalText Index="247" Text="Huyết Lâu" />
+ <GlobalText Index="248" Text="Quảng Trường Quỷ" />
+ <GlobalText Index="249" Text="Hỗn Nguyên" />
+ <GlobalText Index="250" Text="Pháo Đài Sói" />
+ <GlobalText Index="251" Text="Ảo Ảnh Điện" />
+ <GlobalText Index="252" Text="Leo Tháp" />
+ <GlobalText Index="253" Text="Tham Gia" />
+ <GlobalText Index="254" Text="Hoàn Thành" />
+ <GlobalText Index="255" Text="Thất bại" />
+ <GlobalText Index="256" Text="Thành Công" />
+ <GlobalText Index="257" Text="Nhiệm Vụ: %s" />
+ <GlobalText Index="258" Text= "Level: %d/%d" />
+ <GlobalText Index="259" Text="Tổng: %lld/%lld" />
+ <GlobalText Index="260" Text= "Điểm/Cấp: %d" />
+ <GlobalText Index="261" Text=" Tại Map " />
+ <GlobalText Index="262" Text= ", LevelMin: " />
+ <GlobalText Index="263" Text=", LevelMax: " />
+ <GlobalText Index="264" Text=", Hoàn Hảo: " />
+ <GlobalText Index="265" Text=", Thần: "/>
+ <GlobalText Index="266" Text="Cần" />
+ <GlobalText Index="267" Text="Không" />
+ <GlobalText Index="268" Text= ", Hành Động: " />
+ <GlobalText Index="269" Text= "Chaos Mix (" />
+ <GlobalText Index="270" Text="Dùng Ngọc" />
+ <GlobalText Index="271" Text="Nâng Cấp Level" />
+ <GlobalText Index="272" Text="Nâng Cấp Reset" />
+ <GlobalText Index="273" Text="- Reset: %d / %d" />
+ <GlobalText Index="274" Text="Hệ thống Reset nhân vật" />
+ <GlobalText Index="275" Text="%s: %d lần" />
+ <GlobalText Index="276" Text="- Giới hạn Reset hôm nay là  " />
+ <GlobalText Index="277" Text="Donate" />
+ <GlobalText Index="278" Text="Môc Nạp" />
+ <GlobalText Index="279" Text="Nhận mã QR" />
+ <GlobalText Index="280" Text="Tỷ lệ %d%%: %s được %s WcoinC" />
+ <GlobalText Index="281" Text="Tỷ lệ khuyến mãi %d%%" />
+ <GlobalText Index="282" Text="Quét mã QR" />
+ <GlobalText Index="283" Text="Số tiền" />
+ <GlobalText Index="284" Text="Thời gian" />
+ <GlobalText Index="285" Text="Trạng thái" />
+ <GlobalText Index="286" Text="Nhập số tiền Donate:" />
+ <GlobalText Index="287" Text="Nhập mã capcha:" />
+ <GlobalText Index="288" Text="Sau khi quét mã công vui lòng đợi 5 phút,chọn lại nhân vật và nhận thường!" />
+ <GlobalText Index="289" Text="Bạn chưa nhập giá trị nạp" />
+ <GlobalText Index="290" Text="CaptCha chưa đúng" />
+ <GlobalText Index="291" Text="Hệ thống nhận thưởng Mốc Nạp" />
+ <GlobalText Index="292" Text="Bạn đã nạp: %s" />
+ <GlobalText Index="293" Text="Xem" />
+ <GlobalText Index="294" Text="Nhận" />
+ <GlobalText Index="295" Text="Đã nhận" />
+ <GlobalText Index="296" Text="Chưa đạt" />
+ <GlobalText Index="297" Text="&lt;&lt;Trở lại&gt;&gt;" />
+ <GlobalText Index="298" Text="SỰ KIỆN GAME" />
+ <GlobalText Index="299" Text="Tham gia chiến đấu" />
+ <GlobalText Index="300" Text="Sự kiện Loạn Chiến PK" />
+ <GlobalText Index="301" Text="♦️ Phần thưởng chiến thắng" />
+ <GlobalText Index="302" Text="♦️ Hướng dẫn :" />
+ <GlobalText Index="303" Text="♦️ Yêu cầu :" />
+ <GlobalText Index="304" Text="-Top 1: 10.000 WcoinC + 5 Bless" />
+ <GlobalText Index="305" Text="-Top 2 : 7.000 WcoinC + 3 Bless" />
+ <GlobalText Index="306" Text="-Top 3 : 5.000 WcoinC + 1 Bless" />
+ <GlobalText Index="307" Text="-Top 4-10 : 3.000 WcoinC" />
+ <GlobalText Index="308" Text="-Sau khi đăng ký sẽ tiến vào đấu truòng" />
+ <GlobalText Index="309" Text="-Hãy giết các đối thủ khác nhiểu nhất !" />
+ <GlobalText Index="310" Text="-Nhân vật từ cấp độ 200 trở lên" />
+ <GlobalText Index="311" Text="Đại chiến Lorencia (Loren War)" />
+ <GlobalText Index="312" Text="♦️ Phần thưởng chiến thắng" />
+ <GlobalText Index="313" Text="♦️ Hướng dẫn :" />
+ <GlobalText Index="314" Text="-Bang hội Top 1: 10.000 WcoinC" />
+ <GlobalText Index="315" Text="-Bang hội Top 2 : 7.000 WcoinC" />
+ <GlobalText Index="316" Text="-Bang hội Top 3 : 5.000 WcoinC" />
+ <GlobalText Index="317" Text="-Sau khi đăng ký sẽ tiến vào đấu truòng" />
+ <GlobalText Index="318" Text="-Hãy giết các đối thủ bang hội khác !" />
+ <GlobalText Index="319" Text="-Nhân vật phải ở trong 1 bang hội" />
+ <GlobalText Index="320" Text="-Cấp độ 200 trở lên" />
+ <GlobalText Index="321" Text="Vào khu vực chiếm đóng 1" />
+ <GlobalText Index="322" Text="Vào khu vực chiếm đóng 2" />
+ <GlobalText Index="323" Text="Vào khu vực chiếm đóng 3" />
+ <GlobalText Index="324" Text="Vào khu vực chiếm đóng 4" />
+ <GlobalText Index="325" Text="Boss khu vực 1" />
+ <GlobalText Index="326" Text="Boss khu vực 2" />
+ <GlobalText Index="327" Text="Boss khu vực 3" />
+ <GlobalText Index="328" Text="Boss khu vực 4" />
+ <GlobalText Index="329" Text="Boss khu vực 5" />
+ <GlobalText Index="330" Text="Sự kiện Boss Quân Đoàn" />
+ <GlobalText Index="331" Text="♦️ Phần thưởng chiến thắng" />
+ <GlobalText Index="332" Text="♦️ Hướng dẫn :" />
+ <GlobalText Index="333" Text="-Trang bị quý hiếm và ngọc" />
+ <GlobalText Index="334" Text="-Nhận phần thưởng WcoinC" />
+ <GlobalText Index="335" Text=" " />
+ <GlobalText Index="336" Text="-Chọn cổng Boss phù hợp" />
+ <GlobalText Index="337" Text="-Khi Boss xuất hiện hãy nhanh chóng tiêu diệt" />
+ <GlobalText Index="338" Text=" " />
+ <GlobalText Index="339" Text=" " />
+ <GlobalText Index="340" Text="Thời gian còn" />
+ <GlobalText Index="341" Text="Chào mừng bạn đến với Mu Online" />
+ <GlobalText Index="342" Text="Vui lòng lựa chọn sự kiện rồi bấm tham gia để bước vào sự kiện!" />
+ 
+ 
+ 
+ 
+ <GlobalText Index="343" Text="Cộng Nhanh Master " />
+ <GlobalText Index="344" Text="Nhập Số Bạn Muốn Cộng" />
+ <GlobalText Index="345" Text="Giá Bán %s %s " />
+ <GlobalText Index="346" Text="Giá Mua %s %s " />
+ <GlobalText Index="347" Text="Nâng Cấp" />
+ <GlobalText Index="348" Text="Hội" />
+ <GlobalText Index="349" Text="Cấp" />
+ <GlobalText Index="350" Text="Cống Hiến" />
+ <GlobalText Index="351" Text="Cống Hiến Của Tôi %s " />
+ <GlobalText Index="352" Text="Yêu Cầu: %s WC " />
+ <GlobalText Index="353" Text="Yêu Cầu: %s WP " />
+ <GlobalText Index="354" Text="Yêu Cầu: %s GP " />
+ <GlobalText Index="355" Text="Điếm Cống Hiến Cần %s/%s " />
+ <GlobalText Index="356" Text="Hội Cần Tiêu Diệt[%s] Boss [%s] " />
+ <GlobalText Index="357" Text="Nâng Cấp Guild" />
+ <GlobalText Index="358" Text="TOP" />
+ <GlobalText Index="359" Text="Hội" />
+ <GlobalText Index="360" Text="Thông Tin" />
+ <GlobalText Index="361" Text="Cống Hiến" />
+ <GlobalText Index="362" Text="Thu Mua Item" />
+ <GlobalText Index="363" Text="Item Không Đạt Yêu Cầu" />
+ <GlobalText Index="364" Text="Linh Hồn Sói Tinh" />
+ <GlobalText Index="365" Text="Sói Tấn Công" />
+ <GlobalText Index="366" Text="Sói Phòng Thủ" />
+ <GlobalText Index="367" Text="Thùng Event" />
+ <GlobalText Index="368" Text="Nhận Item Quà Tặng - Click Chuột Vào Item Để Nhận" />
+ <GlobalText Index="369" Text="Bạn Có Muốn Nhận Vật Phẩm" />
+ <GlobalText Index="370" Text="Thùng Đồ Không Còn Đủ Chỗ Vui Lòng Làm Trống" />
+ <GlobalText Index="371" Text="Sói Phòng Thủ" />
+ <GlobalText Index="372" Text="Sói Phòng Thủ" />
+ 
+ 
+ <GlobalText Index="373" Text="Grass Editor" />
+ <GlobalText Index="374" Text="Palette" />
+ <GlobalText Index="375" Text="Brush" />
+ <GlobalText Index="376" Text="Map" />
+ <GlobalText Index="377" Text="Library" />
+ <GlobalText Index="378" Text="Mix mode" />
+ <GlobalText Index="379" Text="Rescan" />
+ <GlobalText Index="380" Text="Page" />
+ <GlobalText Index="381" Text="Remove" />
+ <GlobalText Index="382" Text="Type" />
+ <GlobalText Index="383" Text="Height" />
+ <GlobalText Index="384" Text="Width" />
+ <GlobalText Index="385" Text="Wind" />
+ <GlobalText Index="386" Text="Mix" />
+ <GlobalText Index="387" Text="Brush size" />
+ <GlobalText Index="388" Text="Density" />
+ <GlobalText Index="389" Text="Tile" />
+ <GlobalText Index="390" Text="Fill" />
+ <GlobalText Index="391" Text="Clear all" />
+ <GlobalText Index="392" Text="Undo (%d)" />
+ <GlobalText Index="393" Text="LMB paint | RMB erase | CTRL+LMB apply brush to area" />
+ <GlobalText Index="394" Text="1-9 type  PgUp/Dn size  Num+/- density  Ctrl+Z undo  F5 reload" />
+ <GlobalText Index="395" Text="Wind amp" />
+ <GlobalText Index="396" Text="Wind speed" />
+ <GlobalText Index="397" Text="Wind dir" />
+ <GlobalText Index="398" Text="Fade near" />
+ <GlobalText Index="399" Text="Fade far" />
+ <GlobalText Index="400" Text="Tint R" />
+ <GlobalText Index="401" Text="Tint G" />
+ <GlobalText Index="402" Text="Tint B" />
+ <GlobalText Index="403" Text="Save" />
+ <GlobalText Index="404" Text="Reload" />
+ <GlobalText Index="405" Text="Copy" />
+ <GlobalText Index="406" Text="Saved World%d" />
+ <GlobalText Index="407" Text="SAVE FAILED World%d" />
+ <GlobalText Index="408" Text="Copied palette from World%d" />
+ <GlobalText Index="409" Text="No grass file in World%d" />
+ <GlobalText Index="410" Text="World%d | library %d | types %d" />
+ <GlobalText Index="411" Text="Added %s" />
+ <GlobalText Index="412" Text="Image load failed %s" />
+ <GlobalText Index="413" Text="Grass" />
+ <GlobalText Index="430" Text="World Editor" />
+ <GlobalText Index="431" Text="Edit mode" />
+ <GlobalText Index="432" Text="Free camera" />
+ <GlobalText Index="433" Text="Distance" />
+ <GlobalText Index="434" Text="Rotation" />
+ <GlobalText Index="435" Text="Terrain" />
+ <GlobalText Index="436" Text="Objects" />
+ <GlobalText Index="437" Text="Save" />
+ <GlobalText Index="438" Text="Load" />
+ <GlobalText Index="439" Text="Tile" />
+ <GlobalText Index="440" Text="Height" />
+ <GlobalText Index="441" Text="Light" />
+ <GlobalText Index="442" Text="Attribute" />
+ <GlobalText Index="443" Text="Brush" />
+ <GlobalText Index="444" Text="Layer %d" />
+ <GlobalText Index="445" Text="Flatten" />
+ <GlobalText Index="446" Text="Level" />
+ <GlobalText Index="447" Text="Offset" />
+ <GlobalText Index="448" Text="Apply to map" />
+ <GlobalText Index="449" Text="None" />
+ <GlobalText Index="450" Text="Safe zone" />
+ <GlobalText Index="451" Text="Character" />
+ <GlobalText Index="452" Text="No move" />
+ <GlobalText Index="453" Text="No ground" />
+ <GlobalText Index="454" Text="Water" />
+ <GlobalText Index="455" Text="Action" />
+ <GlobalText Index="456" Text="Fixed height" />
+ <GlobalText Index="457" Text="Camera up" />
+ <GlobalText Index="458" Text="No attack" />
+ <GlobalText Index="459" Text="Unknown %d" />
+ <GlobalText Index="460" Text="Nearby" />
+ <GlobalText Index="461" Text="All" />
+ <GlobalText Index="462" Text="Preview" />
+ <GlobalText Index="463" Text="Edit" />
+ <GlobalText Index="464" Text="Model" />
+ <GlobalText Index="465" Text="Range" />
+ <GlobalText Index="466" Text="Types %d | Objects %d" />
+ <GlobalText Index="467" Text="Teleport" />
+ <GlobalText Index="468" Text="Auto rotate" />
+ <GlobalText Index="469" Text="Center" />
+ <GlobalText Index="470" Text="Zoom" />
+ <GlobalText Index="471" Text="Angle" />
+ <GlobalText Index="472" Text="Grid lock" />
+ <GlobalText Index="473" Text="Height lock" />
+ <GlobalText Index="474" Text="Select lock" />
+ <GlobalText Index="475" Text="Reset" />
+ <GlobalText Index="476" Text="Drop" />
+ <GlobalText Index="477" Text="Position" />
+ <GlobalText Index="478" Text="Scale" />
+ <GlobalText Index="479" Text="World" />
+ <GlobalText Index="480" Text="Folder" />
+ <GlobalText Index="481" Text="Saved to %s" />
+ <GlobalText Index="482" Text="Loaded %s" />
+ <GlobalText Index="414" Text="Add" />
+ <GlobalText Index="415" Text="Edit" />
+ <GlobalText Index="416" Text="Rotate" />
+ <GlobalText Index="417" Text="Click bush to select | drag to move | Delete remove" />
+ <GlobalText Index="483" Text="Character Reset" />
+ <GlobalText Index="484" Text="[%s] - Next reset: %d" />
+ <GlobalText Index="485" Text="Level required" />
+ <GlobalText Index="486" Text="Resets left" />
+ <GlobalText Index="487" Text="Reset mode" />
+ <GlobalText Index="488" Text="Level / Reset required" />
+ <GlobalText Index="489" Text="Master resets left" />
+ <GlobalText Index="490" Text="Master reset mode" />
+ <GlobalText Index="491" Text="Points after reset" />
+ <GlobalText Index="492" Text="Normal Reset" />
+ <GlobalText Index="493" Text="Master Reset" />
+ <GlobalText Index="494" Text="Assign points after reset" />
+ <GlobalText Index="495" Text="Points left: %s" />
+ <GlobalText Index="496" Text="Points assigned here earn no reset reputation for the next reset." />
+ <GlobalText Index="497" Text="Turn Off Auto Reset" />
+ <GlobalText Index="498" Text="Reset Now" />
+ <GlobalText Index="499" Text="Cost" />
+ <GlobalText Index="500" Text="Zen" />
+ <GlobalText Index="501" Text="WC" />
+ <GlobalText Index="502" Text="WP" />
+ <GlobalText Index="503" Text="GP" />
+ <GlobalText Index="504" Text="Required items" />
+ <GlobalText Index="505" Text="Rewards" />
+ <GlobalText Index="506" Text="Keep Points" />
+ <GlobalText Index="507" Text="Points x Resets" />
+ <GlobalText Index="508" Text="Keep Points + Bonus" />
+ <GlobalText Index="509" Text="Inventory" />
+ <GlobalText Index="510" Text="Character" />
+ <GlobalText Index="511" Text="Party" />
+ <GlobalText Index="512" Text="Settings" />
+ <GlobalText Index="513" Text="Move" />
+ <GlobalText Index="514" Text="Ranking" />
+ <GlobalText Index="515" Text="Friends" />
+ <GlobalText Index="516" Text="Guild" />
+ <GlobalText Index="517" Text="Collection" />
+ <GlobalText Index="518" Text="Gens" />
+ <GlobalText Index="519" Text="Reset" />
+ <GlobalText Index="520" Text="Game Menu" />
+ <GlobalText Index="521" Text="System" />
+ <GlobalText Index="522" Text="Lucky Item Exchange NPC" />
+ <GlobalText Index="523" Text="Exchange or refine your Lucky Items." />
+ <GlobalText Index="524" Text="Lucky Item Exchange" />
+ <GlobalText Index="525" Text="Lucky Item Refinery" />
+ <GlobalText Index="526" Text="To tray" />
+ <GlobalText Index="527" Text="Item Shop" />
+ <GlobalText Index="528" Text="WC" />
+ <GlobalText Index="529" Text="WP" />
+ <GlobalText Index="530" Text="GP" />
+ <GlobalText Index="531" Text="Zen" />
+ <GlobalText Index="532" Text="Week %d/%d" />
+ <GlobalText Index="533" Text="Month %d/%d" />
+ <GlobalText Index="534" Text="Sold out" />
+ <GlobalText Index="535" Text="Buy" />
+ <GlobalText Index="536" Text="Total" />
+ <GlobalText Index="537" Text="Select an item to buy" />
+ <GlobalText Index="538" Text="Confirm purchase" />
+ <GlobalText Index="539" Text="Unit price:" />
+ <GlobalText Index="540" Text="Purchase successful" />
+ <GlobalText Index="541" Text="Weekly limit reached" />
+ <GlobalText Index="542" Text="Monthly limit reached" />
+ <GlobalText Index="543" Text="Not enough currency" />
+ <GlobalText Index="544" Text="Not enough inventory space" />
+ <GlobalText Index="545" Text="Busy, please try again" />
+ <GlobalText Index="546" Text="This item is no longer sold" />
+ <GlobalText Index="547" Text="Invalid quantity" />
+ <GlobalText Index="548" Text="This buff is already active" />
+ <GlobalText Index="549" Text="No items in this tab" />
+ <GlobalText Index="550" Text="Tap the icon for details" />
+ <GlobalText Index="551" Text="Balance" />
+ <GlobalText Index="552" Text="After purchase" />
+ <GlobalText Index="553" Text="Max" />
+ <GlobalText Index="554" Text="Cancel" />
+ <GlobalText Index="555" Text="Can still buy: %d" />
+ <GlobalText Index="556" Text="Duel Arena" />
+ <GlobalText Index="557" Text="Room #%d" />
+ <GlobalText Index="558" Text="1 vs 1" />
+ <GlobalText Index="559" Text="2 vs 2" />
+ <GlobalText Index="560" Text="One life" />
+ <GlobalText Index="561" Text="Kill count" />
+ <GlobalText Index="562" Text="WCoinC" />
+ <GlobalText Index="563" Text="WCoinP" />
+ <GlobalText Index="564" Text="GoblinPoint" />
+ <GlobalText Index="565" Text="Waiting" />
+ <GlobalText Index="566" Text="Preparing" />
+ <GlobalText Index="567" Text="Fighting" />
+ <GlobalText Index="568" Text="Finished" />
+ <GlobalText Index="569" Text="Create room" />
+ <GlobalText Index="570" Text="Join" />
+ <GlobalText Index="571" Text="Watch" />
+ <GlobalText Index="572" Text="Bet" />
+ <GlobalText Index="573" Text="Refresh" />
+ <GlobalText Index="574" Text="Ready" />
+ <GlobalText Index="575" Text="Cancel ready" />
+ <GlobalText Index="576" Text="Start" />
+ <GlobalText Index="577" Text="Leave" />
+ <GlobalText Index="578" Text="Approve" />
+ <GlobalText Index="579" Text="Reject" />
+ <GlobalText Index="580" Text="Kick" />
+ <GlobalText Index="581" Text="OK" />
+ <GlobalText Index="582" Text="Cancel" />
+ <GlobalText Index="583" Text="Team A" />
+ <GlobalText Index="584" Text="Team B" />
+ <GlobalText Index="585" Text="- empty -" />
+ <GlobalText Index="586" Text="Host" />
+ <GlobalText Index="587" Text="Waiting for approval" />
+ <GlobalText Index="588" Text="No rooms yet" />
+ <GlobalText Index="589" Text="Type" />
+ <GlobalText Index="590" Text="Mode" />
+ <GlobalText Index="591" Text="Currency" />
+ <GlobalText Index="592" Text="Stake" />
+ <GlobalText Index="593" Text="Min %s - Max %s (0 = no stake)" />
+ <GlobalText Index="594" Text="No stake" />
+ <GlobalText Index="595" Text="Watching: %d" />
+ <GlobalText Index="596" Text="Choose a slot" />
+ <GlobalText Index="597" Text="Pool: %s" />
+ <GlobalText Index="598" Text="Bet on" />
+ <GlobalText Index="599" Text="Amount" />
+ <GlobalText Index="600" Text="Your bet: %s on %s" />
+ <GlobalText Index="601" Text="%s defeated %s" />
+ <GlobalText Index="602" Text="Team A wins" />
+ <GlobalText Index="603" Text="Team B wins" />
+ <GlobalText Index="604" Text="Draw" />
+ <GlobalText Index="605" Text="You receive: %s %s" />
+ <GlobalText Index="606" Text="No reward for you this match" />
+ <GlobalText Index="607" Text="Rewards are sent by system mail" />
+ <GlobalText Index="608" Text="Match result" />
+ <GlobalText Index="609" Text="Following: %s" />
+ <GlobalText Index="610" Text="Not ready" />
+ <GlobalText Index="611" Text="Dead" />
+ <GlobalText Index="612" Text="Left" />
+ <GlobalText Index="613" Text="Balance: %s %s" />
+ <GlobalText Index="614" Text="Kills" />
+ <GlobalText Index="615" Text="Alive" />
+ <GlobalText Index="616" Text="Bets only during preparation" />
+ <GlobalText Index="617" Text="Arena is disabled" />
+ <GlobalText Index="618" Text="Invalid parameters" />
+ <GlobalText Index="619" Text="Not enough currency" />
+ <GlobalText Index="620" Text="Slot taken or room full" />
+ <GlobalText Index="621" Text="Only the host can do this" />
+ <GlobalText Index="622" Text="Not enough players or not everyone is ready" />
+ <GlobalText Index="623" Text="All arenas are busy, try again later" />
+ <GlobalText Index="624" Text="Player not eligible (offline, trading, in event or dead)" />
+ <GlobalText Index="625" Text="You are already in another room" />
+ <GlobalText Index="626" Text="Spectator stand is full" />
+ <GlobalText Index="627" Text="Betting closed, already bet, or fighters cannot bet" />
+ <GlobalText Index="628" Text="Spectator betting is disabled" />
+ <GlobalText Index="629" Text="Busy, try again" />
+ <GlobalText Index="630" Text="Error %d" />
+ <GlobalText Index="631" Text="Request sent, waiting for the host" />
+ <GlobalText Index="632" Text="Bet placed" />
+ <GlobalText Index="633" Text="VS" />
+ <GlobalText Index="634" Text="Fighters" />
+ <GlobalText Index="635" Text="Lv %d" />
+ <GlobalText Index="636" Text="Max" />
+ <GlobalText Index="637" Text="Ranking" />
+ <GlobalText Index="638" Text="Combat Power" />
+ <GlobalText Index="639" Text="Level" />
+ <GlobalText Index="640" Text="Reset" />
+ <GlobalText Index="641" Text="All" />
+ <GlobalText Index="642" Text="Rankings refresh every 5 minutes" />
+ <GlobalText Index="643" Text="Ranking is disabled" />
+ <GlobalText Index="644" Text="No data" />
+ <GlobalText Index="645" Text="Loading..." />
+ <GlobalText Index="646" Text="View equipment" />
+ <GlobalText Index="647" Text="Lv %d / ML %d" />
+ <GlobalText Index="648" Text="RS %d / MR %d" />
+ <GlobalText Index="649" Text="Quests" />
+ <GlobalText Index="650" Text="Quest tracker" />
+ <GlobalText Index="651" Text="Main" />
+ <GlobalText Index="652" Text="Promotion" />
+ <GlobalText Index="653" Text="Daily" />
+ <GlobalText Index="654" Text="Locked" />
+ <GlobalText Index="655" Text="Available" />
+ <GlobalText Index="656" Text="In progress" />
+ <GlobalText Index="657" Text="Ready to claim" />
+ <GlobalText Index="658" Text="Completed" />
+ <GlobalText Index="659" Text="Open journal" />
+ <GlobalText Index="660" Text="Show" />
+ <GlobalText Index="661" Text="Go" />
+ <GlobalText Index="662" Text="Accept" />
+ <GlobalText Index="663" Text="Claim" />
+ <GlobalText Index="664" Text="Track" />
+ <GlobalText Index="665" Text="Untrack" />
+ <GlobalText Index="666" Text="Objectives" />
+ <GlobalText Index="667" Text="Rewards" />
+ <GlobalText Index="668" Text="No quests" />
+ <GlobalText Index="669" Text="No tracked quests" />
+ <GlobalText Index="670" Text="Lv %u | Promotion %u" />
+ <GlobalText Index="671" Text="Required Zen: %u" />
+ <GlobalText Index="672" Text="Zen: %u" />
+ <GlobalText Index="673" Text="Points: %u" />
+ <GlobalText Index="674" Text="Promotion: %u" />
+ <GlobalText Index="675" Text="Combo unlocked" />
+ <GlobalText Index="676" Text="%u quests" />
+ <GlobalText Index="677" Text="Back" />
+ <GlobalText Index="678" Text="Route cancelled" />
+ <GlobalText Index="679" Text="Map transfer failed" />
+ <GlobalText Index="680" Text="No path to quest target" />
+ <GlobalText Index="681" Text="Request timed out" />
+ <GlobalText Index="682" Text="Processing..." />
+ <GlobalText Index="683" Text="Travelling to %s (%u, %u)" />
+ <GlobalText Index="684" Text="%u / %u" />
+ <GlobalText Index="685" Text="%s (%u, %u)" />
+ <GlobalText Index="686" Text="No reward" />
+ <GlobalText Index="687" Text="%u tracked" />
+ <GlobalText Index="688" Text="Quest NPC" />
+ <GlobalText Index="689" Text="Quests at this NPC" />
+ <GlobalText Index="690" Text="All" />
+ <GlobalText Index="691" Text="Nearby" />
+ <GlobalText Index="692" Text="Whisper" />
+ <GlobalText Index="693" Text="Party" />
+ <GlobalText Index="694" Text="Guild" />
+ <GlobalText Index="695" Text="Alliance" />
+ <GlobalText Index="696" Text="GM" />
+ <GlobalText Index="697" Text="Trade" />
+ <GlobalText Index="698" Text="Post" />
+ <GlobalText Index="699" Text="Normal" />
+ <GlobalText Index="700" Text="Gens" />
+ <GlobalText Index="701" Text="Private" />
+ <GlobalText Index="702" Text="System" />
+ <GlobalText Index="703" Text="Send" />
+ <GlobalText Index="704" Text="Press Enter to chat..." />
+ <GlobalText Index="705" Text="Tap to type..." />
+ <GlobalText Index="706" Text="ID..." />
+ <GlobalText Index="707" Text="Chat" />
+ <GlobalText Index="800" Text="Quests" />
+ <GlobalText Index="801" Text="Main" />
+ <GlobalText Index="802" Text="Class Change" />
+ <GlobalText Index="803" Text="Daily" />
+ <GlobalText Index="804" Text="%d runs left today" />
+ <GlobalText Index="805" Text="Available" />
+ <GlobalText Index="806" Text="In progress" />
+ <GlobalText Index="807" Text="Ready to turn in" />
+ <GlobalText Index="808" Text="Completed" />
+ <GlobalText Index="809" Text="Locked" />
+ <GlobalText Index="810" Text="Accept" />
+ <GlobalText Index="811" Text="Turn in" />
+ <GlobalText Index="812" Text="Abandon" />
+ <GlobalText Index="813" Text="Track" />
+ <GlobalText Index="814" Text="Untrack" />
+ <GlobalText Index="815" Text="Go" />
+ <GlobalText Index="816" Text="Objectives" />
+ <GlobalText Index="817" Text="Rewards" />
+ <GlobalText Index="818" Text="No quests" />
+ <GlobalText Index="819" Text="Required level: %d" />
+ <GlobalText Index="820" Text="Accept fee: %s zen" />
+ <GlobalText Index="821" Text="Accept at: %s" />
+ <GlobalText Index="822" Text="Turn in at: %s" />
+ <GlobalText Index="823" Text="Experience: %s" />
+ <GlobalText Index="824" Text="Zen: %s" />
+ <GlobalText Index="825" Text="WCoin: %s" />
+ <GlobalText Index="826" Text="WCoinP: %s" />
+ <GlobalText Index="827" Text="Goblin Point: %s" />
+ <GlobalText Index="828" Text="Stat points: %s" />
+ <GlobalText Index="829" Text="Class change rank %d" />
+ <GlobalText Index="830" Text="Hero bonus stat points" />
+ <GlobalText Index="831" Text="Unlock combo skill" />
+ <GlobalText Index="832" Text="Other services" />
+ <GlobalText Index="833" Text="Close" />
+ <GlobalText Index="834" Text="Quest tracker" />
+ <GlobalText Index="835" Text="No tracked quests" />
+ <GlobalText Index="836" Text="Confirm" />
+ <GlobalText Index="837" Text="No path to the target" />
+ <GlobalText Index="838" Text="Auto-moving to target..." />
+ <GlobalText Index="839" Text="Defeat %s" />
+ <GlobalText Index="840" Text="Collect %s" />
+ <GlobalText Index="841" Text="Hand in %s" />
+ <GlobalText Index="842" Text="Talk to %s" />
+ <GlobalText Index="843" Text="Go to %s" />
+ <GlobalText Index="844" Text="Reach level %s" />
+ <GlobalText Index="845" Text="Pay %s zen" />
+ <GlobalText Index="846" Text="Quests from this NPC" />
+ <GlobalText Index="847" Text="Select a quest" />
+ <GlobalText Index="848" Text="Quest accepted" />
+ <GlobalText Index="849" Text="Quest completed" />
+ <GlobalText Index="708" Text="Block" />
+ <GlobalText Index="850" Text="Select Server" />
+ <GlobalText Index="851" Text="Online: %d/%d" />
+ <GlobalText Index="852" Text="PvP" />
+ <GlobalText Index="853" Text="Non-PvP" />
+ <GlobalText Index="854" Text="Gold PvP" />
+ <GlobalText Index="855" Text="Gold" />
+ <GlobalText Index="856" Text="Auction" />
+ <GlobalText Index="857" Text="My top bids" />
+ <GlobalText Index="858" Text="Fixed price" />
+ <GlobalText Index="859" Text="Auction" />
+ <GlobalText Index="860" Text="Start price" />
+ <GlobalText Index="861" Text="Buyout" />
+ <GlobalText Index="862" Text="0 = none" />
+ <GlobalText Index="863" Text="Min raise %d%% · extends in last %d min" />
+ <GlobalText Index="864" Text="Min raise %d%%" />
+ <GlobalText Index="865" Text="AUCTION" />
+ <GlobalText Index="866" Text="Starting" />
+ <GlobalText Index="867" Text="%d bids" />
+ <GlobalText Index="868" Text="Buyout %s" />
+ <GlobalText Index="869" Text="Your top bid" />
+ <GlobalText Index="870" Text="Place bid" />
+ <GlobalText Index="871" Text="Current bid" />
+ <GlobalText Index="872" Text="Minimum" />
+ <GlobalText Index="873" Text="Your bid" />
+ <GlobalText Index="874" Text="Bid" />
+ <GlobalText Index="875" Text="Buy now" />
+ <GlobalText Index="876" Text="You are the highest bidder" />
+ <GlobalText Index="877" Text="Bid placed" />
+ <GlobalText Index="878" Text="Someone outbid you, prices refreshed" />
+ <GlobalText Index="879" Text="You already hold the top bid" />
+ <GlobalText Index="880" Text="Auctions are disabled" />
+ <GlobalText Index="881" Text="Wrong listing type" />
+ <GlobalText Index="882" Text="Buyout must be higher than the start price" />
+ <GlobalText Index="883" Text="Bid is below the minimum" />
+ <GlobalText Index="884" Text="Coming soon" />
+ <GlobalText Index="885" Text="Lv %d" />
+ <GlobalText Index="900" Text="Marketplace" />
+ <GlobalText Index="901" Text="On Sale" />
+ <GlobalText Index="902" Text="My listings" />
+ <GlobalText Index="903" Text="Item type" />
+ <GlobalText Index="904" Text="Currency" />
+ <GlobalText Index="905" Text="All" />
+ <GlobalText Index="906" Text="Weapon" />
+ <GlobalText Index="907" Text="Helm" />
+ <GlobalText Index="908" Text="Armor" />
+ <GlobalText Index="909" Text="Pants" />
+ <GlobalText Index="910" Text="Gloves" />
+ <GlobalText Index="911" Text="Boots" />
+ <GlobalText Index="912" Text="Wings" />
+ <GlobalText Index="913" Text="Pet" />
+ <GlobalText Index="914" Text="Pendant" />
+ <GlobalText Index="915" Text="Ring" />
+ <GlobalText Index="916" Text="Earring" />
+ <GlobalText Index="917" Text="Other" />
+ <GlobalText Index="918" Text="WC" />
+ <GlobalText Index="919" Text="WP" />
+ <GlobalText Index="920" Text="GP" />
+ <GlobalText Index="921" Text="Bless" />
+ <GlobalText Index="922" Text="Soul" />
+ <GlobalText Index="923" Text="Chaos" />
+ <GlobalText Index="924" Text="Life" />
+ <GlobalText Index="925" Text="Creation" />
+ <GlobalText Index="926" Text="Harmony" />
+ <GlobalText Index="927" Text="%d / %d" />
+ <GlobalText Index="928" Text="No items listed" />
+ <GlobalText Index="929" Text="Loading..." />
+ <GlobalText Index="930" Text="The marketplace is closed" />
+ <GlobalText Index="931" Text="Open the Sell tab to list an item" />
+ <GlobalText Index="932" Text="Open the Sell tab to list an item" />
+ <GlobalText Index="933" Text="%d days left" />
+ <GlobalText Index="934" Text="%d hours left" />
+ <GlobalText Index="935" Text="%d min left" />
+ <GlobalText Index="936" Text="Expired" />
+ <GlobalText Index="937" Text="Net %s" />
+ <GlobalText Index="938" Text="Buy item" />
+ <GlobalText Index="939" Text="Seller: %s" />
+ <GlobalText Index="940" Text="Price" />
+ <GlobalText Index="941" Text="Balance" />
+ <GlobalText Index="942" Text="Password" />
+ <GlobalText Index="943" Text="Buy" />
+ <GlobalText Index="944" Text="Try on" />
+ <GlobalText Index="945" Text="Cancel" />
+ <GlobalText Index="946" Text="Reset look" />
+ <GlobalText Index="947" Text="List item for sale" />
+ <GlobalText Index="948" Text="Listed for %d days" />
+ <GlobalText Index="949" Text="0 = public" />
+ <GlobalText Index="950" Text="Tax %d%%" />
+ <GlobalText Index="951" Text="You receive" />
+ <GlobalText Index="952" Text="List" />
+ <GlobalText Index="953" Text="Items and coins are delivered to your mailbox" />
+ <GlobalText Index="954" Text="Item listed" />
+ <GlobalText Index="955" Text="Purchase complete, the item was sent to your mailbox" />
+ <GlobalText Index="956" Text="This listing is no longer available" />
+ <GlobalText Index="957" Text="Wrong password" />
+ <GlobalText Index="958" Text="This listing has expired" />
+ <GlobalText Index="959" Text="Not enough currency" />
+ <GlobalText Index="960" Text="This item cannot be listed" />
+ <GlobalText Index="961" Text="This currency is disabled" />
+ <GlobalText Index="962" Text="Invalid price" />
+ <GlobalText Index="963" Text="Busy, please try again" />
+ <GlobalText Index="964" Text="You cannot buy your own listing" />
+ <GlobalText Index="965" Text="The marketplace is closed" />
+ <GlobalText Index="966" Text="The price has changed, please check again" />
+ <GlobalText Index="967" Text="Inventory slot mismatch, please try again" />
+ <GlobalText Index="968" Text="Unknown error" />
+ <GlobalText Index="969" Text="Password required" />
+ <GlobalText Index="970" Text="Sell" />
+ <GlobalText Index="971" Text="No sellable items in your inventory" />
+ <GlobalText Index="972" Text="Add account" />
+ <GlobalText Index="973" Text="Logging in" />
+ <GlobalText Index="974" Text="You can enter the resting place of Nixie. Do you want to enter?" />
+ <GlobalText Index="975" Text="Another party has entered Nixie's sanctuary. The door is closed." />
+ <GlobalText Index="976" Text="Nixie has not appeared in the sanctuary yet." />
+ <GlobalText Index="977" Text="You need Spirit Nixie's Shard to enter." />
+ <GlobalText Index="978" Text="A party member does not have Spirit Nixie's Shard." />
+ <GlobalText Index="979" Text="Only the party leader can request entry." />
+ <GlobalText Index="980" Text="All party members must be on the same map." />
+ <GlobalText Index="981" Text="Your party leader wants to enter Nixie's sanctuary. Join?" />
+ <GlobalText Index="982" Text="A party member declined or did not answer in time." />
+ <GlobalText Index="983" Text="A party member accepted." />
+ <GlobalText Index="984" Text="Waiting time exceeded. Entry cancelled." />
+ <GlobalText Index="985" Text="Time is up. You have left Nixie's sanctuary." />
+ <GlobalText Index="986" Text="Get into the magic circle to avoid death!" />
+ <GlobalText Index="987" Text="Nix's cold breath is coming." />
+ <GlobalText Index="988" Text="Friends &amp; Mail" />
+ <GlobalText Index="989" Text="Friends" />
+ <GlobalText Index="990" Text="Invites (%d)" />
+ <GlobalText Index="991" Text="Mailbox" />
+ <GlobalText Index="992" Text="Mailbox (%d)" />
+ <GlobalText Index="993" Text="+ Add friend" />
+ <GlobalText Index="994" Text="New mail" />
+ <GlobalText Index="995" Text="Character name" />
+ <GlobalText Index="996" Text="Invite" />
+ <GlobalText Index="997" Text="Friends: %d/%d" />
+ <GlobalText Index="998" Text="Sub-%d" />
+ <GlobalText Index="999" Text="Offline" />
+ <GlobalText Index="1000" Text="Mail" />
+ <GlobalText Index="1001" Text="Remove" />
+ <GlobalText Index="1002" Text="No friend invites." />
+ <GlobalText Index="1003" Text="Accept" />
+ <GlobalText Index="1004" Text="Decline" />
+ <GlobalText Index="1005" Text="Reload" />
+ <GlobalText Index="1006" Text="%d/%d mails" />
+ <GlobalText Index="1007" Text="Your mailbox is empty." />
+ <GlobalText Index="1008" Text="[Gift]" />
+ <GlobalText Index="1009" Text="&lt; Back" />
+ <GlobalText Index="1010" Text="From: %s   %s" />
+ <GlobalText Index="1011" Text="Loading mail" />
+ <GlobalText Index="1012" Text="Attached:" />
+ <GlobalText Index="1013" Text="Claim" />
+ <GlobalText Index="1014" Text="Reply" />
+ <GlobalText Index="1015" Text="Delete" />
+ <GlobalText Index="1016" Text="Claim the gift before deleting this mail." />
+ <GlobalText Index="1017" Text="To:" />
+ <GlobalText Index="1018" Text="Recipient name" />
+ <GlobalText Index="1019" Text="Message:" />
+ <GlobalText Index="1020" Text="Mail content (max 300 characters)" />
+ <GlobalText Index="1021" Text="Send" />
+ <GlobalText Index="1022" Text="Cancel" />
+ <GlobalText Index="1023" Text="Enter a recipient name and message." />
+ <GlobalText Index="1024" Text="Add friend" />
+ <GlobalText Index="1025" Text="Friend invite sent." />
+ <GlobalText Index="1026" Text="Character does not exist." />
+ <GlobalText Index="1027" Text="Your friend list is full." />
+ <GlobalText Index="1028" Text="Already friends or already invited." />
+ <GlobalText Index="1029" Text="You cannot add yourself." />
+ <GlobalText Index="1030" Text="Send mail" />
+ <GlobalText Index="1031" Text="Mail sent." />
+ <GlobalText Index="1032" Text="Recipient does not exist." />
+ <GlobalText Index="1033" Text="Recipient's mailbox is full." />
+ <GlobalText Index="1034" Text="Sending too fast or over 30 mails per day." />
+ <GlobalText Index="1035" Text="Invalid mail content." />
+ <GlobalText Index="1036" Text="Gift moved to your inventory." />
+ <GlobalText Index="1037" Text="Not enough inventory space." />
+ <GlobalText Index="1038" Text="Gift has already been claimed." />
+ <GlobalText Index="1039" Text="%s wants to be your friend." />
+ <GlobalText Index="1040" Text="You have %d unread mails (latest from %s)." />
+ <GlobalText Index="1041" Text="New mail" />
+ <GlobalText Index="1042" Text="No friends yet." />
+ <GlobalText Index="1043" Text="LIVE" />
+ <GlobalText Index="1044" Text="UPCOMING" />
+ <GlobalText Index="1045" Text="Monsters" />
+ <GlobalText Index="1046" Text="Players" />
+ <GlobalText Index="1047" Text="Remaining" />
+ <GlobalText Index="1300" Text="Party" />
+ <GlobalText Index="1301" Text="Find Party" />
+ <GlobalText Index="1302" Text="You are not in a party." />
+ <GlobalText Index="1303" Text="Invite players from the right-click menu, or post on the Find Party board." />
+ <GlobalText Index="1304" Text="Leave party" />
+ <GlobalText Index="1305" Text="Edit post" />
+ <GlobalText Index="1306" Text="Post" />
+ <GlobalText Index="1307" Text="Applicants" />
+ <GlobalText Index="1308" Text="Refresh" />
+ <GlobalText Index="1309" Text="Search" />
+ <GlobalText Index="1310" Text="Fits me" />
+ <GlobalText Index="1311" Text="Title" />
+ <GlobalText Index="1312" Text="Leader" />
+ <GlobalText Index="1313" Text="Members" />
+ <GlobalText Index="1314" Text="Level" />
+ <GlobalText Index="1315" Text="Classes" />
+ <GlobalText Index="1316" Text="All" />
+ <GlobalText Index="1317" Text="None" />
+ <GlobalText Index="1318" Text="Join mode" />
+ <GlobalText Index="1319" Text="Auto join" />
+ <GlobalText Index="1320" Text="Password" />
+ <GlobalText Index="1321" Text="Leader approval" />
+ <GlobalText Index="1322" Text="Publish" />
+ <GlobalText Index="1323" Text="Update" />
+ <GlobalText Index="1324" Text="Remove post" />
+ <GlobalText Index="1325" Text="Back" />
+ <GlobalText Index="1326" Text="Accept" />
+ <GlobalText Index="1327" Text="Reject" />
+ <GlobalText Index="1328" Text="No party posts." />
+ <GlobalText Index="1329" Text="No applicants." />
+ <GlobalText Index="1330" Text="Waiting for %s's party to accept you..." />
+ <GlobalText Index="1331" Text="Cancel request" />
+ <GlobalText Index="1332" Text="Enter party password" />
+ <GlobalText Index="1333" Text="Join" />
+ <GlobalText Index="1334" Text="Cancel" />
+ <GlobalText Index="1335" Text="New party application!" />
+ <GlobalText Index="1336" Text="Lv.%d" />
+ <GlobalText Index="1337" Text="Lv %d-%d" />
+ <GlobalText Index="1338" Text="Party %d/%d" />
+ <GlobalText Index="1339" Text="Lv.%d  ML.%d" />
+ <GlobalText Index="1340" Text="Party post published." />
+ <GlobalText Index="1341" Text="Party post removed." />
+ <GlobalText Index="1342" Text="You joined the party." />
+ <GlobalText Index="1343" Text="Request sent, waiting for the leader." />
+ <GlobalText Index="1344" Text="Your party request was rejected." />
+ <GlobalText Index="1345" Text="Wrong party password." />
+ <GlobalText Index="1346" Text="Your level does not fit this party." />
+ <GlobalText Index="1347" Text="This party is not looking for your class." />
+ <GlobalText Index="1348" Text="The party is full." />
+ <GlobalText Index="1349" Text="This party post no longer exists." />
+ <GlobalText Index="1350" Text="You are already in a party." />
+ <GlobalText Index="1351" Text="Only the party leader can do this." />
+ <GlobalText Index="1352" Text="You already have a pending party request." />
+ <GlobalText Index="1353" Text="Party request cancelled." />
+ <GlobalText Index="1354" Text="Invalid party post information." />
+ <GlobalText Index="1355" Text="This is your own party." />
+ <GlobalText Index="1356" Text="The applicant is no longer available." />
+ <GlobalText Index="1357" Text="The party post was closed." />
+ <GlobalText Index="1358" Text="The application queue is full." />
+ <GlobalText Index="1359" Text="Post Item" />
+ <GlobalText Index="1360" Text="Post" />
+ <GlobalText Index="1361" Text="Tap an item to insert its name at the cursor" />
+ <GlobalText Index="1362" Text="Your inventory is empty" />
+ <GlobalText Index="1363" Text="Type a message..." />
+ <GlobalText Index="1364" Text="Sort" />
+ <GlobalText Index="1365" Text="Split" />
+ <GlobalText Index="1366" Text="Split stack" />
+ <GlobalText Index="1367" Text="Cancel" />
+ <GlobalText Index="1368" Text="Inventory has no free slot" />
+ <GlobalText Index="4465" Text="Time remaining" />
+ <GlobalText Index="5304" Text="The Monster of the Water draws power from the spring!" />
+ <GlobalText Index="5305" Text="The God of Darkness unleashes the darkness!" />
+ <GlobalText Index="5306" Text="The boss area of the Swamp of Darkness is full." />
+ <GlobalText Index="5309" Text="The Monster of the Water has appeared!" />
+ <GlobalText Index="5310" Text="The God of Darkness has appeared!" />
+ <GlobalText Index="6045" Text="The battle in the Swamp of Darkness has ended." />
+ <GlobalText Index="6046" Text="You cannot enter the boss area right now." />
+ <GlobalText Index="6100" Text="Pentagram" />
+ <GlobalText Index="6101" Text="Fire" />
+ <GlobalText Index="6102" Text="Water" />
+ <GlobalText Index="6103" Text="Earth" />
+ <GlobalText Index="6104" Text="Wind" />
+ <GlobalText Index="6105" Text="Darkness" />
+ <GlobalText Index="6106" Text="Anger" />
+ <GlobalText Index="6107" Text="Blessing" />
+ <GlobalText Index="6108" Text="Integrity" />
+ <GlobalText Index="6109" Text="Divinity" />
+ <GlobalText Index="6110" Text="Radiance" />
+ <GlobalText Index="6113" Text="Slot of %s (%d)" />
+<GlobalText Index="6114" Text="%s Element" />
+ <GlobalText Index="6115" Text="No Pentagram equipped" />
+ <GlobalText Index="6116" Text="Elemental Damage: %d ~ %d" />
+ <GlobalText Index="6117" Text="Elemental Defense: %d" />
+ <GlobalText Index="6118" Text="None" />
+ <GlobalText Index="6119" Text="Locked" />
+ <GlobalText Index="6120" Text="%d Rank Errtel" />
+<GlobalText Index="6121" Text="%d Rank Option +%d" />
+ <GlobalText Index="6122" Text="You need %s Errtel %d Rank %d Level" />
+ <GlobalText Index="6129" Text="No suitable item in your inventory" />
+ <GlobalText Index="6131" Text="Failure destroys the Errtel" />
+ <GlobalText Index="6134" Text="Remove %s" />
+ <GlobalText Index="6135" Text="Success rate: %d.%02d%%" />
+ <GlobalText Index="6136" Text="Use Spirit Stone" />
+ <GlobalText Index="6137" Text="Remove" />
+ <GlobalText Index="6138" Text="Cancel" />
+ <GlobalText Index="6139" Text="Success" />
+ <GlobalText Index="6140" Text="Failed" />
+ <GlobalText Index="6141" Text="Failed, the Errtel was destroyed" />
+ <GlobalText Index="6142" Text="Inventory is full" />
+ <GlobalText Index="6143" Text="Requirements not met" />
+ <GlobalText Index="6144" Text="Not enough zen" />
+ <GlobalText Index="6145" Text="Busy, try again later" />
+ <GlobalText Index="6147" Text="Insert into %s slot" />
+ <GlobalText Index="6148" Text="Open slot 5 by mixing at NPC Adniel (Noria)" />
+ <GlobalText Index="6155" Text="Pentagram Bonus" />
+ <GlobalText Index="6156" Text="Pentagram data has not been received from the server" />
+ <GlobalText Index="6160" Text="This Pentagram has no bonus" />
+ <GlobalText Index="6161" Text="Pentagram Info" />
+ <GlobalText Index="6162" Text="View Elemental Info" />
+ <GlobalText Index="6163" Text="Weak / No Element" />
+ <GlobalText Index="6164" Text="Inherent Element" />
+ <GlobalText Index="6165" Text="Strong Element" />
+ <GlobalText Index="6166" Text="Attack" />
+ <GlobalText Index="6167" Text="Defense" />
+ <GlobalText Index="6168" Text="Set Item Equipment Information" />
+ <GlobalText Index="6169" Text="%s Set" />
+ <GlobalText Index="6170" Text="%d Set Effect" />
+ <GlobalText Index="6171" Text="Elemental Attack Increase %d" />
+ <GlobalText Index="6172" Text="Elemental Defense Increase %d" />
+ <GlobalText Index="6173" Text="Attack Increase %d" />
+ <GlobalText Index="6174" Text="Defense Increase %d" />
+ <GlobalText Index="6175" Text="Elemental Base Defense Increase %d" />
+ <GlobalText Index="6176" Text="Elemental Damage Increase %d" />
+ <GlobalText Index="6177" Text="%s Target Elemental attack power increase +%d (%d level)" />
+ <GlobalText Index="6178" Text="%s Target Elemental defense increase +%d (%d level)" />
+ <GlobalText Index="6179" Text="Elemental Slot (%d)" />
+ <GlobalText Index="6180" Text="Requires level %d and class change %d" />
+ <GlobalText Index="6181" Text="Normal" />
+ <GlobalText Index="6182" Text="Rare" />
+ <GlobalText Index="6183" Text="Unique" />
+ <GlobalText Index="6184" Text="(%d Level)" />
+ <GlobalText Index="6185" Text="%s-%d Rank" />
+ <GlobalText Index="6186" Text="(%s Errtel of %s grade (%d order) level %d or higher required)" />
+ <GlobalText Index="6187" Text="Set Item option info" />
+</TextTemplate>
